@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "generated": "228c6533-02e3-4273-85cc-20110d864626",
+  "templates": {
+    "Status": {
+      "1": {
+        "label": "status_name",
+        "description": "Status name",
+        "values": "statuslist"
+      },
+      "t": {
+        "label": "time",
+        "description": "Duration (T for turns, s for seconds)"
+      },
+      "a": {
+        "label": "amount",
+        "description": "Amount or strength"
+      },
+      "am": {
+        "label": "amount_max",
+        "description": "Maximum strength of a stackable buff"
+      },
+      "p": {
+        "label": "probability",
+        "description": "Probability of effect triggering (used for crit and Armored)"
+      },
+      "c": {
+        "label": "comment",
+        "description": "Comment in tooltip"
+      },
+      "m": {
+        "label": "multiplier",
+        "description": "Multiplier for attack modifiers",
+        "values": [
+          { "value": "n", "description": "Normal" },
+          { "value": "m", "description": "Magna" },
+          { "value": "ex", "description": "EX" },
+          { "value": "unk", "description": "[REMOVED FROM THE GAME]" },
+          { "value": "el", "description": "Elemental" },
+          { "value": "p", "description": "Perpetuity" },
+          { "value": "u", "description": "Unique" },
+          { "value": "us", "description": "Unique Stackable ATK" },
+          { "value": "s", "description": "Seraphic" },
+          { "value": "en", "description": "Enmity/Character Enmity [+ Jammed, AX / use nen for weapon-type modifier" },
+          { "value": "st", "description": "Stamina/Character Stamina [+ Strength, AX / use nst for weapon-type modifier]" },
+          { "value": "nen", "description": "Normal Enmity [+ all weapon grid Enmity]" },
+          { "value": "nst", "description": "Normal Stamina [+ all weapon grid Stamina]" }
+        ]
+      },
+      "s": {
+        "label": "stacking",
+        "description": "Stacking or frame",
+        "values": [
+          { "value": "s", "description": "Single" },
+          { "value": "d", "description": "Dual" },
+          { "value": "ca", "description": "Charge Attack" },
+          { "value": "smn", "description": "Summon" },
+          { "value": "cs", "description": "Charge Attack/Summon" },
+          { "value": "st", "description": "Single Target" },
+          { "value": "tw", "description": "Teamwide" },
+          { "value": "u", "description": "Unique" },
+          { "value": "...", "description": "[This parameter accepts any string]" }
+        ]
+      },
+      "n": {
+        "label": "number",
+        "description": "Number of times the status takes effect"
+      },
+      "acc": {
+        "label": "accuracy",
+        "description": "Debuff accuracy"
+      },
+      "icon": {
+        "description": "Show only the icon"
+      },
+      "size": {
+        "description": "Integer width of icon image"
+      },
+      "hide": {
+        "description": "Hide parts of the status"
+      }
+    }
+  }
+}
