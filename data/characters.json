@@ -1,0 +1,4117 @@
+{
+  "schema": 1,
+  "generated": "b60bde9f-8bb3-4350-8692-6d9ad3050a88",
+  "valueLists": {
+    "characters": [
+      {
+        "value": "Abby (Promo)",
+        "description": "Abby / SR / Fire"
+      },
+      {
+        "value": "Agielba",
+        "description": "Agielba / SSR / Fire"
+      },
+      {
+        "value": "Airi Totoki",
+        "description": "Airi Totoki / SR / Earth"
+      },
+      {
+        "value": "Albert",
+        "description": "Albert / SSR / Light"
+      },
+      {
+        "value": "Alec",
+        "description": "Alec / SR / Fire"
+      },
+      {
+        "value": "Aletheia",
+        "description": "Aletheia / SSR / Earth"
+      },
+      {
+        "value": "Alistair",
+        "description": "Alistair / R / Water"
+      },
+      {
+        "value": "Aliza (Event)",
+        "description": "Aliza / SR / Fire"
+      },
+      {
+        "value": "Aliza",
+        "description": "Aliza / SSR / Fire"
+      },
+      {
+        "value": "Almeida",
+        "description": "Almeida / SR / Earth"
+      },
+      {
+        "value": "Altair",
+        "description": "Altair / SSR / Water"
+      },
+      {
+        "value": "Amira",
+        "description": "Amira / SSR / Light"
+      },
+      {
+        "value": "Amira (Promo)",
+        "description": "Amira / SR / Light"
+      },
+      {
+        "value": "Anastasia",
+        "description": "Anastasia / SR / Water"
+      },
+      {
+        "value": "Andira",
+        "description": "Andira / SSR / Wind"
+      },
+      {
+        "value": "Ange",
+        "description": "Ange / SR / Water"
+      },
+      {
+        "value": "Ange (Halloween)",
+        "description": "Ange / SR / Dark"
+      },
+      {
+        "value": "Anila",
+        "description": "Anila / SSR / Fire"
+      },
+      {
+        "value": "Anila (Event)",
+        "description": "Anila / SR / Fire"
+      },
+      {
+        "value": "Anna",
+        "description": "Anna / R / Fire"
+      },
+      {
+        "value": "Anna (SR)",
+        "description": "Anna / SR / Fire"
+      },
+      {
+        "value": "Anna (Summer)",
+        "description": "Anna / R / Fire"
+      },
+      {
+        "value": "Anre",
+        "description": "Anre / SSR / Water"
+      },
+      {
+        "value": "Anzu Futaba",
+        "description": "Anzu Futaba / SR / Earth"
+      },
+      {
+        "value": "Aoidos",
+        "description": "Aoidos / SSR / Fire"
+      },
+      {
+        "value": "Arriet",
+        "description": "Arriet / SSR / Wind"
+      },
+      {
+        "value": "Arulumaya",
+        "description": "Arulumaya / SSR / Earth"
+      },
+      {
+        "value": "Arusha",
+        "description": "Arusha / SR / Light"
+      },
+      {
+        "value": "Aster (Event)",
+        "description": "Aster / SR / Wind"
+      },
+      {
+        "value": "Augusta (Promo)",
+        "description": "Augusta / SR / Earth"
+      },
+      {
+        "value": "Ayer",
+        "description": "Ayer / SSR / Earth"
+      },
+      {
+        "value": "Bakura",
+        "description": "Bakura / R / Dark"
+      },
+      {
+        "value": "Balurga",
+        "description": "Balurga / R / Earth"
+      },
+      {
+        "value": "Baotorda",
+        "description": "Baotorda / SR / Light"
+      },
+      {
+        "value": "Barawa",
+        "description": "Barawa / R / Fire"
+      },
+      {
+        "value": "Barawa (Event)",
+        "description": "Barawa / SR / Fire"
+      },
+      {
+        "value": "Beatrix",
+        "description": "Beatrix / SSR / Dark"
+      },
+      {
+        "value": "Beatrix (Halloween)",
+        "description": "Beatrix / SR / Fire"
+      },
+      {
+        "value": "Black Knight",
+        "description": "Black Knight / SSR / Dark"
+      },
+      {
+        "value": "Bridgette",
+        "description": "Bridgette / R / Water"
+      },
+      {
+        "value": "Cagliostro",
+        "description": "Cagliostro / SSR / Earth"
+      },
+      {
+        "value": "Cagliostro (Halloween)",
+        "description": "Cagliostro / SSR / Dark"
+      },
+      {
+        "value": "Cailana",
+        "description": "Cailana / R / Water"
+      },
+      {
+        "value": "Camieux",
+        "description": "Camieux / R / Fire"
+      },
+      {
+        "value": "Camieux (Earth)",
+        "description": "Camieux / R / Earth"
+      },
+      {
+        "value": "Camieux (Summer)",
+        "description": "Camieux / SR / Water"
+      },
+      {
+        "value": "Carmelina",
+        "description": "Carmelina / SSR / Wind"
+      },
+      {
+        "value": "Carren",
+        "description": "Carren / SR / Fire"
+      },
+      {
+        "value": "Catherine",
+        "description": "Catherine / SSR / Earth"
+      },
+      {
+        "value": "Cerberus",
+        "description": "Cerberus / SSR / Dark"
+      },
+      {
+        "value": "Ceylan (Event)",
+        "description": "Ceylan / SR / Light"
+      },
+      {
+        "value": "Charlotta",
+        "description": "Charlotta / SSR / Water"
+      },
+      {
+        "value": "Charlotta (Halloween)",
+        "description": "Charlotta / SSR / Light"
+      },
+      {
+        "value": "Chat Noir",
+        "description": "Chat Noir / SSR / Water"
+      },
+      {
+        "value": "Chloe",
+        "description": "Chloe / R / Wind"
+      },
+      {
+        "value": "Christina",
+        "description": "Christina / SSR / Wind"
+      },
+      {
+        "value": "Chun-Li",
+        "description": "Chun-Li / SR / Water"
+      },
+      {
+        "value": "Clarisse",
+        "description": "Clarisse / SSR / Fire"
+      },
+      {
+        "value": "Clarisse (Holiday)",
+        "description": "Clarisse / SSR / Earth"
+      },
+      {
+        "value": "Claudia",
+        "description": "Claudia / SR / Earth"
+      },
+      {
+        "value": "Cordelia",
+        "description": "Cordelia / R / Light"
+      },
+      {
+        "value": "Cucouroux",
+        "description": "Cucouroux / SR / Fire"
+      },
+      {
+        "value": "Daetta",
+        "description": "Daetta / R / Light"
+      },
+      {
+        "value": "Daetta (SR)",
+        "description": "Daetta / SR / Light"
+      },
+      {
+        "value": "Dante",
+        "description": "Dante / R / Fire"
+      },
+      {
+        "value": "Dante (SR)",
+        "description": "Dante / SR / Fire"
+      },
+      {
+        "value": "Danua",
+        "description": "Danua / SR / Dark"
+      },
+      {
+        "value": "Danua (Summer)",
+        "description": "Danua / SSR / Dark"
+      },
+      {
+        "value": "De La Fille",
+        "description": "De La Fille / SSR / Light"
+      },
+      {
+        "value": "De La Fille (Summer)",
+        "description": "De La Fille / SSR / Light"
+      },
+      {
+        "value": "Deliford",
+        "description": "Deliford / R / Water"
+      },
+      {
+        "value": "Diantha (Promo)",
+        "description": "Diantha / SR / Water"
+      },
+      {
+        "value": "Dorothy",
+        "description": "Dorothy / SR / Fire"
+      },
+      {
+        "value": "Drusilla",
+        "description": "Drusilla / R / Fire"
+      },
+      {
+        "value": "Eahta",
+        "description": "Eahta / SSR / Earth"
+      },
+      {
+        "value": "Ejaeli",
+        "description": "Ejaeli / SR / Water"
+      },
+      {
+        "value": "Elize Lutus",
+        "description": "Elize Lutus / SR / Dark"
+      },
+      {
+        "value": "Elmelaura",
+        "description": "Elmelaura / R / Fire"
+      },
+      {
+        "value": "Elmott",
+        "description": "Elmott / SR / Fire"
+      },
+      {
+        "value": "Elmott (Summer)",
+        "description": "Elmott / SR / Fire"
+      },
+      {
+        "value": "Elta",
+        "description": "Elta / SR / Wind"
+      },
+      {
+        "value": "Erica Fontaine",
+        "description": "Erica Fontaine / SR / Light"
+      },
+      {
+        "value": "Erin",
+        "description": "Erin / SR / Water"
+      },
+      {
+        "value": "Eso",
+        "description": "Eso / R / Wind"
+      },
+      {
+        "value": "Eso (SR)",
+        "description": "Eso / SR / Wind"
+      },
+      {
+        "value": "Eugen",
+        "description": "Eugen / SR / Earth"
+      },
+      {
+        "value": "Eugen (Grand)",
+        "description": "Eugen / SSR / Earth"
+      },
+      {
+        "value": "Eugen (Summer)",
+        "description": "Eugen / SR / Earth"
+      },
+      {
+        "value": "Eustace",
+        "description": "Eustace / SSR / Earth"
+      },
+      {
+        "value": "Eustace (Halloween)",
+        "description": "Eustace / SSR / Earth"
+      },
+      {
+        "value": "Ezecrain",
+        "description": "Ezecrain / SR / Fire"
+      },
+      {
+        "value": "Farrah",
+        "description": "Farrah / R / Earth"
+      },
+      {
+        "value": "Farrah (SR)",
+        "description": "Farrah / SR / Earth"
+      },
+      {
+        "value": "Farrah (Event)",
+        "description": "Farrah / SR / Wind"
+      },
+      {
+        "value": "Feather",
+        "description": "Feather / R / Light"
+      },
+      {
+        "value": "Feather (SR)",
+        "description": "Feather / SR / Light"
+      },
+      {
+        "value": "Feena (Event)",
+        "description": "Feena / SR / Wind"
+      },
+      {
+        "value": "Feena",
+        "description": "Feena / SSR / Wind"
+      },
+      {
+        "value": "Feower",
+        "description": "Feower / SSR / Water"
+      },
+      {
+        "value": "Ferry",
+        "description": "Ferry / SR / Light"
+      },
+      {
+        "value": "Ferry (Halloween)",
+        "description": "Ferry / SR / Light"
+      },
+      {
+        "value": "Ferry (SSR)",
+        "description": "Ferry / SSR / Light"
+      },
+      {
+        "value": "Fif",
+        "description": "Fif / SSR / Light"
+      },
+      {
+        "value": "Flesselles",
+        "description": "Flesselles / R / Fire"
+      },
+      {
+        "value": "Forte",
+        "description": "Forte / SSR / Dark"
+      },
+      {
+        "value": "Galadar",
+        "description": "Galadar / R / Earth"
+      },
+      {
+        "value": "Galadar (SR)",
+        "description": "Galadar / SR / Earth"
+      },
+      {
+        "value": "Garma",
+        "description": "Garma / R / Earth"
+      },
+      {
+        "value": "Gawain",
+        "description": "Gawain / SSR / Wind"
+      },
+      {
+        "value": "Gayne",
+        "description": "Gayne / SR / Earth"
+      },
+      {
+        "value": "Gemini Sunrise",
+        "description": "Gemini Sunrise / SR / Fire"
+      },
+      {
+        "value": "Ghandagoza",
+        "description": "Ghandagoza / SSR / Fire"
+      },
+      {
+        "value": "Goblin Mage",
+        "description": "Goblin Mage / SR / Wind"
+      },
+      {
+        "value": "Hallessena",
+        "description": "Hallessena / SSR / Earth"
+      },
+      {
+        "value": "Hazen",
+        "description": "Hazen / R / Wind"
+      },
+      {
+        "value": "Hazen (SR)",
+        "description": "Hazen / SR / Wind"
+      },
+      {
+        "value": "Heles",
+        "description": "Heles / SSR / Fire"
+      },
+      {
+        "value": "Heles (Summer)",
+        "description": "Heles / SSR / Light"
+      },
+      {
+        "value": "Helnar",
+        "description": "Helnar / SR / Wind"
+      },
+      {
+        "value": "Helnar (Summer)",
+        "description": "Helnar / SR / Wind"
+      },
+      {
+        "value": "Herja",
+        "description": "Herja / R / Earth"
+      },
+      {
+        "value": "Io",
+        "description": "Io / SR / Water"
+      },
+      {
+        "value": "Io (Grand)",
+        "description": "Io / SSR / Light"
+      },
+      {
+        "value": "Io (Summer)",
+        "description": "Io / SSR / Fire"
+      },
+      {
+        "value": "Ippatsu",
+        "description": "Ippatsu / R / Fire"
+      },
+      {
+        "value": "Ippatsu (Summer)",
+        "description": "Ippatsu / R / Fire"
+      },
+      {
+        "value": "Izmir",
+        "description": "Izmir / SSR / Water"
+      },
+      {
+        "value": "J.J.",
+        "description": "J.J. / SR / Light"
+      },
+      {
+        "value": "J.J. (Summer)",
+        "description": "J.J. / SR / Earth"
+      },
+      {
+        "value": "Jamil",
+        "description": "Jamil / SR / Earth"
+      },
+      {
+        "value": "Jasmine",
+        "description": "Jasmine / R / Earth"
+      },
+      {
+        "value": "Jasmine (SR)",
+        "description": "Jasmine / SR / Earth"
+      },
+      {
+        "value": "Jeanne d'Arc",
+        "description": "Jeanne d'Arc / SSR / Light"
+      },
+      {
+        "value": "Jeanne d'Arc (Dark)",
+        "description": "Jeanne d'Arc / SSR / Dark"
+      },
+      {
+        "value": "Jessica",
+        "description": "Jessica / SR / Earth"
+      },
+      {
+        "value": "Jessica (Event)",
+        "description": "Jessica / SR / Fire"
+      },
+      {
+        "value": "Jessica (Summer)",
+        "description": "Jessica / SR / Fire"
+      },
+      {
+        "value": "Jin (Event)",
+        "description": "Jin / SR / Earth"
+      },
+      {
+        "value": "Jin (Ronin)",
+        "description": "Jin / SR / Earth"
+      },
+      {
+        "value": "Jin (Wind)",
+        "description": "Jin / SR / Wind"
+      },
+      {
+        "value": "Joel",
+        "description": "Joel / R / Water"
+      },
+      {
+        "value": "Johann",
+        "description": "Johann / SR / Light"
+      },
+      {
+        "value": "Johann (Event)",
+        "description": "Johann / SR / Light"
+      },
+      {
+        "value": "Juliet",
+        "description": "Juliet / SSR / Light"
+      },
+      {
+        "value": "Juri (Event)",
+        "description": "Juri / SR / Earth"
+      },
+      {
+        "value": "Kanako Mimura",
+        "description": "Kanako Mimura / SR / Earth"
+      },
+      {
+        "value": "Kaoru Sakuraba",
+        "description": "Kaoru Sakuraba / SR / Water"
+      },
+      {
+        "value": "Karin",
+        "description": "Karin / SR / Fire"
+      },
+      {
+        "value": "Karteira",
+        "description": "Karteira / R / Wind"
+      },
+      {
+        "value": "Karva",
+        "description": "Karva / R / Fire"
+      },
+      {
+        "value": "Katalina",
+        "description": "Katalina / SR / Water"
+      },
+      {
+        "value": "Katalina (Grand)",
+        "description": "Katalina / SSR / Water"
+      },
+      {
+        "value": "Katalina (Summer)",
+        "description": "Katalina / SR / Water"
+      },
+      {
+        "value": "Keehar",
+        "description": "Keehar / SR / Wind"
+      },
+      {
+        "value": "Korwa",
+        "description": "Korwa / SSR / Wind"
+      },
+      {
+        "value": "Koume Shirasaka",
+        "description": "Koume Shirasaka / SR / Dark"
+      },
+      {
+        "value": "Krugne",
+        "description": "Krugne / R / Wind"
+      },
+      {
+        "value": "La Coiffe",
+        "description": "La Coiffe / R / Earth"
+      },
+      {
+        "value": "Ladiva",
+        "description": "Ladiva / SR / Earth"
+      },
+      {
+        "value": "Ladiva (Holiday)",
+        "description": "Ladiva / SR / Light"
+      },
+      {
+        "value": "Lady Grey",
+        "description": "Lady Grey / SSR / Dark"
+      },
+      {
+        "value": "Laguna",
+        "description": "Laguna / SR / Earth"
+      },
+      {
+        "value": "Lamretta",
+        "description": "Lamretta / SR / Earth"
+      },
+      {
+        "value": "Lamretta (R)",
+        "description": "Lamretta / R / Fire"
+      },
+      {
+        "value": "Lancelot",
+        "description": "Lancelot / SSR / Water"
+      },
+      {
+        "value": "Lancelot (Event)",
+        "description": "Lancelot / SR / Water"
+      },
+      {
+        "value": "Lecia",
+        "description": "Lecia / SR / Wind"
+      },
+      {
+        "value": "Lecia (Grand)",
+        "description": "Lecia / SSR / Wind"
+      },
+      {
+        "value": "Lecia (Summer)",
+        "description": "Lecia / SR / Wind"
+      },
+      {
+        "value": "Lennah",
+        "description": "Lennah / SSR / Wind"
+      },
+      {
+        "value": "Leonora",
+        "description": "Leonora / R / Wind"
+      },
+      {
+        "value": "Lilele",
+        "description": "Lilele / SSR / Water"
+      },
+      {
+        "value": "Lily",
+        "description": "Lily / SSR / Water"
+      },
+      {
+        "value": "Lily (Event)",
+        "description": "Lily / SR / Water"
+      },
+      {
+        "value": "Lina",
+        "description": "Lina / SR / Fire"
+      },
+      {
+        "value": "Lowain",
+        "description": "Lowain / R / Dark"
+      },
+      {
+        "value": "Lowain (Event)",
+        "description": "Lowain / SR / Water"
+      },
+      {
+        "value": "Lowain (Summer)",
+        "description": "Lowain / R / Dark"
+      },
+      {
+        "value": "Lucius",
+        "description": "Lucius / SR / Dark"
+      },
+      {
+        "value": "Lunalu",
+        "description": "Lunalu / R / Dark"
+      },
+      {
+        "value": "Lunalu (Summer)",
+        "description": "Lunalu / R / Dark"
+      },
+      {
+        "value": "Magisa",
+        "description": "Magisa / SSR / Fire"
+      },
+      {
+        "value": "Malinda (Event)",
+        "description": "Malinda / SR / Any"
+      },
+      {
+        "value": "Mariah",
+        "description": "Mariah / SR / Earth"
+      },
+      {
+        "value": "Mary",
+        "description": "Mary / R / Fire"
+      },
+      {
+        "value": "Mary (SR)",
+        "description": "Mary / SR / Fire"
+      },
+      {
+        "value": "Mary (Summer)",
+        "description": "Mary / R / Fire"
+      },
+      {
+        "value": "Melleau",
+        "description": "Melleau / SSR / Earth"
+      },
+      {
+        "value": "Metera",
+        "description": "Metera / SSR / Wind"
+      },
+      {
+        "value": "Metera (Fire)",
+        "description": "Metera / SSR / Fire"
+      },
+      {
+        "value": "Mika Jougasaki",
+        "description": "Mika Jougasaki / SR / Dark"
+      },
+      {
+        "value": "Miku Maekawa",
+        "description": "Miku Maekawa / SR / Wind"
+      },
+      {
+        "value": "Milla Maxwell",
+        "description": "Milla Maxwell / SR / Fire"
+      },
+      {
+        "value": "Milleore",
+        "description": "Milleore / SR / Water"
+      },
+      {
+        "value": "Mimlemel",
+        "description": "Mimlemel / SR / Wind"
+      },
+      {
+        "value": "Mio Honda",
+        "description": "Mio Honda / SR / Fire"
+      },
+      {
+        "value": "Miria Akagi",
+        "description": "Miria Akagi / SR / Fire"
+      },
+      {
+        "value": "Mishra",
+        "description": "Mishra / SR / Water"
+      },
+      {
+        "value": "Mizuki Kawashima",
+        "description": "Mizuki Kawashima / SR / Water"
+      },
+      {
+        "value": "Morphe and Phoebe (Event)",
+        "description": "Morphe and Phoebe / SR / Water"
+      },
+      {
+        "value": "Naga",
+        "description": "Naga / SR / Water"
+      },
+      {
+        "value": "Naoise (Promo)",
+        "description": "Naoise / SR / Light"
+      },
+      {
+        "value": "Naoise (Event)",
+        "description": "Naoise / SR / Fire"
+      },
+      {
+        "value": "Narmaya",
+        "description": "Narmaya / SSR / Dark"
+      },
+      {
+        "value": "Narmaya (Summer)",
+        "description": "Narmaya / SSR / Water"
+      },
+      {
+        "value": "Nemone",
+        "description": "Nemone / SSR / Earth"
+      },
+      {
+        "value": "Nene",
+        "description": "Nene / R / Earth"
+      },
+      {
+        "value": "Nezahualpilli",
+        "description": "Nezahualpilli / SSR / Wind"
+      },
+      {
+        "value": "Nicholas (Event)",
+        "description": "Nicholas / SR / Light"
+      },
+      {
+        "value": "Niyon",
+        "description": "Niyon / SSR / Wind"
+      },
+      {
+        "value": "Noa",
+        "description": "Noa / SR / Light"
+      },
+      {
+        "value": "Norcel",
+        "description": "Norcel / R / Earth"
+      },
+      {
+        "value": "Novei (Promo)",
+        "description": "Novei / SR / Light"
+      },
+      {
+        "value": "Paris (Event)",
+        "description": "Paris / SR / Earth"
+      },
+      {
+        "value": "Pavidus",
+        "description": "Pavidus / R / Wind"
+      },
+      {
+        "value": "Pengy",
+        "description": "Pengy / SR / Water"
+      },
+      {
+        "value": "Pengy (Event)",
+        "description": "Pengy / SR / Water"
+      },
+      {
+        "value": "Percival",
+        "description": "Percival / SSR / Fire"
+      },
+      {
+        "value": "Percival (Summer)",
+        "description": "Percival / SSR / Fire"
+      },
+      {
+        "value": "Petra",
+        "description": "Petra / R / Wind"
+      },
+      {
+        "value": "Petra (SSR)",
+        "description": "Petra / SSR / Wind"
+      },
+      {
+        "value": "Philosophia",
+        "description": "Philosophia / R / Light"
+      },
+      {
+        "value": "Rackam",
+        "description": "Rackam / SR / Fire"
+      },
+      {
+        "value": "Rackam (Holiday)",
+        "description": "Rackam / SR / Earth"
+      },
+      {
+        "value": "Rackam (Grand)",
+        "description": "Rackam / SSR / Fire"
+      },
+      {
+        "value": "Ranko Kanzaki",
+        "description": "Ranko Kanzaki / SR / Dark"
+      },
+      {
+        "value": "Rashid",
+        "description": "Rashid / SR / Wind"
+      },
+      {
+        "value": "Redluck",
+        "description": "Redluck / SR / Earth"
+      },
+      {
+        "value": "Richard",
+        "description": "Richard / R / Water"
+      },
+      {
+        "value": "Rika Jougasaki",
+        "description": "Rika Jougasaki / SR / Fire"
+      },
+      {
+        "value": "Rin Shibuya",
+        "description": "Rin Shibuya / SR / Water"
+      },
+      {
+        "value": "Rita",
+        "description": "Rita / SR / Dark"
+      },
+      {
+        "value": "Robertina (Promo)",
+        "description": "Robertina / SR / Wind"
+      },
+      {
+        "value": "Robomi (Event)",
+        "description": "Robomi / SR / Light"
+      },
+      {
+        "value": "Romeo (Event)",
+        "description": "Romeo / SR / Water"
+      },
+      {
+        "value": "Romeo",
+        "description": "Romeo / SSR / Water"
+      },
+      {
+        "value": "Rosamia",
+        "description": "Rosamia / R / Light"
+      },
+      {
+        "value": "Rosamia (SR)",
+        "description": "Rosamia / SR / Light"
+      },
+      {
+        "value": "Rosamia (SSR)",
+        "description": "Rosamia / SSR / Light"
+      },
+      {
+        "value": "Rosetta",
+        "description": "Rosetta / SR / Wind"
+      },
+      {
+        "value": "Rosetta (Holiday)",
+        "description": "Rosetta / SSR / Dark"
+      },
+      {
+        "value": "Rosetta (Grand)",
+        "description": "Rosetta / SSR / Wind"
+      },
+      {
+        "value": "Rosine",
+        "description": "Rosine / R / Fire"
+      },
+      {
+        "value": "Ryan",
+        "description": "Ryan / R / Fire"
+      },
+      {
+        "value": "Ryan (SR)",
+        "description": "Ryan / SR / Fire"
+      },
+      {
+        "value": "Ryu",
+        "description": "Ryu / SR / Wind"
+      },
+      {
+        "value": "Sachiko Koshimizu",
+        "description": "Sachiko Koshimizu / SR / Light"
+      },
+      {
+        "value": "Sahli Lao",
+        "description": "Sahli Lao / SR / Water"
+      },
+      {
+        "value": "Sakura Shinguji",
+        "description": "Sakura Shinguji / SR / Wind"
+      },
+      {
+        "value": "Sara (Event)",
+        "description": "Sara / SR / Earth"
+      },
+      {
+        "value": "Sara",
+        "description": "Sara / SSR / Earth"
+      },
+      {
+        "value": "Sara (Summer)",
+        "description": "Sara / SR / Earth"
+      },
+      {
+        "value": "Sarunan",
+        "description": "Sarunan / SSR / Light"
+      },
+      {
+        "value": "Sarunan (Dark)",
+        "description": "Sarunan / SSR / Dark"
+      },
+      {
+        "value": "Sarya (Event)",
+        "description": "Sarya / SR / Fire"
+      },
+      {
+        "value": "Selfira (Event)",
+        "description": "Selfira / SR / Wind"
+      },
+      {
+        "value": "Sen",
+        "description": "Sen / SR / Fire"
+      },
+      {
+        "value": "Seofon",
+        "description": "Seofon / SSR / Wind"
+      },
+      {
+        "value": "Seox",
+        "description": "Seox / SSR / Dark"
+      },
+      {
+        "value": "Seruel",
+        "description": "Seruel / SSR / Light"
+      },
+      {
+        "value": "Sevilbarra",
+        "description": "Sevilbarra / SR / Wind"
+      },
+      {
+        "value": "Shao",
+        "description": "Shao / SR / Dark"
+      },
+      {
+        "value": "Siegfried",
+        "description": "Siegfried / SSR / Earth"
+      },
+      {
+        "value": "Sig",
+        "description": "Sig / SR / Water"
+      },
+      {
+        "value": "Sig (Event)",
+        "description": "Sig / SR / Water"
+      },
+      {
+        "value": "Silva",
+        "description": "Silva / SSR / Water"
+      },
+      {
+        "value": "Skull (Event)",
+        "description": "Skull / SR / Earth"
+      },
+      {
+        "value": "Societte",
+        "description": "Societte / SSR / Water"
+      },
+      {
+        "value": "Societte (Fire)",
+        "description": "Societte / SSR / Fire"
+      },
+      {
+        "value": "Sophia",
+        "description": "Sophia / SSR / Light"
+      },
+      {
+        "value": "Sophie",
+        "description": "Sophie / SR / Light"
+      },
+      {
+        "value": "Soriz",
+        "description": "Soriz / SR / Earth"
+      },
+      {
+        "value": "Soriz (Event)",
+        "description": "Soriz / SR / Light"
+      },
+      {
+        "value": "Stahn Aileron",
+        "description": "Stahn Aileron / SR / Fire"
+      },
+      {
+        "value": "Stan",
+        "description": "Stan / R / Wind"
+      },
+      {
+        "value": "Stan (Event)",
+        "description": "Stan / SR / Dark"
+      },
+      {
+        "value": "Suframare",
+        "description": "Suframare / R / Water"
+      },
+      {
+        "value": "Suframare (Summer)",
+        "description": "Suframare / SR / Water"
+      },
+      {
+        "value": "Sutera",
+        "description": "Sutera / SR / Wind"
+      },
+      {
+        "value": "Sutera (Fire)",
+        "description": "Sutera / SR / Fire"
+      },
+      {
+        "value": "Syr (Event)",
+        "description": "Syr / SR / Wind"
+      },
+      {
+        "value": "Tanya",
+        "description": "Tanya / R / Dark"
+      },
+      {
+        "value": "Tanya (Summer)",
+        "description": "Tanya / SR / Dark"
+      },
+      {
+        "value": "Tear Grants",
+        "description": "Tear Grants / SR / Light"
+      },
+      {
+        "value": "Teena",
+        "description": "Teena / SR / Fire"
+      },
+      {
+        "value": "Teru Tendo",
+        "description": "Teru Tendo / SR / Fire"
+      },
+      {
+        "value": "Thelonim",
+        "description": "Thelonim / R / Wind"
+      },
+      {
+        "value": "Therese (Event)",
+        "description": "Therese / SR / Water"
+      },
+      {
+        "value": "Therese",
+        "description": "Therese / SR / Fire"
+      },
+      {
+        "value": "Threo",
+        "description": "Threo / SSR / Earth"
+      },
+      {
+        "value": "Tien",
+        "description": "Tien / SSR / Fire"
+      },
+      {
+        "value": "Tsubasa Kashiwagi",
+        "description": "Tsubasa Kashiwagi / SR / Wind"
+      },
+      {
+        "value": "Tweyen",
+        "description": "Tweyen / SSR / Light"
+      },
+      {
+        "value": "Ulamnuran",
+        "description": "Ulamnuran / SR / Water"
+      },
+      {
+        "value": "Uzuki Shimamura",
+        "description": "Uzuki Shimamura / SR / Light"
+      },
+      {
+        "value": "Vane",
+        "description": "Vane / SR / Water"
+      },
+      {
+        "value": "Vane (Event)",
+        "description": "Vane / SR / Water"
+      },
+      {
+        "value": "Vania",
+        "description": "Vania / SSR / Dark"
+      },
+      {
+        "value": "Vanzza",
+        "description": "Vanzza / R / Earth"
+      },
+      {
+        "value": "Vaseraga",
+        "description": "Vaseraga / SSR / Dark"
+      },
+      {
+        "value": "Veight",
+        "description": "Veight / SSR / Dark"
+      },
+      {
+        "value": "Vermeil",
+        "description": "Vermeil / R / Light"
+      },
+      {
+        "value": "Viceroy",
+        "description": "Viceroy / R / Fire"
+      },
+      {
+        "value": "Vira",
+        "description": "Vira / SR / Dark"
+      },
+      {
+        "value": "Vira (SSR)",
+        "description": "Vira / SSR / Dark"
+      },
+      {
+        "value": "Vira (Summer)",
+        "description": "Vira / SSR / Earth"
+      },
+      {
+        "value": "Volenna",
+        "description": "Volenna / R / Earth"
+      },
+      {
+        "value": "Volenna (Event)",
+        "description": "Volenna / SR / Earth"
+      },
+      {
+        "value": "Walder",
+        "description": "Walder / R / Earth"
+      },
+      {
+        "value": "Walder (Holiday)",
+        "description": "Walder / R / Earth"
+      },
+      {
+        "value": "Walder (Summer)",
+        "description": "Walder / R / Earth"
+      },
+      {
+        "value": "Will",
+        "description": "Will / R / Dark"
+      },
+      {
+        "value": "Will (SR)",
+        "description": "Will / SR / Dark"
+      },
+      {
+        "value": "Yaia",
+        "description": "Yaia / SR / Earth"
+      },
+      {
+        "value": "Yngwie",
+        "description": "Yngwie / SSR / Water"
+      },
+      {
+        "value": "Yodarha",
+        "description": "Yodarha / R / Water"
+      },
+      {
+        "value": "Yodarha (SSR)",
+        "description": "Yodarha / SSR / Water"
+      },
+      {
+        "value": "Yuel",
+        "description": "Yuel / SSR / Fire"
+      },
+      {
+        "value": "Yuri Lowell",
+        "description": "Yuri Lowell / SR / Dark"
+      },
+      {
+        "value": "Zahlhamelina",
+        "description": "Zahlhamelina / SSR / Fire"
+      },
+      {
+        "value": "Zaja",
+        "description": "Zaja / SR / Dark"
+      },
+      {
+        "value": "Zehek",
+        "description": "Zehek / R / Dark"
+      },
+      {
+        "value": "Zehek (Event)",
+        "description": "Zehek / SR / Dark"
+      },
+      {
+        "value": "Zeta",
+        "description": "Zeta / SSR / Fire"
+      },
+      {
+        "value": "Zeta (Summer)",
+        "description": "Zeta / SSR / Light"
+      },
+      {
+        "value": "Zooey (Promo)",
+        "description": "Zooey / SSR / Light"
+      },
+      {
+        "value": "Zooey (Grand)",
+        "description": "Zooey / SSR / Dark"
+      },
+      {
+        "value": "Aster",
+        "description": "Aster / SR / Fire"
+      },
+      {
+        "value": "Sarya",
+        "description": "Sarya / SR / Light"
+      },
+      {
+        "value": "Skull",
+        "description": "Skull / SR / Dark"
+      },
+      {
+        "value": "Nicholas",
+        "description": "Nicholas / SSR / Dark"
+      },
+      {
+        "value": "Mimlemel and Stumpeye",
+        "description": "Mimlemel and Stumpeye / SR / Wind"
+      },
+      {
+        "value": "Melissabelle",
+        "description": "Melissabelle / SSR / Wind"
+      },
+      {
+        "value": "Anthuria",
+        "description": "Anthuria / SSR / Fire"
+      },
+      {
+        "value": "Tanya (SR)",
+        "description": "Tanya / SR / Dark"
+      },
+      {
+        "value": "Randall",
+        "description": "Randall / R / Water"
+      },
+      {
+        "value": "Percival (Event)",
+        "description": "Percival / SR / Fire"
+      },
+      {
+        "value": "Arulumaya (Holiday)",
+        "description": "Arulumaya / SSR / Water"
+      },
+      {
+        "value": "Sen (Holiday)",
+        "description": "Sen / SR / Wind"
+      },
+      {
+        "value": "Pamela (Promo)",
+        "description": "Pamela / SR / Water"
+      },
+      {
+        "value": "Andira (Event)",
+        "description": "Andira / SR / Wind"
+      },
+      {
+        "value": "Naoise (Fire)",
+        "description": "Naoise / SSR / Fire"
+      },
+      {
+        "value": "Lucio",
+        "description": "Lucio / SSR / Light"
+      },
+      {
+        "value": "Meteon (Event)",
+        "description": "Meteon / SR / Wind"
+      },
+      {
+        "value": "Mahira",
+        "description": "Mahira / SSR / Earth"
+      },
+      {
+        "value": "Yuisis",
+        "description": "Yuisis / SSR / Wind"
+      },
+      {
+        "value": "Lucius (Fire)",
+        "description": "Lucius / SR / Fire"
+      },
+      {
+        "value": "Cecile (Promo)",
+        "description": "Cecile / SR / Fire"
+      },
+      {
+        "value": "Nakoruru",
+        "description": "Nakoruru / SR / Light"
+      },
+      {
+        "value": "Haohmaru",
+        "description": "Haohmaru / SR / Wind"
+      },
+      {
+        "value": "Herja (SR)",
+        "description": "Herja / SR / Earth"
+      },
+      {
+        "value": "Marquiares",
+        "description": "Marquiares / SSR / Dark"
+      },
+      {
+        "value": "Mina",
+        "description": "Mina / SR / Water"
+      },
+      {
+        "value": "Albert (Event)",
+        "description": "Albert / SR / Light"
+      },
+      {
+        "value": "Razia",
+        "description": "Razia / SSR / Earth"
+      },
+      {
+        "value": "Beatrix (Summer)",
+        "description": "Beatrix / SSR / Fire"
+      },
+      {
+        "value": "Jin (Summer)",
+        "description": "Jin / SR / Earth"
+      },
+      {
+        "value": "Arisa",
+        "description": "Arisa / SR / Wind"
+      },
+      {
+        "value": "Luna",
+        "description": "Luna / SR / Dark"
+      },
+      {
+        "value": "Zeta (Dark)",
+        "description": "Zeta / SSR / Dark"
+      },
+      {
+        "value": "Orchid (Grand)",
+        "description": "Orchid / SSR / Dark"
+      },
+      {
+        "value": "Tyre",
+        "description": "Tyre / SR / Wind"
+      },
+      {
+        "value": "Lyria (Event)",
+        "description": "Lyria / SR / Any"
+      },
+      {
+        "value": "De La Fille (Earth)",
+        "description": "De La Fille / SSR / Earth"
+      },
+      {
+        "value": "Vermeil (SR)",
+        "description": "Vermeil / SR / Light"
+      },
+      {
+        "value": "Sturm (Grand)",
+        "description": "Sturm / SSR / Fire"
+      },
+      {
+        "value": "Lady Katapillar and Vira",
+        "description": "Lady Katapillar and Vira / SSR / Water"
+      },
+      {
+        "value": "Ludmila",
+        "description": "Ludmila / SR / Dark"
+      },
+      {
+        "value": "Sutera (Event)",
+        "description": "Sutera / SR / Fire"
+      },
+      {
+        "value": "Robomi",
+        "description": "Robomi / SSR / Light"
+      },
+      {
+        "value": "Io (SSR)",
+        "description": "Io / SSR / Earth"
+      },
+      {
+        "value": "Lecia (SSR)",
+        "description": "Lecia / SSR / Wind"
+      },
+      {
+        "value": "Vane (SSR)",
+        "description": "Vane / SSR / Water"
+      },
+      {
+        "value": "Lamretta (Water)",
+        "description": "Lamretta / SR / Water"
+      },
+      {
+        "value": "Katalina (Promo)",
+        "description": "Katalina / SSR / Dark"
+      },
+      {
+        "value": "Deliford (SR)",
+        "description": "Deliford / SR / Dark"
+      },
+      {
+        "value": "Cagliostro (Dark)",
+        "description": "Cagliostro / SSR / Dark"
+      },
+      {
+        "value": "Cagliostro (Event)",
+        "description": "Cagliostro / SR / Dark"
+      },
+      {
+        "value": "Drang (Grand)",
+        "description": "Drang / SSR / Water"
+      },
+      {
+        "value": "Bowman",
+        "description": "Bowman / SSR / Dark"
+      },
+      {
+        "value": "Yurius",
+        "description": "Yurius / SSR / Wind"
+      },
+      {
+        "value": "Monika",
+        "description": "Monika / SSR / Wind"
+      },
+      {
+        "value": "Medusa (Promo)",
+        "description": "Medusa / SSR / Earth"
+      },
+      {
+        "value": "Clarisse (Light)",
+        "description": "Clarisse / SSR / Light"
+      },
+      {
+        "value": "Predator",
+        "description": "Predator / SR / Dark"
+      },
+      {
+        "value": "Juri",
+        "description": "Juri / SR / Wind"
+      },
+      {
+        "value": "Cain",
+        "description": "Cain / SR / Earth"
+      },
+      {
+        "value": "Sevastien",
+        "description": "Sevastien / SR / Wind"
+      },
+      {
+        "value": "Scathacha",
+        "description": "Scathacha / SSR / Wind"
+      },
+      {
+        "value": "Charlotta (Event)",
+        "description": "Charlotta / SR / Wind"
+      },
+      {
+        "value": "Minami Nitta",
+        "description": "Minami Nitta / SR / Water"
+      },
+      {
+        "value": "Shiki Ichinose",
+        "description": "Shiki Ichinose / SR / Wind"
+      },
+      {
+        "value": "Baotorda (SSR)",
+        "description": "Baotorda / SSR / Light"
+      },
+      {
+        "value": "Jeanne d'Arc (SR)",
+        "description": "Jeanne d'Arc / SR / Light"
+      },
+      {
+        "value": "Yggdrasil",
+        "description": "Yggdrasil / SSR / Earth"
+      },
+      {
+        "value": "Jamil (Dark)",
+        "description": "Jamil / SR / Dark"
+      },
+      {
+        "value": "Walder (Event)",
+        "description": "Walder / SR / Earth"
+      },
+      {
+        "value": "Korwa (Summer)",
+        "description": "Korwa / SSR / Wind"
+      },
+      {
+        "value": "Charlotta (Summer)",
+        "description": "Charlotta / SR / Water"
+      },
+      {
+        "value": "Ayer (Summer)",
+        "description": "Ayer / SR / Earth"
+      },
+      {
+        "value": "Izmir (Summer)",
+        "description": "Izmir / SSR / Water"
+      },
+      {
+        "value": "Carren (Event)",
+        "description": "Carren / SR / Fire"
+      },
+      {
+        "value": "Siegfried (Yukata)",
+        "description": "Siegfried / SSR / Wind"
+      },
+      {
+        "value": "Chloe (Summer)",
+        "description": "Chloe / SR / Wind"
+      },
+      {
+        "value": "Ghandagoza (Summer)",
+        "description": "Ghandagoza / SR / Fire"
+      },
+      {
+        "value": "Diantha (Summer)",
+        "description": "Diantha / SSR / Water"
+      },
+      {
+        "value": "Grea",
+        "description": "Grea / SSR / Fire"
+      },
+      {
+        "value": "Grea (Event)",
+        "description": "Grea / SR / Fire"
+      },
+      {
+        "value": "Blazing Teacher Elmott",
+        "description": "Blazing Teacher Elmott / SR / Fire"
+      },
+      {
+        "value": "Ms. Miranda",
+        "description": "Ms. Miranda / SSR / Fire"
+      },
+      {
+        "value": "Mikazuki Munechika",
+        "description": "Mikazuki Munechika / SSR / Light"
+      },
+      {
+        "value": "Izuminokami Kanesada",
+        "description": "Izuminokami Kanesada / SR / Fire"
+      },
+      {
+        "value": "Yamanbagiri Kunihiro",
+        "description": "Yamanbagiri Kunihiro / SR / Earth"
+      },
+      {
+        "value": "Anne",
+        "description": "Anne / SSR / Water"
+      },
+      {
+        "value": "Owen",
+        "description": "Owen / SR / Water"
+      },
+      {
+        "value": "Nina Drango",
+        "description": "Nina Drango / SSR / Fire"
+      },
+      {
+        "value": "Dorothy and Claudia",
+        "description": "Dorothy and Claudia / SSR / Light"
+      },
+      {
+        "value": "Ezecrain (Event)",
+        "description": "Ezecrain / SR / Light"
+      },
+      {
+        "value": "Sakura Kinomoto",
+        "description": "Sakura Kinomoto / SSR / Light"
+      },
+      {
+        "value": "Vania (SR)",
+        "description": "Vania / SR / Dark"
+      },
+      {
+        "value": "Azazel",
+        "description": "Azazel / SSR / Dark"
+      },
+      {
+        "value": "Danua (Halloween)",
+        "description": "Danua / SSR / Fire"
+      },
+      {
+        "value": "Mimlemel and Pun-Kin (Halloween)",
+        "description": "Mimlemel and Pun-Kin / SR / Earth"
+      },
+      {
+        "value": "Yuel (Water)",
+        "description": "Yuel / SSR / Water"
+      },
+      {
+        "value": "Karteira (SR)",
+        "description": "Karteira / SR / Wind"
+      },
+      {
+        "value": "Yuel (Event)",
+        "description": "Yuel / SR / Water"
+      },
+      {
+        "value": "Kou",
+        "description": "Kou / SSR / Dark"
+      },
+      {
+        "value": "Vira (Grand)",
+        "description": "Vira / SSR / Light"
+      },
+      {
+        "value": "Mirin",
+        "description": "Mirin / SR / Wind"
+      },
+      {
+        "value": "Reinhardtzar",
+        "description": "Reinhardtzar / SR / Fire"
+      },
+      {
+        "value": "Lancelot (Wind)",
+        "description": "Lancelot / SSR / Wind"
+      },
+      {
+        "value": "Sophia (SR)",
+        "description": "Sophia / SR / Light"
+      },
+      {
+        "value": "Arthur (Event)",
+        "description": "Arthur / SR / Wind"
+      },
+      {
+        "value": "Levi",
+        "description": "Levi / SSR / Wind"
+      },
+      {
+        "value": "Mikasa",
+        "description": "Mikasa / SR / Wind"
+      },
+      {
+        "value": "Mary (Holiday)",
+        "description": "Mary / SSR / Light"
+      },
+      {
+        "value": "Feena (Holiday)",
+        "description": "Feena / SR / Light"
+      },
+      {
+        "value": "Mordred",
+        "description": "Mordred / SSR / Dark"
+      },
+      {
+        "value": "Mahira (Event)",
+        "description": "Mahira / SR / Earth"
+      },
+      {
+        "value": "Vajra",
+        "description": "Vajra / SSR / Water"
+      },
+      {
+        "value": "Charioce XVII",
+        "description": "Charioce XVII / SSR / Fire"
+      },
+      {
+        "value": "Olivia (Grand)",
+        "description": "Olivia / SSR / Dark"
+      },
+      {
+        "value": "Karva (SR)",
+        "description": "Karva / SR / Fire"
+      },
+      {
+        "value": "Zeta (Event)",
+        "description": "Zeta / SR / Light"
+      },
+      {
+        "value": "Vaseraga (Earth)",
+        "description": "Vaseraga / SSR / Earth"
+      },
+      {
+        "value": "Ilsa",
+        "description": "Ilsa / SSR / Earth"
+      },
+      {
+        "value": "Therese (SSR)",
+        "description": "Therese / SSR / Fire"
+      },
+      {
+        "value": "Ippatsu (SR)",
+        "description": "Ippatsu / SR / Fire"
+      },
+      {
+        "value": "Zooey (Event)",
+        "description": "Zooey / SR / Fire"
+      },
+      {
+        "value": "Zooey",
+        "description": "Zooey / SSR / Light"
+      },
+      {
+        "value": "Randall (SR)",
+        "description": "Randall / SR / Dark"
+      },
+      {
+        "value": "Medusa (Valentine)",
+        "description": "Medusa / SSR / Earth"
+      },
+      {
+        "value": "Narmaya (Valentine)",
+        "description": "Narmaya / SR / Dark"
+      },
+      {
+        "value": "Teena (Valentine)",
+        "description": "Teena / SR / Fire"
+      },
+      {
+        "value": "Sandalphon (Earth Grand)",
+        "description": "Sandalphon / SSR / Earth"
+      },
+      {
+        "value": "Sandalphon (Event)",
+        "description": "Sandalphon / SSR / Light"
+      },
+      {
+        "value": "Tiamat",
+        "description": "Tiamat / SSR / Wind"
+      },
+      {
+        "value": "Nezahualpilli (SR)",
+        "description": "Nezahualpilli / SR / Earth"
+      },
+      {
+        "value": "Arthur",
+        "description": "Arthur / SSR / Light"
+      },
+      {
+        "value": "Paris",
+        "description": "Paris / SSR / Earth"
+      },
+      {
+        "value": "Jeanne d'Arc (Summer)",
+        "description": "Jeanne d'Arc / SSR / Wind"
+      },
+      {
+        "value": "Golden Knight",
+        "description": "Golden Knight / SSR / Earth"
+      },
+      {
+        "value": "Conan Edogawa",
+        "description": "Conan Edogawa / SSR / Light"
+      },
+      {
+        "value": "Tōru Amuro",
+        "description": "Tōru Amuro / SR / Wind"
+      },
+      {
+        "value": "Alexiel",
+        "description": "Alexiel / SSR / Earth"
+      },
+      {
+        "value": "Barawa (SR)",
+        "description": "Barawa / SR / Light"
+      },
+      {
+        "value": "Jin",
+        "description": "Jin / SSR / Earth"
+      },
+      {
+        "value": "Cucouroux (SSR)",
+        "description": "Cucouroux / SSR / Water"
+      },
+      {
+        "value": "Carmelina (SR)",
+        "description": "Carmelina / SR / Earth"
+      },
+      {
+        "value": "Aliza (Water)",
+        "description": "Aliza / SR / water"
+      },
+      {
+        "value": "Soriz (SSR)",
+        "description": "Soriz / SSR / Earth"
+      },
+      {
+        "value": "Leona",
+        "description": "Leona / SR / Earth"
+      },
+      {
+        "value": "Cain (Grand)",
+        "description": "Cain / SSR / Earth"
+      },
+      {
+        "value": "Lunalu (SSR)",
+        "description": "Lunalu / SSR / Dark"
+      },
+      {
+        "value": "Spinnah",
+        "description": "Spinnah / R / Wind"
+      },
+      {
+        "value": "Joker",
+        "description": "Joker / SSR / Dark"
+      },
+      {
+        "value": "Wulf and Renie",
+        "description": "Wulf and Renie / SSR / Dark"
+      },
+      {
+        "value": "Vanzza (SR)",
+        "description": "Vanzza / SR / Earth"
+      },
+      {
+        "value": "Selfira",
+        "description": "Selfira / SSR / Wind"
+      },
+      {
+        "value": "Elta (Light)",
+        "description": "Elta / SR / Light"
+      },
+      {
+        "value": "Rosetta (Summer)",
+        "description": "Rosetta / SSR / Earth"
+      },
+      {
+        "value": "Yuisis (Yukata)",
+        "description": "Yuisis / SR / Wind"
+      },
+      {
+        "value": "Ilsa (Summer)",
+        "description": "Ilsa / SSR / Fire"
+      },
+      {
+        "value": "Naoise (Summer)",
+        "description": "Naoise / SSR / Light"
+      },
+      {
+        "value": "Olivia (Event)",
+        "description": "Olivia / SR / Dark"
+      },
+      {
+        "value": "Lilele (Summer)",
+        "description": "Lilele / SR / Water"
+      },
+      {
+        "value": "Farrah (Summer)",
+        "description": "Farrah / SR / Water"
+      },
+      {
+        "value": "Arulumaya (Yukata)",
+        "description": "Arulumaya / SR / Dark"
+      },
+      {
+        "value": "Aqours Second-Years",
+        "description": "Aqours Second-Years / SSR / Water"
+      },
+      {
+        "value": "Aqours First-Years",
+        "description": "Aqours First-Years / SSR / Earth"
+      },
+      {
+        "value": "Aqours Third-Years",
+        "description": "Aqours Third-Years / SSR / Fire"
+      },
+      {
+        "value": "You (Event)",
+        "description": "You / SR / Dark"
+      },
+      {
+        "value": "Grea (Summer)",
+        "description": "Grea / SSR / Water"
+      },
+      {
+        "value": "Almeida (Summer)",
+        "description": "Almeida / SR / Earth"
+      },
+      {
+        "value": "Pholia",
+        "description": "Pholia / SSR / Water"
+      },
+      {
+        "value": "Cailana (SR)",
+        "description": "Cailana / SR / Water"
+      },
+      {
+        "value": "Tsubasa",
+        "description": "Tsubasa / SSR / Fire"
+      },
+      {
+        "value": "Sho",
+        "description": "Sho / SSR / Wind"
+      },
+      {
+        "value": "Freezie",
+        "description": "Freezie / SSR / Dark"
+      },
+      {
+        "value": "The Lowain Bros",
+        "description": "The Lowain Bros / SR / Earth"
+      },
+      {
+        "value": "Shitori",
+        "description": "Shitori / SSR / Light"
+      },
+      {
+        "value": "Mikaboshi",
+        "description": "Mikaboshi / SSR / Fire"
+      },
+      {
+        "value": "Silva (Light)",
+        "description": "Silva / SSR / Light"
+      },
+      {
+        "value": "Cure Black and Cure White",
+        "description": "Cure Black and Cure White / SSR / Light"
+      },
+      {
+        "value": "Lady Grey (Halloween)",
+        "description": "Lady Grey / SSR / Dark"
+      },
+      {
+        "value": "Feather (Halloween)",
+        "description": "Feather / SR / Dark"
+      },
+      {
+        "value": "Europa",
+        "description": "Europa / SSR / Water"
+      },
+      {
+        "value": "Lancelot and Vane",
+        "description": "Lancelot and Vane / SSR / Fire"
+      },
+      {
+        "value": "Aglovale",
+        "description": "Aglovale / SSR / Water"
+      },
+      {
+        "value": "Arthur and Mordred",
+        "description": "Arthur and Mordred / SR / Wind"
+      },
+      {
+        "value": "Levin Sisters",
+        "description": "Levin Sisters / SSR / Light"
+      },
+      {
+        "value": "Rosine (SR)",
+        "description": "Rosine / SR / Fire"
+      },
+      {
+        "value": "Charlotta (Light)",
+        "description": "Charlotta / SSR / Light"
+      },
+      {
+        "value": "Razia (SR)",
+        "description": "Razia / SR / Earth"
+      },
+      {
+        "value": "Sevilbarra (Event)",
+        "description": "Sevilbarra / SR / Light"
+      },
+      {
+        "value": "Pecorine",
+        "description": "Pecorine / SSR / Light"
+      },
+      {
+        "value": "Kokkoro",
+        "description": "Kokkoro / SSR / Wind"
+      },
+      {
+        "value": "Karyl",
+        "description": "Karyl / SSR / Dark"
+      },
+      {
+        "value": "Metera (Holiday)",
+        "description": "Metera / SSR / Light"
+      },
+      {
+        "value": "Yaia (Holiday)",
+        "description": "Yaia / SR / Wind"
+      },
+      {
+        "value": "Alliah",
+        "description": "Alliah / SSR / Wind"
+      },
+      {
+        "value": "Shiva",
+        "description": "Shiva / SSR / Fire"
+      },
+      {
+        "value": "Kumbhira",
+        "description": "Kumbhira / SSR / Light"
+      },
+      {
+        "value": "Athena",
+        "description": "Athena / SSR / Fire"
+      },
+      {
+        "value": "Eustace (Dark)",
+        "description": "Eustace / SSR / Dark"
+      },
+      {
+        "value": "Beatrix (SR)",
+        "description": "Beatrix / SR / Earth"
+      },
+      {
+        "value": "Cassius (Event)",
+        "description": "Cassius / SR / Dark"
+      },
+      {
+        "value": "Tanya (SSR)",
+        "description": "Tanya / SSR / Dark"
+      },
+      {
+        "value": "Sen (SSR)",
+        "description": "Sen / SSR / Wind"
+      },
+      {
+        "value": "Dante and Freiheit",
+        "description": "Dante and Freiheit / SSR / Earth"
+      },
+      {
+        "value": "Catherine (SR)",
+        "description": "Catherine / SR / Earth"
+      },
+      {
+        "value": "Young Cat (Event)",
+        "description": "Young Cat / R / Any"
+      },
+      {
+        "value": "Clarisse (Valentine)",
+        "description": "Clarisse / SSR / Dark"
+      },
+      {
+        "value": "Melissabelle (Valentine)",
+        "description": "Melissabelle / SSR / Light"
+      },
+      {
+        "value": "Ferry (Grand)",
+        "description": "Ferry / SSR / Dark"
+      },
+      {
+        "value": "Heles (Wind)",
+        "description": "Heles / SSR / Wind"
+      },
+      {
+        "value": "Mirin (Light)",
+        "description": "Mirin / SR / Light"
+      },
+      {
+        "value": "Grimnir",
+        "description": "Grimnir / SSR / Wind"
+      },
+      {
+        "value": "Fraux",
+        "description": "Fraux / SSR / Fire"
+      },
+      {
+        "value": "Geisenborger",
+        "description": "Geisenborger / SSR / Light"
+      },
+      {
+        "value": "Caim",
+        "description": "Caim / SSR / Earth"
+      },
+      {
+        "value": "Estarriola",
+        "description": "Estarriola / SSR / Wind"
+      },
+      {
+        "value": "Katzelia",
+        "description": "Katzelia / SSR / Wind"
+      },
+      {
+        "value": "Haaselia",
+        "description": "Haaselia / SSR / Water"
+      },
+      {
+        "value": "Lobelia",
+        "description": "Lobelia / SSR / Earth"
+      },
+      {
+        "value": "Nier",
+        "description": "Nier / SSR / Dark"
+      },
+      {
+        "value": "Alanaan",
+        "description": "Alanaan / SSR / Fire"
+      },
+      {
+        "value": "Maria Theresa",
+        "description": "Maria Theresa / SSR / Water"
+      },
+      {
+        "value": "Yuel (Summer)",
+        "description": "Yuel / SSR / Wind"
+      },
+      {
+        "value": "Vira (Wind)",
+        "description": "Vira / SSR / Wind"
+      },
+      {
+        "value": "Korwa (SR)",
+        "description": "Korwa / SR / Wind"
+      },
+      {
+        "value": "Macula Marius",
+        "description": "Macula Marius / SSR / Water"
+      },
+      {
+        "value": "Medusa",
+        "description": "Medusa / SSR / Earth"
+      },
+      {
+        "value": "Richard (SR)",
+        "description": "Richard / SR / Dark"
+      },
+      {
+        "value": "Baal",
+        "description": "Baal / SSR / Earth"
+      },
+      {
+        "value": "Morrigna",
+        "description": "Morrigna / SSR / Wind"
+      },
+      {
+        "value": "Ladiva (SSR)",
+        "description": "Ladiva / SSR / Earth"
+      },
+      {
+        "value": "Bridgette and Cordelia",
+        "description": "Bridgette and Cordelia / SR / Light"
+      },
+      {
+        "value": "Kallen Kouzuki",
+        "description": "Kallen Kouzuki / SSR / Fire"
+      },
+      {
+        "value": "Suzaku Kururugi",
+        "description": "Suzaku Kururugi / SSR / Wind"
+      },
+      {
+        "value": "Lelouch Lamperouge",
+        "description": "Lelouch Lamperouge / SSR / Dark"
+      },
+      {
+        "value": "Philosophia (SR)",
+        "description": "Philosophia / SR / Light"
+      },
+      {
+        "value": "Kolulu",
+        "description": "Kolulu / SSR / Dark"
+      },
+      {
+        "value": "Halluel and Malluel (Summer)",
+        "description": "Halluel and Malluel / SSR / Light"
+      },
+      {
+        "value": "Sandalphon (Summer)",
+        "description": "Sandalphon / SSR / Water"
+      },
+      {
+        "value": "Cagliostro (Summer)",
+        "description": "Cagliostro / SSR / Water"
+      },
+      {
+        "value": "Friday (Summer)",
+        "description": "Friday / SR / Fire"
+      },
+      {
+        "value": "Europa (Summer)",
+        "description": "Europa / SSR / Water"
+      },
+      {
+        "value": "Lancelot and Vane (Summer)",
+        "description": "Lancelot and Vane / SR / Earth"
+      },
+      {
+        "value": "Jessica (Yukata)",
+        "description": "Jessica / SSR / Earth"
+      },
+      {
+        "value": "Cassius (Yukata)",
+        "description": "Cassius / SR / Fire"
+      },
+      {
+        "value": "Anthuria (Yukata)",
+        "description": "Anthuria / SSR / Dark"
+      },
+      {
+        "value": "Μ's Second-Years",
+        "description": "μ's Second-Years / SSR / Light"
+      },
+      {
+        "value": "Μ's First-Years",
+        "description": "μ's First-Years / SSR / Wind"
+      },
+      {
+        "value": "Μ's Third-Years",
+        "description": "μ's Third-Years / SSR / Dark"
+      },
+      {
+        "value": "Alexiel (Summer)",
+        "description": "Alexiel / SSR / Earth"
+      },
+      {
+        "value": "Leona (Yukata)",
+        "description": "Leona / SR / Water"
+      },
+      {
+        "value": "Diantha",
+        "description": "Diantha / SSR / Earth"
+      },
+      {
+        "value": "Stan and Aliza",
+        "description": "Stan and Aliza / SSR / Wind"
+      },
+      {
+        "value": "Tabina",
+        "description": "Tabina / SSR / Fire"
+      },
+      {
+        "value": "Colossus",
+        "description": "Colossus / SSR / Fire"
+      },
+      {
+        "value": "Sara (Light)",
+        "description": "Sara / SSR / Light"
+      },
+      {
+        "value": "Monika (Grand)",
+        "description": "Monika / SSR / Wind"
+      },
+      {
+        "value": "Siegfried (Fire)",
+        "description": "Siegfried / SSR / Fire"
+      },
+      {
+        "value": "La Coiffe (SR)",
+        "description": "La Coiffe / SR / Earth"
+      },
+      {
+        "value": "Zeta and Vaseraga (Halloween)",
+        "description": "Zeta and Vaseraga / SSR / Earth"
+      },
+      {
+        "value": "Hallessena (Halloween)",
+        "description": "Hallessena / SSR / Light"
+      },
+      {
+        "value": "Zaja (Halloween)",
+        "description": "Zaja / SR / Earth"
+      },
+      {
+        "value": "Societte (Wind)",
+        "description": "Societte / SSR / Wind"
+      },
+      {
+        "value": "You",
+        "description": "You / SSR / Light"
+      },
+      {
+        "value": "Adam",
+        "description": "Adam / SSR / Earth"
+      },
+      {
+        "value": "Jeanne d'Arc (Grand)",
+        "description": "Jeanne d'Arc / SSR / Light"
+      },
+      {
+        "value": "Krugne (SR)",
+        "description": "Krugne / SR / Wind"
+      },
+      {
+        "value": "Meteon (Holiday)",
+        "description": "Meteon / SSR / Wind"
+      },
+      {
+        "value": "Magisa (Holiday)",
+        "description": "Magisa / SSR / Earth"
+      },
+      {
+        "value": "Gachapin",
+        "description": "Gachapin / SSR / Wind"
+      },
+      {
+        "value": "Vira (Promo)",
+        "description": "Vira / SSR / Fire"
+      },
+      {
+        "value": "Seruel (Holiday)",
+        "description": "Seruel / SSR / Wind"
+      },
+      {
+        "value": "Narmaya (Holiday)",
+        "description": "Narmaya / SSR / Earth"
+      },
+      {
+        "value": "Kumbhira (Event)",
+        "description": "Kumbhira / SR / Light"
+      },
+      {
+        "value": "Helel ben Shalem",
+        "description": "Helel ben Shalem / SSR / Dark"
+      },
+      {
+        "value": "Joy (Event)",
+        "description": "Joy / SR / Wind"
+      },
+      {
+        "value": "Lucius (SSR)",
+        "description": "Lucius / SSR / Dark"
+      },
+      {
+        "value": "Vikala",
+        "description": "Vikala / SSR / Dark"
+      },
+      {
+        "value": "Noa (Grand)",
+        "description": "Noa / SSR / Light"
+      },
+      {
+        "value": "Yuisis (Fire)",
+        "description": "Yuisis / SSR / Fire"
+      },
+      {
+        "value": "Danua (Light)",
+        "description": "Danua / SSR / Light"
+      },
+      {
+        "value": "Ilsa (Light)",
+        "description": "Ilsa / SSR / Light"
+      },
+      {
+        "value": "Yodarha (Wind)",
+        "description": "Yodarha / SSR / Wind"
+      },
+      {
+        "value": "Scathacha (Valentine)",
+        "description": "Scathacha / SSR / Fire"
+      },
+      {
+        "value": "Grimnir (Valentine)",
+        "description": "Grimnir / SSR / Wind"
+      },
+      {
+        "value": "Rei",
+        "description": "Rei / SSR / Dark"
+      },
+      {
+        "value": "Lecia (Water)",
+        "description": "Lecia / SSR / Water"
+      },
+      {
+        "value": "Vania and Malinda",
+        "description": "Vania and Malinda / SSR / Water"
+      },
+      {
+        "value": "Seox (Event)",
+        "description": "Seox / SSR / Dark"
+      },
+      {
+        "value": "Nehan",
+        "description": "Nehan / SSR / Light"
+      },
+      {
+        "value": "Mugen",
+        "description": "Mugen / SSR / Fire"
+      },
+      {
+        "value": "Teena (Summer)",
+        "description": "Teena / SSR / Fire"
+      },
+      {
+        "value": "Sturm",
+        "description": "Sturm / SSR / Water"
+      },
+      {
+        "value": "Drang",
+        "description": "Drang / SSR / Fire"
+      },
+      {
+        "value": "Wamdus",
+        "description": "Wamdus / SSR / Water"
+      },
+      {
+        "value": "Herja (SSR)",
+        "description": "Herja / SSR / Earth"
+      },
+      {
+        "value": "Milleore and Sahli Lao",
+        "description": "Milleore and Sahli Lao / SSR / Water"
+      },
+      {
+        "value": "Fediel",
+        "description": "Fediel / SSR / Dark"
+      },
+      {
+        "value": "Reinhardtzar (Grand)",
+        "description": "Reinhardtzar / SSR / Fire"
+      },
+      {
+        "value": "Shura",
+        "description": "Shura / SSR / Water"
+      },
+      {
+        "value": "Lu Woh",
+        "description": "Lu Woh / SSR / Light"
+      },
+      {
+        "value": "New Generations",
+        "description": "New Generations / SSR / Light"
+      },
+      {
+        "value": "Predator (SSR)",
+        "description": "Predator / SSR / Dark"
+      },
+      {
+        "value": "Illnott",
+        "description": "Illnott / SSR / Fire"
+      },
+      {
+        "value": "Kaede Takagaki",
+        "description": "Kaede Takagaki / SSR / Wind"
+      },
+      {
+        "value": "Benjamin",
+        "description": "Benjamin / SSR / Earth"
+      },
+      {
+        "value": "Percival (Light)",
+        "description": "Percival / SSR / Light"
+      },
+      {
+        "value": "Satyr",
+        "description": "Satyr / SSR / Fire"
+      },
+      {
+        "value": "Naoise",
+        "description": "Naoise / SSR / Wind"
+      },
+      {
+        "value": "Pengy (SSR)",
+        "description": "Pengy / SSR / Earth"
+      },
+      {
+        "value": "Black Knight and Orchis",
+        "description": "Black Knight and Orchis / SSR / Dark"
+      },
+      {
+        "value": "Leona (Grand)",
+        "description": "Leona / SSR / Earth"
+      },
+      {
+        "value": "Kolulu (Summer)",
+        "description": "Kolulu / SSR / Water"
+      },
+      {
+        "value": "Abby",
+        "description": "Abby / SSR / Fire"
+      },
+      {
+        "value": "Siegfried (Summer)",
+        "description": "Siegfried / SSR / Water"
+      },
+      {
+        "value": "Lucio (Summer)",
+        "description": "Lucio / SSR / Water"
+      },
+      {
+        "value": "Amira (Summer)",
+        "description": "Amira / SSR / Dark"
+      },
+      {
+        "value": "Meg (Event)",
+        "description": "Meg / SR / Dark"
+      },
+      {
+        "value": "Meg (Summer)",
+        "description": "Meg / SSR / Dark"
+      },
+      {
+        "value": "Anila (Summer)",
+        "description": "Anila / SSR / Wind"
+      },
+      {
+        "value": "Rosamia (Yukata)",
+        "description": "Rosamia / SSR / Light"
+      },
+      {
+        "value": "Tyre (Yukata)",
+        "description": "Tyre / SR / Light"
+      },
+      {
+        "value": "Anthuria (Summer)",
+        "description": "Anthuria / SSR / Light"
+      },
+      {
+        "value": "Albert (Summer)",
+        "description": "Albert / SSR / Wind"
+      },
+      {
+        "value": "Ferry (Summer)",
+        "description": "Ferry / SR / Fire"
+      },
+      {
+        "value": "Silva (Summer)",
+        "description": "Silva / SSR / Earth"
+      },
+      {
+        "value": "Mimlemel (Summer)",
+        "description": "Mimlemel / SSR / Fire"
+      },
+      {
+        "value": "Cassius (Summer)",
+        "description": "Cassius / SSR / Wind"
+      },
+      {
+        "value": "Juliet (Water)",
+        "description": "Juliet / SSR / Water"
+      },
+      {
+        "value": "Joel (SR)",
+        "description": "Joel / SR / Water"
+      },
+      {
+        "value": "Hiro Ryugasaki",
+        "description": "Hiro Ryugasaki / SSR / Fire"
+      },
+      {
+        "value": "Mimori Amamiya",
+        "description": "Mimori Amamiya / SSR / Wind"
+      },
+      {
+        "value": "Gawain (Light)",
+        "description": "Gawain / SSR / Light"
+      },
+      {
+        "value": "Florence",
+        "description": "Florence / SSR / Wind"
+      },
+      {
+        "value": "Azazel (Halloween)",
+        "description": "Azazel / SSR / Fire"
+      },
+      {
+        "value": "Rosetta (Halloween)",
+        "description": "Rosetta / SSR / Water"
+      },
+      {
+        "value": "Wulf and Renie (Halloween)",
+        "description": "Wulf and Renie / SR / Dark"
+      },
+      {
+        "value": "Sutera (SSR)",
+        "description": "Sutera / SSR / Wind"
+      },
+      {
+        "value": "Mireille and Risette",
+        "description": "Mireille and Risette / SSR / Earth"
+      },
+      {
+        "value": "Feather (SSR)",
+        "description": "Feather / SSR / Light"
+      },
+      {
+        "value": "Fiorito",
+        "description": "Fiorito / SSR / Earth"
+      },
+      {
+        "value": "Mirin (Holiday)",
+        "description": "Mirin / SSR / Water"
+      },
+      {
+        "value": "Nemone (Holiday)",
+        "description": "Nemone / SSR / Fire"
+      },
+      {
+        "value": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+        "description": "Tanjiro, Nezuko, Zenitsu, and Inosuke / SSR / Water"
+      },
+      {
+        "value": "Kyojuro Rengoku",
+        "description": "Kyojuro Rengoku / SSR / Fire"
+      },
+      {
+        "value": "Shinobu Kocho",
+        "description": "Shinobu Kocho / SSR / Wind"
+      },
+      {
+        "value": "Lily (Holiday)",
+        "description": "Lily / SSR / Light"
+      },
+      {
+        "value": "Spinnah (Holiday)",
+        "description": "Spinnah / SR / Wind"
+      },
+      {
+        "value": "Vikala (Event)",
+        "description": "Vikala / r / dark"
+      },
+      {
+        "value": "Catura",
+        "description": "Catura / SSR / Wind"
+      },
+      {
+        "value": "Filene",
+        "description": "Filene / SSR / Water"
+      },
+      {
+        "value": "Nicholas (Light)",
+        "description": "Nicholas / SSR / Light"
+      },
+      {
+        "value": "Mishra (SSR)",
+        "description": "Mishra / SSR / Light"
+      },
+      {
+        "value": "Zehek (SSR)",
+        "description": "Zehek / SSR / Dark"
+      },
+      {
+        "value": "Cagliostro (Grand)",
+        "description": "Cagliostro / SSR / Light"
+      },
+      {
+        "value": "Nectar",
+        "description": "Nectar / SSR / Wind"
+      },
+      {
+        "value": "Lamretta (SSR)",
+        "description": "Lamretta / SSR / Earth"
+      },
+      {
+        "value": "Monika (Valentine)",
+        "description": "Monika / SSR / Earth"
+      },
+      {
+        "value": "Aglovale (Valentine)",
+        "description": "Aglovale / SSR / Light"
+      },
+      {
+        "value": "Zeta (Water)",
+        "description": "Zeta / SSR / Water"
+      },
+      {
+        "value": "Vaseraga (Fire)",
+        "description": "Vaseraga / SSR / Fire"
+      },
+      {
+        "value": "Farrah and Juri",
+        "description": "Farrah and Juri / SSR / Light"
+      },
+      {
+        "value": "Beatrix (Earth)",
+        "description": "Beatrix / SSR / Earth"
+      },
+      {
+        "value": "Cassius (Event SSR)",
+        "description": "Cassius / SSR / Dark"
+      },
+      {
+        "value": "Isaac",
+        "description": "Isaac / SSR / Water"
+      },
+      {
+        "value": "Andira (Summer)",
+        "description": "Andira / SSR / Water"
+      },
+      {
+        "value": "Kumbhira (Summer)",
+        "description": "Kumbhira / SSR / Fire"
+      },
+      {
+        "value": "Bobobo-bo Bo-bobo",
+        "description": "Bobobo-bo Bo-bobo / SSR / Light"
+      },
+      {
+        "value": "Shion",
+        "description": "Shion / SSR / Fire"
+      },
+      {
+        "value": "Nezha",
+        "description": "Nezha / SSR / Wind"
+      },
+      {
+        "value": "Narmaya (Grand)",
+        "description": "Narmaya / SSR / Wind"
+      },
+      {
+        "value": "Albert (Dark)",
+        "description": "Albert / SSR / Dark"
+      },
+      {
+        "value": "Troue",
+        "description": "Troue / SSR / Water"
+      },
+      {
+        "value": "Tikoh",
+        "description": "Tikoh / SSR / Light"
+      },
+      {
+        "value": "Lennah (Earth)",
+        "description": "Lennah / SSR / Earth"
+      },
+      {
+        "value": "Yngwie (Yukata)",
+        "description": "Yngwie / SSR / Wind"
+      },
+      {
+        "value": "Izmir (Yukata)",
+        "description": "Izmir / SSR / Fire"
+      },
+      {
+        "value": "Illnott (Summer)",
+        "description": "Illnott / SSR / Earth"
+      },
+      {
+        "value": "Poseidon",
+        "description": "Poseidon / SSR / Water"
+      },
+      {
+        "value": "Metera (Summer)",
+        "description": "Metera / SSR / Earth"
+      },
+      {
+        "value": "Zahlhamelina (Yukata)",
+        "description": "Zahlhamelina / SSR / Light"
+      },
+      {
+        "value": "Tabina (Summer)",
+        "description": "Tabina / SSR / Dark"
+      },
+      {
+        "value": "Helel ben Shalem (Summer)",
+        "description": "Helel ben Shalem / SSR / Water"
+      },
+      {
+        "value": "Shiva (Summer)",
+        "description": "Shiva / SSR / Light"
+      },
+      {
+        "value": "Grea (Light)",
+        "description": "Grea / SSR / Light"
+      },
+      {
+        "value": "Elmott (SSR)",
+        "description": "Elmott / SSR / Fire"
+      },
+      {
+        "value": "Lich",
+        "description": "Lich / SSR / Dark"
+      },
+      {
+        "value": "Azusa",
+        "description": "Azusa / SSR / Wind"
+      },
+      {
+        "value": "Shinsengumi",
+        "description": "Shinsengumi / SSR / Fire"
+      },
+      {
+        "value": "Cucouroux (Halloween)",
+        "description": "Cucouroux / SSR / Earth"
+      },
+      {
+        "value": "Vane (Halloween)",
+        "description": "Vane / SSR / Wind"
+      },
+      {
+        "value": "Yorozuya",
+        "description": "Yorozuya / SSR / Light"
+      },
+      {
+        "value": "Lunalu (Light)",
+        "description": "Lunalu / SSR / Light"
+      },
+      {
+        "value": "Enyo",
+        "description": "Enyo / SSR / Wind"
+      },
+      {
+        "value": "Arulumaya (Light)",
+        "description": "Arulumaya / SSR / Light"
+      },
+      {
+        "value": "Anthuria (Holiday)",
+        "description": "Anthuria / SSR / Earth"
+      },
+      {
+        "value": "Randall (SSR)",
+        "description": "Randall / SSR / Wind"
+      },
+      {
+        "value": "Cupitan",
+        "description": "Cupitan / SSR / Water"
+      },
+      {
+        "value": "Doraemon",
+        "description": "Doraemon / SSR / Water"
+      },
+      {
+        "value": "Nobita",
+        "description": "Nobita / SSR / Light"
+      },
+      {
+        "value": "Mahira (Holiday)",
+        "description": "Mahira / SSR / Light"
+      },
+      {
+        "value": "Altair (Holiday)",
+        "description": "Altair / SSR / Fire"
+      },
+      {
+        "value": "Catura (Event)",
+        "description": "Catura / R / Earth"
+      },
+      {
+        "value": "Lancelot (Grand)",
+        "description": "Lancelot / SSR / Water"
+      },
+      {
+        "value": "Satyr (Earth)",
+        "description": "Satyr / SSR / Earth"
+      },
+      {
+        "value": "Cidala",
+        "description": "Cidala / SSR / Earth"
+      },
+      {
+        "value": "Ewiyar",
+        "description": "Ewiyar / SSR / Wind"
+      },
+      {
+        "value": "Yggdrasil (Wind)",
+        "description": "Yggdrasil / SSR / Wind"
+      },
+      {
+        "value": "Wilnas",
+        "description": "Wilnas / SSR / Fire"
+      },
+      {
+        "value": "Lilele (Fire)",
+        "description": "Lilele / SSR / Fire"
+      },
+      {
+        "value": "Ippatsu (SSR)",
+        "description": "Ippatsu / SSR / Dark"
+      },
+      {
+        "value": "Special Week, Silence Suzuka, and Tokai Teio",
+        "description": "Special Week, Silence Suzuka, and Tokai Teio / SSR / Earth"
+      },
+      {
+        "value": "Ladiva (Valentine)",
+        "description": "Ladiva / SSR / Light"
+      },
+      {
+        "value": "Cassius (Valentine)",
+        "description": "Cassius / SSR / Water"
+      },
+      {
+        "value": "Vira (Valentine)",
+        "description": "Vira / SSR / Fire"
+      },
+      {
+        "value": "Freyr",
+        "description": "Freyr / SSR / Wind"
+      },
+      {
+        "value": "Sylph",
+        "description": "Sylph / SSR / Fire"
+      },
+      {
+        "value": "Medusa (Summer)",
+        "description": "Medusa / SSR / Fire"
+      },
+      {
+        "value": "Yuni",
+        "description": "Yuni / SSR / Light"
+      },
+      {
+        "value": "Narmaya (Yukata)",
+        "description": "Narmaya / SSR / Light"
+      },
+      {
+        "value": "Silva (Yukata)",
+        "description": "Silva / SSR / Fire"
+      },
+      {
+        "value": "Laguna (SSR)",
+        "description": "Laguna / SSR / Earth"
+      },
+      {
+        "value": "Skull and Balurga",
+        "description": "Skull and Balurga / SSR / Earth"
+      },
+      {
+        "value": "Sophia (Water)",
+        "description": "Sophia / SSR / Water"
+      },
+      {
+        "value": "Prishe",
+        "description": "Prishe / SSR / Light"
+      },
+      {
+        "value": "Lilisette",
+        "description": "Lilisette / SSR / Wind"
+      },
+      {
+        "value": "Iroha",
+        "description": "Iroha / SSR / Fire"
+      },
+      {
+        "value": "Anna (SSR)",
+        "description": "Anna / SSR / Fire"
+      },
+      {
+        "value": "Manamel",
+        "description": "Manamel / SSR / Dark"
+      },
+      {
+        "value": "Elea",
+        "description": "Elea / SSR / Wind"
+      },
+      {
+        "value": "Jamil (SSR)",
+        "description": "Jamil / SSR / Earth"
+      },
+      {
+        "value": "Galleon",
+        "description": "Galleon / SSR / Earth"
+      },
+      {
+        "value": "Gwynne",
+        "description": "Gwynne / SSR / Water"
+      },
+      {
+        "value": "Vajra (Summer)",
+        "description": "Vajra / SSR / Dark"
+      },
+      {
+        "value": "Vikala (Summer)",
+        "description": "Vikala / SSR / Earth"
+      },
+      {
+        "value": "Mirin (Summer)",
+        "description": "Mirin / SSR / Fire"
+      },
+      {
+        "value": "Shion (Summer)",
+        "description": "Shion / SSR / Wind"
+      },
+      {
+        "value": "Clarisse (Summer)",
+        "description": "Clarisse / SSR / Water"
+      },
+      {
+        "value": "Magisa (Summer)",
+        "description": "Magisa / SSR / Dark"
+      },
+      {
+        "value": "Eustace (Summer)",
+        "description": "Eustace / SSR / Wind"
+      },
+      {
+        "value": "Tikoh (Summer)",
+        "description": "Tikoh / SSR / Earth"
+      },
+      {
+        "value": "Sturm (Summer)",
+        "description": "Sturm / SSR / Light"
+      },
+      {
+        "value": "Jeanne d'Arc (Water Summer)",
+        "description": "Jeanne d'Arc / SSR / Water"
+      },
+      {
+        "value": "Yngwie (Legend of Bravado and Revelry)",
+        "description": "Yngwie / SSR / Water"
+      },
+      {
+        "value": "Erika",
+        "description": "Erika / SSR / Water"
+      },
+      {
+        "value": "Anderson",
+        "description": "Anderson / SSR / Fire"
+      },
+      {
+        "value": "Luffy",
+        "description": "Luffy / SSR / Fire"
+      },
+      {
+        "value": "Nami and Robin",
+        "description": "Nami and Robin / SSR / Wind"
+      },
+      {
+        "value": "Jessica (SSR)",
+        "description": "Jessica / SSR / Dark"
+      },
+      {
+        "value": "Zoro and Sanji",
+        "description": "Zoro and Sanji / SSR / Dark"
+      },
+      {
+        "value": "Percival (Grand)",
+        "description": "Percival / SSR / Fire"
+      },
+      {
+        "value": "Aglovale and Tor",
+        "description": "Aglovale and Tor / SSR / Earth"
+      },
+      {
+        "value": "Lich (Halloween)",
+        "description": "Lich / SSR / Wind"
+      },
+      {
+        "value": "Mugen (Halloween)",
+        "description": "Mugen / SSR / Light"
+      },
+      {
+        "value": "Florence (Halloween)",
+        "description": "Florence / SSR / Light"
+      },
+      {
+        "value": "Yuel and Societte",
+        "description": "Yuel and Societte / SSR / Dark"
+      },
+      {
+        "value": "Octavia",
+        "description": "Octavia / SSR / Water"
+      },
+      {
+        "value": "Therese (Wind)",
+        "description": "Therese / SSR / Wind"
+      },
+      {
+        "value": "Europa (Holiday)",
+        "description": "Europa / SSR / Earth"
+      },
+      {
+        "value": "Fiorito (Holiday)",
+        "description": "Fiorito / SSR / Dark"
+      },
+      {
+        "value": "Catura (Holiday)",
+        "description": "Catura / SSR / Water"
+      },
+      {
+        "value": "Cain (Holiday)",
+        "description": "Cain / SSR / Fire"
+      },
+      {
+        "value": "Charlotta (Grand)",
+        "description": "Charlotta / SSR / Wind"
+      },
+      {
+        "value": "Erin (SSR)",
+        "description": "Erin / SSR / Water"
+      },
+      {
+        "value": "Makura",
+        "description": "Makura / SSR / Light"
+      },
+      {
+        "value": "Michael",
+        "description": "Michael / SSR / Fire"
+      },
+      {
+        "value": "Ultimate Friday",
+        "description": "Ultimate Friday / SSR / Wind"
+      },
+      {
+        "value": "Halluel and Malluel",
+        "description": "Halluel and Malluel / SSR / Dark"
+      },
+      {
+        "value": "Amelia",
+        "description": "Amelia / SSR / Earth"
+      },
+      {
+        "value": "Alba",
+        "description": "Alba / SSR / Water"
+      },
+      {
+        "value": "Caro",
+        "description": "Caro / SSR / Wind"
+      },
+      {
+        "value": "Cosmos",
+        "description": "Cosmos / SSR / Light"
+      },
+      {
+        "value": "Constance",
+        "description": "Constance / SSR / Dark"
+      },
+      {
+        "value": "Echidna",
+        "description": "Echidna / SSR / Wind"
+      },
+      {
+        "value": "Felluca",
+        "description": "Felluca / SSR / Earth"
+      },
+      {
+        "value": "Lavirita",
+        "description": "Lavirita / SSR / Fire"
+      },
+      {
+        "value": "Lamorak",
+        "description": "Lamorak / SSR / Wind"
+      },
+      {
+        "value": "Ragazzo",
+        "description": "Ragazzo / SSR / Fire"
+      },
+      {
+        "value": "Sui",
+        "description": "Sui / SSR / Light"
+      },
+      {
+        "value": "Tyra",
+        "description": "Tyra / SSR / Dark"
+      },
+      {
+        "value": "Orchid",
+        "description": "Orchid / SSR / Earth"
+      },
+      {
+        "value": "Cendrillon",
+        "description": "Cendrillon / SSR / Dark"
+      },
+      {
+        "value": "Gabriel",
+        "description": "Gabriel / SSR / Water"
+      },
+      {
+        "value": "Raphael",
+        "description": "Raphael / SSR / Wind"
+      },
+      {
+        "value": "Uriel",
+        "description": "Uriel / SSR / Earth"
+      },
+      {
+        "value": "Sariel",
+        "description": "Sariel / SSR / Dark"
+      },
+      {
+        "value": "Sandalphon (Valentine)",
+        "description": "Sandalphon / SSR / Wind"
+      },
+      {
+        "value": "Sen (Valentine)",
+        "description": "Sen / SSR / Water"
+      },
+      {
+        "value": "Hekate",
+        "description": "Hekate / SSR / Fire"
+      },
+      {
+        "value": "Seofon (Event)",
+        "description": "Seofon / SSR / Wind"
+      },
+      {
+        "value": "Ewiyar (Grand)",
+        "description": "Ewiyar / SSR / Wind"
+      },
+      {
+        "value": "Monika (Summer)",
+        "description": "Monika / SSR / Light"
+      },
+      {
+        "value": "Azusa (Summer)",
+        "description": "Azusa / SSR / Dark"
+      },
+      {
+        "value": "Ilsa (Yukata)",
+        "description": "Ilsa / SSR / Dark"
+      },
+      {
+        "value": "Nezha (Yukata)",
+        "description": "Nezha / SSR / Fire"
+      },
+      {
+        "value": "Cinnamoroll and Pompompurin",
+        "description": "Cinnamoroll and Pompompurin / SSR / Wind"
+      },
+      {
+        "value": "Orologia",
+        "description": "Orologia / SSR / Dark"
+      },
+      {
+        "value": "Yaia (SSR)",
+        "description": "Yaia / SSR / Earth"
+      },
+      {
+        "value": "Jasmine (SSR)",
+        "description": "Jasmine / SSR / Dark"
+      },
+      {
+        "value": "Cantate",
+        "description": "Cantate / SSR / Wind"
+      },
+      {
+        "value": "Lily (Wind)",
+        "description": "Lily / SSR / Wind"
+      },
+      {
+        "value": "Icarus",
+        "description": "Icarus / SSR / Fire"
+      },
+      {
+        "value": "Drusilla (SSR)",
+        "description": "Drusilla / SSR / Light"
+      },
+      {
+        "value": "Korwa (Water)",
+        "description": "Korwa / SSR / Water"
+      },
+      {
+        "value": "Baal (Fire)",
+        "description": "Baal / SSR / Fire"
+      },
+      {
+        "value": "Cupitan (Summer)",
+        "description": "Cupitan / SSR / Dark"
+      },
+      {
+        "value": "Pholia (Yukata)",
+        "description": "Pholia / SSR / Earth"
+      },
+      {
+        "value": "Enyo (Summer)",
+        "description": "Enyo / SSR / Fire"
+      },
+      {
+        "value": "Vaseraga (Summer)",
+        "description": "Vaseraga / SSR / Water"
+      },
+      {
+        "value": "Fediel (Summer)",
+        "description": "Fediel / SSR / Water"
+      },
+      {
+        "value": "Aliza (Summer)",
+        "description": "Aliza / SSR / Wind"
+      },
+      {
+        "value": "Dorothy and Claudia (Summer)",
+        "description": "Dorothy and Claudia / SSR / Fire"
+      },
+      {
+        "value": "Yurius (Summer)",
+        "description": "Yurius / SSR / Light"
+      },
+      {
+        "value": "Yuji Itadori and Megumi Fushiguro",
+        "description": "Yuji Itadori and Megumi Fushiguro / SSR / Dark"
+      },
+      {
+        "value": "Nobara Kugisaki and Maki Zen'in",
+        "description": "Nobara Kugisaki and Maki Zen'in / SSR / Earth"
+      },
+      {
+        "value": "Seruel (Summer)",
+        "description": "Seruel / SSR / Light"
+      },
+      {
+        "value": "Anila (Yukata)",
+        "description": "Anila / SSR / Water"
+      },
+      {
+        "value": "Vania (Yukata)",
+        "description": "Vania / SSR / Wind"
+      },
+      {
+        "value": "Meg and Mari",
+        "description": "Meg and Mari / SSR / Dark"
+      },
+      {
+        "value": "Kaguya",
+        "description": "Kaguya / SSR / Wind"
+      },
+      {
+        "value": "Maleagant",
+        "description": "Maleagant / SSR / Earth"
+      },
+      {
+        "value": "Catherine (Wind)",
+        "description": "Catherine / SSR / Wind"
+      },
+      {
+        "value": "Siegfried (Light)",
+        "description": "Siegfried / SSR / Light"
+      },
+      {
+        "value": "Dante (Halloween)",
+        "description": "Dante / SSR / Earth"
+      },
+      {
+        "value": "Tikoh (Halloween)",
+        "description": "Tikoh / SSR / Dark"
+      },
+      {
+        "value": "Vikala (Halloween)",
+        "description": "Vikala / SSR / Water"
+      },
+      {
+        "value": "Sevilbarra (SSR)",
+        "description": "Sevilbarra / SSR / Fire"
+      },
+      {
+        "value": "Utsusemi",
+        "description": "Utsusemi / SSR / Light"
+      },
+      {
+        "value": "Barawa and Sarya",
+        "description": "Barawa and Sarya / SSR / Fire"
+      },
+      {
+        "value": "Volenna (SSR)",
+        "description": "Volenna / SSR / Light"
+      },
+      {
+        "value": "Yuni (Holiday)",
+        "description": "Yuni / SSR / Dark"
+      },
+      {
+        "value": "Illnott (Holiday)",
+        "description": "Illnott / SSR / Light"
+      },
+      {
+        "value": "Helel ben Shalem (Holiday)",
+        "description": "Helel ben Shalem / SSR / Earth"
+      },
+      {
+        "value": "Noa (Holiday)",
+        "description": "Noa / SSR / Fire"
+      },
+      {
+        "value": "Zeta (Grand)",
+        "description": "Zeta / SSR / Fire"
+      },
+      {
+        "value": "Lowain (SSR)",
+        "description": "Lowain / SSR / Dark"
+      },
+      {
+        "value": "Payila",
+        "description": "Payila / SSR / Water"
+      },
+      {
+        "value": "Izuku Midoriya",
+        "description": "Izuku Midoriya / SSR / Wind"
+      },
+      {
+        "value": "Katsuki Bakugo",
+        "description": "Katsuki Bakugo / SSR / Fire"
+      },
+      {
+        "value": "Deliford (SSR)",
+        "description": "Deliford / SSR / Water"
+      },
+      {
+        "value": "Olivia",
+        "description": "Olivia / SSR / Earth"
+      },
+      {
+        "value": "Himiko Toga",
+        "description": "Himiko Toga / SSR / Dark"
+      },
+      {
+        "value": "Juri (SSR)",
+        "description": "Juri / SSR / Water"
+      },
+      {
+        "value": "Robertina",
+        "description": "Robertina / SSR / Light"
+      },
+      {
+        "value": "Nehan (Valentine)",
+        "description": "Nehan / SSR / Fire"
+      },
+      {
+        "value": "Cidala (Valentine)",
+        "description": "Cidala / SSR / Dark"
+      },
+      {
+        "value": "Sandalphon",
+        "description": "Sandalphon / SSR / Light"
+      },
+      {
+        "value": "Sabrina",
+        "description": "Sabrina / SSR / Earth"
+      },
+      {
+        "value": "Richard (SSR)",
+        "description": "Richard / SSR / Wind"
+      },
+      {
+        "value": "Raziel (Event)",
+        "description": "Raziel / SSR / Light"
+      },
+      {
+        "value": "Hauhet",
+        "description": "Hauhet / SSR / Fire"
+      },
+      {
+        "value": "Fenie",
+        "description": "Fenie / SSR / Fire"
+      },
+      {
+        "value": "Horus (Summer)",
+        "description": "Horus / SSR / Light"
+      },
+      {
+        "value": "Magus (Summer)",
+        "description": "Magus / SSR / Dark"
+      },
+      {
+        "value": "De La Fille (Yukata)",
+        "description": "De La Fille / SSR / Dark"
+      },
+      {
+        "value": "Elmott (Yukata)",
+        "description": "Elmott / SSR / Fire"
+      },
+      {
+        "value": "Pochacco",
+        "description": "Pochacco / SSR / Wind"
+      },
+      {
+        "value": "Lulou Holou",
+        "description": "Lulou Holou / SSR / Wind"
+      },
+      {
+        "value": "Anne (Light)",
+        "description": "Anne / SSR / Light"
+      },
+      {
+        "value": "Spinnah (SSR)",
+        "description": "Spinnah / SSR / Wind"
+      },
+      {
+        "value": "Chichiri",
+        "description": "Chichiri / SSR / Fire"
+      },
+      {
+        "value": "Kolulu (Earth)",
+        "description": "Kolulu / SSR / Earth"
+      },
+      {
+        "value": "Chloe (SSR)",
+        "description": "Chloe / SSR / Dark"
+      },
+      {
+        "value": "Veight (Wind)",
+        "description": "Veight / SSR / Wind"
+      },
+      {
+        "value": "Sato",
+        "description": "Sato / SSR / Fire"
+      },
+      {
+        "value": "Mirin (SSR)",
+        "description": "Mirin / SSR / Wind"
+      },
+      {
+        "value": "Ami",
+        "description": "Ami / SSR / Wind"
+      },
+      {
+        "value": "Nectar (Water)",
+        "description": "Nectar / SSR / Water"
+      },
+      {
+        "value": "Raziel (Summer)",
+        "description": "Raziel / SSR / Earth"
+      },
+      {
+        "value": "Tefnut (Summer)",
+        "description": "Tefnut / SSR / Water"
+      },
+      {
+        "value": "Cucouroux (Summer)",
+        "description": "Cucouroux / SSR / Light"
+      },
+      {
+        "value": "Hallessena (Summer)",
+        "description": "Hallessena / SSR / Dark"
+      },
+      {
+        "value": "Mars",
+        "description": "Mars / SSR / Light"
+      },
+      {
+        "value": "Tweyen (Yukata)",
+        "description": "Tweyen / SSR / Fire"
+      },
+      {
+        "value": "Ragazzo (Summer)",
+        "description": "Ragazzo / SSR / Light"
+      },
+      {
+        "value": "Hekate (Summer)",
+        "description": "Hekate / SSR / Dark"
+      },
+      {
+        "value": "Shushuku",
+        "description": "Shushuku / SSR / Earth"
+      },
+      {
+        "value": "Galleon (Summer)",
+        "description": "Galleon / SSR / Wind"
+      },
+      {
+        "value": "Nier (Yukata)",
+        "description": "Nier / SSR / Water"
+      },
+      {
+        "value": "Aglovale (Yukata)",
+        "description": "Aglovale / SSR / Fire"
+      },
+      {
+        "value": "Medusa (Grand)",
+        "description": "Medusa / SSR / Earth"
+      },
+      {
+        "value": "Sevastien (SSR)",
+        "description": "Sevastien / SSR / Dark"
+      },
+      {
+        "value": "Novei",
+        "description": "Novei / SSR / Light"
+      },
+      {
+        "value": "Noire",
+        "description": "Noire / SSR / Wind"
+      },
+      {
+        "value": "Vane (Grand)",
+        "description": "Vane / SSR / Wind"
+      },
+      {
+        "value": "Florence (Dark)",
+        "description": "Florence / SSR / Dark"
+      },
+      {
+        "value": "Uruki",
+        "description": "Uruki / SSR / Water"
+      },
+      {
+        "value": "Satyr (Halloween)",
+        "description": "Satyr / SSR / Dark"
+      },
+      {
+        "value": "Wilnas (Halloween)",
+        "description": "Wilnas / SSR / Light"
+      },
+      {
+        "value": "Manamel (Halloween)",
+        "description": "Manamel / SSR / Earth"
+      },
+      {
+        "value": "Will (SSR)",
+        "description": "Will / SSR / Dark"
+      },
+      {
+        "value": "Shion (Collab)",
+        "description": "Shion / SSR / Dark"
+      },
+      {
+        "value": "Diablo (Collab)",
+        "description": "Diablo / SSR / Dark"
+      },
+      {
+        "value": "Rimuru Tempest",
+        "description": "Rimuru Tempest / SSR / Dark"
+      },
+      {
+        "value": "Veldora Tempest",
+        "description": "Veldora Tempest / SSR / Wind"
+      },
+      {
+        "value": "Wamdus (Holiday)",
+        "description": "Wamdus / SSR / Fire"
+      },
+      {
+        "value": "Yggdrasil (Holiday)",
+        "description": "Yggdrasil / SSR / Dark"
+      },
+      {
+        "value": "Zooey (Holiday)",
+        "description": "Zooey / SSR / Light"
+      },
+      {
+        "value": "Feower (Holiday)",
+        "description": "Feower / SSR / Fire"
+      },
+      {
+        "value": "Yatima",
+        "description": "Yatima / SSR / Water"
+      },
+      {
+        "value": "Payila (Event)",
+        "description": "Payila / R / Water"
+      },
+      {
+        "value": "Aletheia (Dark)",
+        "description": "Aletheia / SSR / Dark"
+      },
+      {
+        "value": "Indala",
+        "description": "Indala / SSR / Dark"
+      },
+      {
+        "value": "Goblin Mage (SSR)",
+        "description": "Goblin Mage / SSR / Light"
+      },
+      {
+        "value": "Koku",
+        "description": "Koku / SSR / Dark"
+      },
+      {
+        "value": "Feena (Light)",
+        "description": "Feena / SSR / Light"
+      },
+      {
+        "value": "Setsuna Sakurazaki",
+        "description": "Setsuna Sakurazaki / SSR / Wind"
+      },
+      {
+        "value": "Jack Rakan",
+        "description": "Jack Rakan / SSR / Earth"
+      },
+      {
+        "value": "Negi Springfield",
+        "description": "Negi Springfield / SSR / Wind"
+      },
+      {
+        "value": "Evangeline A.K. McDowell",
+        "description": "Evangeline A.K. McDowell / SSR / Dark"
+      },
+      {
+        "value": "Makura (Valentine)",
+        "description": "Makura / SSR / Earth"
+      },
+      {
+        "value": "Lobelia (Valentine)",
+        "description": "Lobelia / SSR / Dark"
+      },
+      {
+        "value": "Yuel (Grand)",
+        "description": "Yuel / SSR / Fire"
+      },
+      {
+        "value": "Tsukuyomi",
+        "description": "Tsukuyomi / SSR / Dark"
+      },
+      {
+        "value": "Cidala (Super Cidala)",
+        "description": "Cidala / SSR / Earth"
+      },
+      {
+        "value": "Joy (Event SSR)",
+        "description": "Joy / SSR / Wind"
+      },
+      {
+        "value": "Bhaisa",
+        "description": "Bhaisa / SSR / Earth"
+      },
+      {
+        "value": "Bhadra",
+        "description": "Bhadra / SSR / Light"
+      },
+      {
+        "value": "Shukra",
+        "description": "Shukra / SSR / Water"
+      },
+      {
+        "value": "Basara",
+        "description": "Basara / SSR / Light"
+      },
+      {
+        "value": "Mahira (Summer)",
+        "description": "Mahira / SSR / Wind"
+      },
+      {
+        "value": "Lu Woh (Summer)",
+        "description": "Lu Woh / SSR / Earth"
+      },
+      {
+        "value": "Vikala (Yukata)",
+        "description": "Vikala / SSR / Light"
+      },
+      {
+        "value": "Seofon (Yukata)",
+        "description": "Seofon / SSR / Dark"
+      },
+      {
+        "value": "Cherine",
+        "description": "Cherine / SSR / Light"
+      },
+      {
+        "value": "Pijiu",
+        "description": "Pijiu / SSR / Light"
+      },
+      {
+        "value": "Cagliostro and Clarisse",
+        "description": "Cagliostro and Clarisse / SSR / Wind"
+      },
+      {
+        "value": "Kou (Light)",
+        "description": "Kou / SSR / Light"
+      },
+      {
+        "value": "Siegfried (Grand)",
+        "description": "Siegfried / SSR / Earth"
+      },
+      {
+        "value": "Skuld",
+        "description": "Skuld / SSR / Wind"
+      },
+      {
+        "value": "Grimnir (Dark)",
+        "description": "Grimnir / SSR / Dark"
+      },
+      {
+        "value": "Ilsa (Formal)",
+        "description": "Ilsa / SSR / Water"
+      },
+      {
+        "value": "Fraux (Formal)",
+        "description": "Fraux / SSR / Earth"
+      },
+      {
+        "value": "Atum (Summer)",
+        "description": "Atum / SSR / Fire"
+      },
+      {
+        "value": "Korwa (Yukata)",
+        "description": "Korwa / SSR / Light"
+      },
+      {
+        "value": "Lich (Summer)",
+        "description": "Lich / SSR / Earth"
+      },
+      {
+        "value": "Gon",
+        "description": "Gon / SSR / Earth"
+      },
+      {
+        "value": "Kurapika",
+        "description": "Kurapika / SSR / Fire"
+      },
+      {
+        "value": "Chrollo",
+        "description": "Chrollo / SSR / Dark"
+      },
+      {
+        "value": "Killua",
+        "description": "Killua / SSR / Wind"
+      },
+      {
+        "value": "Catura (Summer)",
+        "description": "Catura / SSR / Dark"
+      },
+      {
+        "value": "Haaselia (Summer)",
+        "description": "Haaselia / SSR / Wind"
+      },
+      {
+        "value": "Berceau",
+        "description": "Berceau / SSR / Earth"
+      },
+      {
+        "value": "Sylvia",
+        "description": "Sylvia / SSR / Water"
+      },
+      {
+        "value": "Joel (SSR)",
+        "description": "Joel / SSR / Water"
+      },
+      {
+        "value": "Danua (SSR)",
+        "description": "Danua / SSR / Dark"
+      },
+      {
+        "value": "Vajra (Halloween)",
+        "description": "Vajra / SSR / Light"
+      },
+      {
+        "value": "Lancelot (Halloween)",
+        "description": "Lancelot / SSR / Wind"
+      },
+      {
+        "value": "Tien (Halloween)",
+        "description": "Tien / SSR / Water"
+      },
+      {
+        "value": "Metera (Grand)",
+        "description": "Metera / SSR / Wind"
+      },
+      {
+        "value": "Chichiri (Water)",
+        "description": "Chichiri / SSR / Water"
+      },
+      {
+        "value": "Asuka & Unit 02",
+        "description": "Asuka & Unit 02 / SSR / Fire"
+      },
+      {
+        "value": "Kaworu & Mark.06",
+        "description": "Kaworu & Mark.06 / SSR / Light"
+      },
+      {
+        "value": "Shinji & Unit 01",
+        "description": "Shinji & Unit 01 / SSR / Light"
+      },
+      {
+        "value": "Rei & Unit 00",
+        "description": "Rei & Unit 00 / SSR / Water"
+      },
+      {
+        "value": "Reinhardtzar (Holiday)",
+        "description": "Reinhardtzar / SSR / Earth"
+      },
+      {
+        "value": "Bennu (Holiday)",
+        "description": "Bennu / SSR / Earth"
+      },
+      {
+        "value": "Zeta (Holiday)",
+        "description": "Zeta / SSR / Dark"
+      },
+      {
+        "value": "Maria Theresa (Holiday)",
+        "description": "Maria Theresa / SSR / Fire"
+      },
+      {
+        "value": "Darydara",
+        "description": "Darydara / SSR / Water"
+      },
+      {
+        "value": "Fylkis",
+        "description": "Fylkis / SSR / Earth"
+      },
+      {
+        "value": "Notus",
+        "description": "Notus / SSR / Wind"
+      },
+      {
+        "value": "Amaterasu",
+        "description": "Amaterasu / SSR / Light"
+      },
+      {
+        "value": "Sandira",
+        "description": "Sandira / SSR / Fire"
+      },
+      {
+        "value": "Caesar",
+        "description": "Caesar / SSR / Light"
+      },
+      {
+        "value": "McCoy",
+        "description": "McCoy / SSR / Earth"
+      },
+      {
+        "value": "Arriet (Light)",
+        "description": "Arriet / SSR / Light"
+      },
+      {
+        "value": "Wamdus (Valentine)",
+        "description": "Wamdus / SSR / Dark"
+      },
+      {
+        "value": "Gawain (Valentine)",
+        "description": "Gawain / SSR / Water"
+      },
+      {
+        "value": "Walfrid",
+        "description": "Walfrid / SSR / Wind"
+      },
+      {
+        "value": "Ange (SSR)",
+        "description": "Ange / SSR / Water"
+      },
+      {
+        "value": "Lyria (Event SSR)",
+        "description": "Lyria / SSR / any"
+      },
+      {
+        "value": "Lecia (Inheritor of the Blue Mantle)",
+        "description": "Lecia / SSR / Wind"
+      },
+      {
+        "value": "Apollonia (Summer)",
+        "description": "Apollonia / SSR / Earth"
+      },
+      {
+        "value": "Eustace (Yukata)",
+        "description": "Eustace / SSR / Fire"
+      },
+      {
+        "value": "Alliah (Yukata)",
+        "description": "Alliah / SSR / Water"
+      },
+      {
+        "value": "Parashurama",
+        "description": "Parashurama / SSR / Fire"
+      },
+      {
+        "value": "Manu Ponumau",
+        "description": "Manu Ponumau / SSR / Dark"
+      },
+      {
+        "value": "Edward Elric",
+        "description": "Edward Elric / SSR / Earth"
+      },
+      {
+        "value": "Roy Mustang",
+        "description": "Roy Mustang / SSR / Fire"
+      },
+      {
+        "value": "Olivier Mira Armstrong",
+        "description": "Olivier Mira Armstrong / SSR / Water"
+      },
+      {
+        "value": "Greed and Ling Yao",
+        "description": "Greed and Ling Yao / SSR / Dark"
+      },
+      {
+        "value": "Shao (SSR)",
+        "description": "Shao / SSR / Dark"
+      },
+      {
+        "value": "Meg and Mari (Formal)",
+        "description": "Meg and Mari / SSR / Wind"
+      },
+      {
+        "value": "Europa (Formal)",
+        "description": "Europa / SSR / Light"
+      },
+      {
+        "value": "Osiris (Yukata)",
+        "description": "Osiris / SSR / Dark"
+      },
+      {
+        "value": "Atman (Summer)",
+        "description": "Atman / SSR / Fire"
+      },
+      {
+        "value": "Toshiro Hitsugaya and Rangiku Matsumoto",
+        "description": "Toshiro Hitsugaya and Rangiku Matsumoto / SSR / Water"
+      },
+      {
+        "value": "Nelliel Tu Odelschwanck",
+        "description": "Nelliel Tu Odelschwanck / SSR / Wind"
+      },
+      {
+        "value": "Ichigo Kurosaki",
+        "description": "Ichigo Kurosaki / SSR / Dark"
+      },
+      {
+        "value": "Yoruichi Shihoin",
+        "description": "Yoruichi Shihoin / SSR / Light"
+      },
+      {
+        "value": "You (Summer)",
+        "description": "You / SSR / Water"
+      },
+      {
+        "value": "Gwynne (Yukata)",
+        "description": "Gwynne / SSR / Wind"
+      },
+      {
+        "value": "Seox (Summer)",
+        "description": "Seox / SSR / Earth"
+      },
+      {
+        "value": "Payila (Summer)",
+        "description": "Payila / SSR / Light"
+      },
+      {
+        "value": "Cocopio",
+        "description": "Cocopio / SSR / Fire"
+      },
+      {
+        "value": "Uruki (Wind)",
+        "description": "Uruki / SSR / Wind"
+      },
+      {
+        "value": "Vaseraga (Grand)",
+        "description": "Vaseraga / SSR / Earth"
+      },
+      {
+        "value": "Ewiyar (Halloween)",
+        "description": "Ewiyar / SSR / Dark"
+      },
+      {
+        "value": "Azusa (Halloween)",
+        "description": "Azusa / SSR / Fire"
+      },
+      {
+        "value": "Randall (Halloween)",
+        "description": "Randall / SSR / Light"
+      }
+    ]
+  },
+  "templates": {}
+}

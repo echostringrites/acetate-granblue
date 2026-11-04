@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "228c6533-02e3-4273-85cc-20110d864626",
+  "generated": "cf38d0e5-02d0-4d0c-aa40-527a0a99e7b9",
   "templates": {
     "Status": {
       "1": {
@@ -41,7 +41,7 @@
           { "value": "u", "description": "Unique" },
           { "value": "us", "description": "Unique Stackable ATK" },
           { "value": "s", "description": "Seraphic" },
-          { "value": "en", "description": "Enmity/Character Enmity [+ Jammed, AX / use nen for weapon-type modifier" },
+          { "value": "en", "description": "Enmity/Character Enmity [+ Jammed, AX / use nen for weapon-type modifier]" },
           { "value": "st", "description": "Stamina/Character Stamina [+ Strength, AX / use nst for weapon-type modifier]" },
           { "value": "nen", "description": "Normal Enmity [+ all weapon grid Enmity]" },
           { "value": "nst", "description": "Normal Stamina [+ all weapon grid Stamina]" }
@@ -77,7 +77,80 @@
         "description": "Integer width of icon image"
       },
       "hide": {
-        "description": "Hide parts of the status"
+        "description": "Hide parts of the status (valid values: amount, wiki_comment, maybe others?)"
+      }
+    },
+    "Itm" : {
+      "1": {
+        "label": "item_name",
+        "description": "Name of item (including characters, weapons, summons, and supplies)",
+        "values": [{ "list": "characters" }, { "list": "weapons" }, { "list": "summons" }]
+      },
+      "nolink": {
+        "flag": true,
+        "description": "Suppress the link to the item page"
+      },
+      "numleft": {
+        "flag": true,
+        "description": "Move the quantity number to the left side",
+        "boost": -20
+      },
+      "large": {
+        "flag": true,
+        "description": "Use the large rectangular image (similar to icon=icon, size=110; append a number to set the width - large,110)"
+      },
+      "notitle": {
+        "flag": true,
+        "description": "Suppress the label of the item"
+      },
+      "titlebelow": {
+        "flag": true,
+        "description": "Show the label of the item below it",
+        "boost": -20
+      },
+      "png": {
+        "flag": true,
+        "description": "Try .png as the image extension (only for some images)",
+        "boost": -20
+      },
+      "link": {
+        "description": "Set a custom link for the item"
+      },
+      "title": {
+        "description": "Set a custom label for the item"
+      },
+      "size": {
+        "description": "Set the image width (default 25, typically 110 for icon=icon)"
+      },
+      "icon": {
+        "description": "Select an art shape (default square)",
+        "values": ["square", "icon", "tall", "full"]
+      },
+      "element": {
+        "description": "Set an element (used as shorthand for certain supply items such as orbs)",
+        "boost": -50
+      },
+      "weapon": {
+        "description": "Set a weapon (used as shorthand for certain supply items such as weapon stones)",
+        "boost": -50
+      },
+      "arcarum": {
+        "description": "Set an associated Arcarum (used as shorthand for certain supply items such as ideans)",
+        "boost": -50
+      },
+      "art": {
+        "description": "Select an art variant (A, B, C, D, etc)"
+      },
+      "uncap": {
+        "description": "Set an uncap level (adds _★ to the label)"
+      },
+      "prefix": {
+        "description": "Add a prefix to the label",
+        "boost": -30
+      },
+      "suffix": {
+        "description": "Add a suffix to the label",
+        "boost": -30
       }
     }
   }

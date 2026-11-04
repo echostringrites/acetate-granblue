@@ -1,0 +1,1725 @@
+{
+  "schema": 1,
+  "generated": "c3d2f121-07e2-407a-bf3d-963f96c0edd1",
+  "valueLists": {
+    "summons": [
+      {
+        "value": "Apollo",
+        "description": "Apollo / SSR / light"
+      },
+      {
+        "value": "Brunnhilde",
+        "description": "Brunnhilde / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Diablo",
+        "description": "Diablo / SSR / dark"
+      },
+      {
+        "value": "Grueler",
+        "description": "Grueler / SSR / fire"
+      },
+      {
+        "value": "Jack-o'-Lantern",
+        "description": "Jack-o&#39;-Lantern / SSR / dark"
+      },
+      {
+        "value": "Leviathan Omega",
+        "description": "Leviathan Omega / SSR / water (series=omega)"
+      },
+      {
+        "value": "Ranko Kanzaki (Summon)",
+        "description": "[Skybound] Ranko Kanzaki / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Setekh",
+        "description": "Setekh / SSR / wind"
+      },
+      {
+        "value": "Twin Elements",
+        "description": "Twin Elements / SSR / fire"
+      },
+      {
+        "value": "Verona Heart",
+        "description": "Verona Heart / SSR / water"
+      },
+      {
+        "value": "White Rabbit",
+        "description": "White Rabbit / SR / light"
+      },
+      {
+        "value": "Robomi Rocket",
+        "description": "Robomi Rocket / SSR / light"
+      },
+      {
+        "value": "Ifrit",
+        "description": "Ifrit / SSR / fire"
+      },
+      {
+        "value": "Cocytus",
+        "description": "Cocytus / SSR / water"
+      },
+      {
+        "value": "Vohu Manah",
+        "description": "Vohu Manah / SSR / earth"
+      },
+      {
+        "value": "Sagittarius",
+        "description": "Sagittarius / SSR / wind"
+      },
+      {
+        "value": "Corow",
+        "description": "Corow / SSR / light"
+      },
+      {
+        "value": "Colossus Omega",
+        "description": "Colossus Omega / SSR / fire (series=omega)"
+      },
+      {
+        "value": "Yggdrasil Omega",
+        "description": "Yggdrasil Omega / SSR / earth (series=omega)"
+      },
+      {
+        "value": "Tiamat Omega",
+        "description": "Tiamat Omega / SSR / wind (series=omega)"
+      },
+      {
+        "value": "Luminiera Omega",
+        "description": "Luminiera Omega / SSR / light (series=omega)"
+      },
+      {
+        "value": "Celeste Omega",
+        "description": "Celeste Omega / SSR / dark (series=omega)"
+      },
+      {
+        "value": "Marduk",
+        "description": "Marduk / SSR / earth"
+      },
+      {
+        "value": "Peridot Carbuncle",
+        "description": "Peridot Carbuncle / SR / wind (series=carbuncle)"
+      },
+      {
+        "value": "Garnet Carbuncle",
+        "description": "Garnet Carbuncle / SR / fire (series=carbuncle)"
+      },
+      {
+        "value": "Aquamarine Carbuncle",
+        "description": "Aquamarine Carbuncle / SR / water (series=carbuncle)"
+      },
+      {
+        "value": "Zircon Carbuncle",
+        "description": "Zircon Carbuncle / SR / earth (series=carbuncle)"
+      },
+      {
+        "value": "Opal Carbuncle",
+        "description": "Opal Carbuncle / SR / light (series=carbuncle)"
+      },
+      {
+        "value": "Onyx Carbuncle",
+        "description": "Onyx Carbuncle / SR / dark (series=carbuncle)"
+      },
+      {
+        "value": "Yggdrasil (Summon)",
+        "description": "Yggdrasil / SR / earth (series=omega)"
+      },
+      {
+        "value": "Tiamat (Summon)",
+        "description": "Tiamat / SR / wind (series=omega)"
+      },
+      {
+        "value": "Colossus (Summon)",
+        "description": "Colossus / SR / fire (series=omega)"
+      },
+      {
+        "value": "Leviathan",
+        "description": "Leviathan / SR / water (series=omega)"
+      },
+      {
+        "value": "Luminiera",
+        "description": "Luminiera / SR / light (series=omega)"
+      },
+      {
+        "value": "Celeste",
+        "description": "Celeste / SR / dark (series=omega)"
+      },
+      {
+        "value": "Proto Bahamut",
+        "description": "Proto Bahamut / SR / dark"
+      },
+      {
+        "value": "Griffin",
+        "description": "Griffin / SR / wind"
+      },
+      {
+        "value": "Mithra",
+        "description": "Mithra / SSR / wind"
+      },
+      {
+        "value": "Veselago",
+        "description": "Veselago / SSR / light"
+      },
+      {
+        "value": "Treant",
+        "description": "Treant / SSR / wind"
+      },
+      {
+        "value": "Milia",
+        "description": "Milia / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Sylph (Summon)",
+        "description": "Sylph / SSR / fire"
+      },
+      {
+        "value": "Dragon Knights",
+        "description": "Dragon Knights / SSR / wind"
+      },
+      {
+        "value": "Cerberus (Summon)",
+        "description": "Cerberus / SSR / dark"
+      },
+      {
+        "value": "Blue Orbit",
+        "description": "Blue Orbit / SSR / wind"
+      },
+      {
+        "value": "Shiva (Summon)",
+        "description": "Shiva / SSR / fire (series=genesis)"
+      },
+      {
+        "value": "Athena (Summon)",
+        "description": "Athena / SSR / fire"
+      },
+      {
+        "value": "Prometheus",
+        "description": "Prometheus / SSR / fire (series=epic)"
+      },
+      {
+        "value": "Hades",
+        "description": "Hades / SSR / dark (series=optimus)"
+      },
+      {
+        "value": "Bahamut",
+        "description": "Bahamut / SSR / dark (series=providence)"
+      },
+      {
+        "value": "Dark Angel Olivia",
+        "description": "Dark Angel Olivia / SSR / dark"
+      },
+      {
+        "value": "Wind Rabbit",
+        "description": "Wind Rabbit / N / wind"
+      },
+      {
+        "value": "Lucifer",
+        "description": "Lucifer / SSR / light (series=providence)"
+      },
+      {
+        "value": "Odin",
+        "description": "Odin / SSR / light"
+      },
+      {
+        "value": "Wind God and Thunder God",
+        "description": "Wind God and Thunder God / SSR / wind"
+      },
+      {
+        "value": "Anat",
+        "description": "Anat / SSR / wind"
+      },
+      {
+        "value": "Medusa (Summon)",
+        "description": "Medusa / SSR / earth"
+      },
+      {
+        "value": "Macula Marius (Summon)",
+        "description": "Macula Marius / SSR / water"
+      },
+      {
+        "value": "Nezha (Summon)",
+        "description": "Nezha / SSR / wind"
+      },
+      {
+        "value": "Angel Queen",
+        "description": "Angel Queen / R / light (series=upgrader)"
+      },
+      {
+        "value": "Archangel Queen",
+        "description": "Archangel Queen / SR / light (series=upgrader)"
+      },
+      {
+        "value": "Mirage Maker",
+        "description": "Mirage Maker / N / light (series=upgrader)"
+      },
+      {
+        "value": "Air Devil",
+        "description": "Air Devil / N / wind"
+      },
+      {
+        "value": "Killer Bee",
+        "description": "Killer Bee / N / fire"
+      },
+      {
+        "value": "Goblin",
+        "description": "Goblin / N / earth"
+      },
+      {
+        "value": "Scalewing",
+        "description": "Scalewing / N / wind"
+      },
+      {
+        "value": "Pincer",
+        "description": "Pincer / N / water"
+      },
+      {
+        "value": "Skewerfish",
+        "description": "Skewerfish / N / water"
+      },
+      {
+        "value": "Timber Wolf",
+        "description": "Timber Wolf / N / earth"
+      },
+      {
+        "value": "Alpha Wolf",
+        "description": "Alpha Wolf / R / earth"
+      },
+      {
+        "value": "Storm Rabbit",
+        "description": "Storm Rabbit / R / wind"
+      },
+      {
+        "value": "Hornbird",
+        "description": "Hornbird / R / wind"
+      },
+      {
+        "value": "Magma Golem",
+        "description": "Magma Golem / R / fire"
+      },
+      {
+        "value": "Lavavian",
+        "description": "Lavavian / R / fire"
+      },
+      {
+        "value": "Wind Elemental",
+        "description": "Wind Elemental / R / wind"
+      },
+      {
+        "value": "Skeleton",
+        "description": "Skeleton / R / dark"
+      },
+      {
+        "value": "Dragonflair",
+        "description": "Dragonflair / R / wind"
+      },
+      {
+        "value": "Mandrake",
+        "description": "Mandrake / R / earth"
+      },
+      {
+        "value": "Allosaurus",
+        "description": "Allosaurus / SSR / earth"
+      },
+      {
+        "value": "Anneliefe",
+        "description": "Anneliefe / SR / fire"
+      },
+      {
+        "value": "Levin Sisters (Summon)",
+        "description": "Levin Sisters / SSR / light"
+      },
+      {
+        "value": "Thor",
+        "description": "Thor / SSR / light"
+      },
+      {
+        "value": "Qilin",
+        "description": "Qilin / SSR / dark"
+      },
+      {
+        "value": "Huanglong",
+        "description": "Huanglong / SSR / light"
+      },
+      {
+        "value": "Grand Order",
+        "description": "Grand Order / SSR / light (series=dynamis)"
+      },
+      {
+        "value": "Bellringer Angel",
+        "description": "Bellringer Angel / SSR / light (series=collab)"
+      },
+      {
+        "value": "Clay Golem",
+        "description": "Clay Golem / SR / earth"
+      },
+      {
+        "value": "Vortex Dragon",
+        "description": "Vortex Dragon / SSR / light"
+      },
+      {
+        "value": "Quetzalcoatl",
+        "description": "Quetzalcoatl / SSR / wind"
+      },
+      {
+        "value": "Oceanus",
+        "description": "Oceanus / SSR / water"
+      },
+      {
+        "value": "Siren",
+        "description": "Siren / SSR / wind"
+      },
+      {
+        "value": "Satan",
+        "description": "Satan / SSR / dark"
+      },
+      {
+        "value": "Cybele",
+        "description": "Cybele / SSR / earth"
+      },
+      {
+        "value": "Satyr (Summon)",
+        "description": "Satyr / SSR / fire"
+      },
+      {
+        "value": "Varuna",
+        "description": "Varuna / SSR / water (series=optimus)"
+      },
+      {
+        "value": "Zeus",
+        "description": "Zeus / SSR / light (series=optimus)"
+      },
+      {
+        "value": "Kaguya (Summon)",
+        "description": "Kaguya / SSR / water (series=dynamis)"
+      },
+      {
+        "value": "Sethlans",
+        "description": "Sethlans / SSR / fire"
+      },
+      {
+        "value": "Bonito",
+        "description": "Bonito / SSR / water"
+      },
+      {
+        "value": "Tezcatlipoca",
+        "description": "Tezcatlipoca / SSR / earth"
+      },
+      {
+        "value": "Typhon",
+        "description": "Typhon / SSR / dark"
+      },
+      {
+        "value": "Grendel",
+        "description": "Grendel / SSR / fire"
+      },
+      {
+        "value": "Audumbla",
+        "description": "Audumbla / SSR / water"
+      },
+      {
+        "value": "Gugalanna",
+        "description": "Gugalanna / SSR / wind"
+      },
+      {
+        "value": "Mahisha",
+        "description": "Mahisha / SSR / light"
+      },
+      {
+        "value": "Behemoth",
+        "description": "Behemoth / SSR / dark"
+      },
+      {
+        "value": "Albacore",
+        "description": "Albacore / SSR / dark"
+      },
+      {
+        "value": "Custos Citrullus",
+        "description": "Custos Citrullus / SSR / earth"
+      },
+      {
+        "value": "Ebisu",
+        "description": "Ebisu / SSR / water"
+      },
+      {
+        "value": "Oxymoron",
+        "description": "Oxymoron / SSR / fire"
+      },
+      {
+        "value": "Super Robo Gigantes",
+        "description": "Super Robo Gigantes / SSR / light"
+      },
+      {
+        "value": "Manawydan",
+        "description": "Manawydan / SSR / water"
+      },
+      {
+        "value": "Poseidon (Summon)",
+        "description": "Poseidon / SSR / water"
+      },
+      {
+        "value": "Kirari Moroboshi",
+        "description": "Kirari Moroboshi / SSR / earth (series=collab)"
+      },
+      {
+        "value": "Fafnir",
+        "description": "Fafnir / SSR / fire"
+      },
+      {
+        "value": "Odajumoki Gang",
+        "description": "Odajumoki Gang / SSR / water"
+      },
+      {
+        "value": "Druj",
+        "description": "Druj / SSR / light"
+      },
+      {
+        "value": "Kirari",
+        "description": "[Skybound] Kirari / SSR / earth (series=collab)"
+      },
+      {
+        "value": "Cait Sith",
+        "description": "Cait Sith / SSR / light"
+      },
+      {
+        "value": "Illuyanka",
+        "description": "Illuyanka / SSR / water"
+      },
+      {
+        "value": "Queen Bee",
+        "description": "Queen Bee / SSR / wind"
+      },
+      {
+        "value": "Bahamut Unchained",
+        "description": "Bahamut Unchained / SSR / dark"
+      },
+      {
+        "value": "Baal (Summon)",
+        "description": "Baal / SSR / earth"
+      },
+      {
+        "value": "Titan",
+        "description": "Titan / SSR / earth (series=optimus)"
+      },
+      {
+        "value": "Gilgamesh",
+        "description": "Gilgamesh / SSR / earth (series=epic)"
+      },
+      {
+        "value": "Rose Queen",
+        "description": "Rose Queen / SSR / wind"
+      },
+      {
+        "value": "Hector",
+        "description": "Hector / SSR / light (series=epic)"
+      },
+      {
+        "value": "Dark Flame Scion",
+        "description": "Dark Flame Scion / SSR / dark"
+      },
+      {
+        "value": "Lady Katapillar",
+        "description": "Lady Katapillar / SSR / fire"
+      },
+      {
+        "value": "Belle Sylphid",
+        "description": "Belle Sylphid / SR / wind"
+      },
+      {
+        "value": "Morrigna (Summon)",
+        "description": "Morrigna / SSR / wind (series=epic)"
+      },
+      {
+        "value": "Ca Ong",
+        "description": "Ca Ong / SSR / water (series=epic)"
+      },
+      {
+        "value": "Anubis",
+        "description": "Anubis / SSR / dark (series=epic)"
+      },
+      {
+        "value": "Seraphim Cradle",
+        "description": "Seraphim Cradle / SSR / light (series=upgrader)"
+      },
+      {
+        "value": "Godsworn Alexiel",
+        "description": "Godsworn Alexiel / SSR / earth (series=genesis)"
+      },
+      {
+        "value": "H.P.A.",
+        "description": "H.P.A. / SSR / dark"
+      },
+      {
+        "value": "Fenrir",
+        "description": "Fenrir / SSR / water"
+      },
+      {
+        "value": "Zephyrus",
+        "description": "Zephyrus / SSR / wind (series=optimus)"
+      },
+      {
+        "value": "Agni",
+        "description": "Agni / SSR / fire (series=optimus)"
+      },
+      {
+        "value": "Lich (Summon)",
+        "description": "Lich / SSR / dark"
+      },
+      {
+        "value": "Neptune",
+        "description": "Neptune / SSR / water"
+      },
+      {
+        "value": "Avaritia",
+        "description": "Avaritia / SSR / earth"
+      },
+      {
+        "value": "Grani",
+        "description": "Grani / SSR / water"
+      },
+      {
+        "value": "Super Cute Genius Alchemist",
+        "description": "Super Cute Genius Alchemist / SSR / dark"
+      },
+      {
+        "value": "Nacht",
+        "description": "Nacht / SSR / dark"
+      },
+      {
+        "value": "Deirdre",
+        "description": "Deirdre / SSR / wind"
+      },
+      {
+        "value": "Midgardsormr",
+        "description": "Midgardsormr / SSR / earth"
+      },
+      {
+        "value": "Mammon",
+        "description": "Mammon / SSR / wind"
+      },
+      {
+        "value": "Hekatonkheir",
+        "description": "Hekatonkheir / SSR / light"
+      },
+      {
+        "value": "Harvest Myconid",
+        "description": "Harvest Myconid / SSR / earth"
+      },
+      {
+        "value": "Diantha (Summon)",
+        "description": "Diantha / SR / water"
+      },
+      {
+        "value": "Linaria",
+        "description": "Linaria / SR / dark"
+      },
+      {
+        "value": "Harie",
+        "description": "Harie / SR / fire"
+      },
+      {
+        "value": "Canna",
+        "description": "Canna / SR / wind"
+      },
+      {
+        "value": "Diola",
+        "description": "Diola / SR / earth"
+      },
+      {
+        "value": "Pierre",
+        "description": "Pierre / SSR / light (series=collab)"
+      },
+      {
+        "value": "Inchoate World",
+        "description": "Inchoate World / SSR / dark"
+      },
+      {
+        "value": "Basilisk",
+        "description": "Basilisk / SR / dark"
+      },
+      {
+        "value": "King Krustacea",
+        "description": "King Krustacea / SSR / dark"
+      },
+      {
+        "value": "Ti Icniuhtli Xolotl",
+        "description": "Ti Icniuhtli Xolotl / SSR / light"
+      },
+      {
+        "value": "Ikelos",
+        "description": "Ikelos / SSR / water"
+      },
+      {
+        "value": "Garuda",
+        "description": "Garuda / SSR / wind"
+      },
+      {
+        "value": "Branwen",
+        "description": "Branwen / SSR / water"
+      },
+      {
+        "value": "Nephthys",
+        "description": "Nephthys / SSR / wind"
+      },
+      {
+        "value": "Phoenix",
+        "description": "Phoenix / SSR / fire"
+      },
+      {
+        "value": "Magus (Summon)",
+        "description": "Magus / SSR / light"
+      },
+      {
+        "value": "Lumiel Gourmet",
+        "description": "Lumiel Gourmet / SSR / wind"
+      },
+      {
+        "value": "Aphrodite",
+        "description": "Aphrodite / SSR / light"
+      },
+      {
+        "value": "Golem",
+        "description": "Golem / SR / earth"
+      },
+      {
+        "value": "Hydra",
+        "description": "Hydra / SR / fire"
+      },
+      {
+        "value": "Wyvern",
+        "description": "Wyvern / SR / wind"
+      },
+      {
+        "value": "Myconid",
+        "description": "Myconid / SR / earth"
+      },
+      {
+        "value": "Hellhound",
+        "description": "Hellhound / SR / fire"
+      },
+      {
+        "value": "Doomworm",
+        "description": "Doomworm / SR / earth"
+      },
+      {
+        "value": "Machina Soldier MK II",
+        "description": "Machina Soldier MK II / SR / fire"
+      },
+      {
+        "value": "Hitodama",
+        "description": "Hitodama / SR / fire"
+      },
+      {
+        "value": "Wilinus Icewyrm",
+        "description": "Wilinus Icewyrm / SR / water"
+      },
+      {
+        "value": "Elmenhilde Windsprite",
+        "description": "Elmenhilde Windsprite / SR / wind"
+      },
+      {
+        "value": "Vrazarek Firewyrm",
+        "description": "Vrazarek Firewyrm / SR / fire"
+      },
+      {
+        "value": "Stone Golem",
+        "description": "Stone Golem / SR / earth"
+      },
+      {
+        "value": "Ruination Gargoyle",
+        "description": "Ruination Gargoyle / SR / earth"
+      },
+      {
+        "value": "Pixie",
+        "description": "Pixie / SR / light"
+      },
+      {
+        "value": "Elusious Windwyrm",
+        "description": "Elusious Windwyrm / SR / wind"
+      },
+      {
+        "value": "Angelie Cascade",
+        "description": "Angelie Cascade / SR / water"
+      },
+      {
+        "value": "Nopal",
+        "description": "Nopal / SR / water"
+      },
+      {
+        "value": "Tiamat Alter",
+        "description": "Tiamat Alter / SR / wind (series=omega)"
+      },
+      {
+        "value": "Colossus Alter",
+        "description": "Colossus Alter / SR / fire (series=omega)"
+      },
+      {
+        "value": "Leviathan Alter",
+        "description": "Leviathan Alter / SR / water (series=omega)"
+      },
+      {
+        "value": "Yggdrasil Alter",
+        "description": "Yggdrasil Alter / SR / earth (series=omega)"
+      },
+      {
+        "value": "Luminiera Alter",
+        "description": "Luminiera Alter / SR / light (series=omega)"
+      },
+      {
+        "value": "Celeste Alter",
+        "description": "Celeste Alter / SR / dark (series=omega)"
+      },
+      {
+        "value": "Ruby Carbuncle",
+        "description": "Ruby Carbuncle / SR / fire (series=carbuncle)"
+      },
+      {
+        "value": "Sapphire Carbuncle",
+        "description": "Sapphire Carbuncle / SR / water (series=carbuncle)"
+      },
+      {
+        "value": "Amber Carbuncle",
+        "description": "Amber Carbuncle / SR / earth (series=carbuncle)"
+      },
+      {
+        "value": "Jade Carbuncle",
+        "description": "Jade Carbuncle / SR / wind (series=carbuncle)"
+      },
+      {
+        "value": "Moonlight Carbuncle",
+        "description": "Moonlight Carbuncle / SR / light (series=carbuncle)"
+      },
+      {
+        "value": "Obsidian Carbuncle",
+        "description": "Obsidian Carbuncle / SR / dark (series=carbuncle)"
+      },
+      {
+        "value": "Black Rabbit",
+        "description": "Black Rabbit / SR / dark"
+      },
+      {
+        "value": "Spearsting",
+        "description": "Spearsting / R / wind"
+      },
+      {
+        "value": "Crusher",
+        "description": "Crusher / R / water"
+      },
+      {
+        "value": "Minotaur",
+        "description": "Minotaur / R / fire"
+      },
+      {
+        "value": "Sleepyhead",
+        "description": "Sleepyhead / R / earth"
+      },
+      {
+        "value": "Angelie",
+        "description": "Angelie / R / water"
+      },
+      {
+        "value": "Jawfish",
+        "description": "Jawfish / R / water"
+      },
+      {
+        "value": "Swordshark",
+        "description": "Swordshark / R / water"
+      },
+      {
+        "value": "Fire Elemental",
+        "description": "Fire Elemental / R / fire"
+      },
+      {
+        "value": "Water Elemental",
+        "description": "Water Elemental / R / water"
+      },
+      {
+        "value": "Earth Elemental",
+        "description": "Earth Elemental / R / earth"
+      },
+      {
+        "value": "Cave Bat",
+        "description": "Cave Bat / R / dark"
+      },
+      {
+        "value": "Rivacuda",
+        "description": "Rivacuda / R / water"
+      },
+      {
+        "value": "Lumacie Griffin",
+        "description": "Lumacie Griffin / R / earth"
+      },
+      {
+        "value": "Venom Lancer",
+        "description": "Venom Lancer / R / fire"
+      },
+      {
+        "value": "Rodfly",
+        "description": "Rodfly / R / wind"
+      },
+      {
+        "value": "Walking Torch",
+        "description": "Walking Torch / R / fire"
+      },
+      {
+        "value": "Slime",
+        "description": "Slime / R / water"
+      },
+      {
+        "value": "Imp",
+        "description": "Imp / R / dark"
+      },
+      {
+        "value": "Bonethorn",
+        "description": "Bonethorn / R / earth"
+      },
+      {
+        "value": "Twilight Devil",
+        "description": "Twilight Devil / R / fire"
+      },
+      {
+        "value": "Purgatorian",
+        "description": "Purgatorian / R / water"
+      },
+      {
+        "value": "Belle",
+        "description": "Belle / R / wind"
+      },
+      {
+        "value": "Ghost Light",
+        "description": "Ghost Light / R / light"
+      },
+      {
+        "value": "Crawler",
+        "description": "Crawler / R / earth"
+      },
+      {
+        "value": "Garula, Shining Hawk",
+        "description": "Garula, Shining Hawk / SSR / wind"
+      },
+      {
+        "value": "Forest Ranger",
+        "description": "Forest Ranger / SSR / earth"
+      },
+      {
+        "value": "Europa (Summon)",
+        "description": "Europa / SSR / water (series=genesis)"
+      },
+      {
+        "value": "Urkin",
+        "description": "Urkin / SSR / fire"
+      },
+      {
+        "value": "Lonesome Dragoness (Summon)",
+        "description": "Lonesome Dragoness / SSR / fire"
+      },
+      {
+        "value": "Zaoshen",
+        "description": "Zaoshen / SSR / fire"
+      },
+      {
+        "value": "Ankusha",
+        "description": "Ankusha / SSR / earth"
+      },
+      {
+        "value": "Sharom",
+        "description": "Sharom / SSR / dark"
+      },
+      {
+        "value": "Kero-chan",
+        "description": "Kero-chan / SSR / light (series=collab)"
+      },
+      {
+        "value": "Snow White",
+        "description": "Snow White / SSR / water"
+      },
+      {
+        "value": "Sapphire Dance: Gentiana",
+        "description": "Sapphire Dance: Gentiana / SSR / water"
+      },
+      {
+        "value": "Justice (SR)",
+        "description": "Justice / SR / water (series=arcarum)"
+      },
+      {
+        "value": "The Hanged Man (SR)",
+        "description": "The Hanged Man / SR / earth (series=arcarum)"
+      },
+      {
+        "value": "Death (SR)",
+        "description": "Death / SR / dark (series=arcarum)"
+      },
+      {
+        "value": "Temperance (SR)",
+        "description": "Temperance / SR / wind (series=arcarum)"
+      },
+      {
+        "value": "The Devil (SR)",
+        "description": "The Devil / SR / fire (series=arcarum)"
+      },
+      {
+        "value": "The Tower (SR)",
+        "description": "The Tower / SR / earth (series=arcarum)"
+      },
+      {
+        "value": "The Star (SR)",
+        "description": "The Star / SR / light (series=arcarum)"
+      },
+      {
+        "value": "The Moon (SR)",
+        "description": "The Moon / SR / water (series=arcarum)"
+      },
+      {
+        "value": "The Sun (SR)",
+        "description": "The Sun / SR / fire (series=arcarum)"
+      },
+      {
+        "value": "Judgement (SR)",
+        "description": "Judgement / SR / wind (series=arcarum)"
+      },
+      {
+        "value": "Justice (SSR)",
+        "description": "Justice / SSR / water (series=arcarum)"
+      },
+      {
+        "value": "The Hanged Man (SSR)",
+        "description": "The Hanged Man / SSR / earth (series=arcarum)"
+      },
+      {
+        "value": "Death (SSR)",
+        "description": "Death / SSR / dark (series=arcarum)"
+      },
+      {
+        "value": "Temperance (SSR)",
+        "description": "Temperance / SSR / wind (series=arcarum)"
+      },
+      {
+        "value": "The Devil (SSR)",
+        "description": "The Devil / SSR / fire (series=arcarum)"
+      },
+      {
+        "value": "The Tower (SSR)",
+        "description": "The Tower / SSR / earth (series=arcarum)"
+      },
+      {
+        "value": "The Star (SSR)",
+        "description": "The Star / SSR / light (series=arcarum)"
+      },
+      {
+        "value": "The Moon (SSR)",
+        "description": "The Moon / SSR / water (series=arcarum)"
+      },
+      {
+        "value": "The Sun (SSR)",
+        "description": "The Sun / SSR / fire (series=arcarum)"
+      },
+      {
+        "value": "Judgement (SSR)",
+        "description": "Judgement / SSR / wind (series=arcarum)"
+      },
+      {
+        "value": "Adramelech",
+        "description": "Adramelech / SSR / light"
+      },
+      {
+        "value": "Knight of Knights",
+        "description": "Knight of Knights / SSR / wind"
+      },
+      {
+        "value": "Eren",
+        "description": "Eren / SSR / fire (series=collab)"
+      },
+      {
+        "value": "Grimnir (Summon)",
+        "description": "Grimnir / SSR / wind (series=genesis)"
+      },
+      {
+        "value": "Crimson Spear, Ebony Scythe",
+        "description": "Crimson Spear, Ebony Scythe / SSR / fire"
+      },
+      {
+        "value": "Tsukuyomi (Summon)",
+        "description": "Tsukuyomi / SSR / dark"
+      },
+      {
+        "value": "Joya",
+        "description": "Joya / SSR / wind"
+      },
+      {
+        "value": "Halluel and Malluel (Summon)",
+        "description": "Halluel and Malluel / SSR / light (series=archangel)"
+      },
+      {
+        "value": "Demi Agni",
+        "description": "Demi Agni / SSR / fire (series=Demi Optimus)"
+      },
+      {
+        "value": "Demi Varuna",
+        "description": "Demi Varuna / SSR / water (series=demi optimus)"
+      },
+      {
+        "value": "Demi Titan",
+        "description": "Demi Titan / SSR / earth (series=demi optimus)"
+      },
+      {
+        "value": "Demi Zephyrus",
+        "description": "Demi Zephyrus / SSR / wind (series=demi optimus)"
+      },
+      {
+        "value": "Demi Zeus",
+        "description": "Demi Zeus / SSR / light (series=demi optimus)"
+      },
+      {
+        "value": "Demi Hades",
+        "description": "Demi Hades / SSR / dark (series=demi optimus)"
+      },
+      {
+        "value": "Sandalphon (Summon)",
+        "description": "Sandalphon / SSR / light"
+      },
+      {
+        "value": "Gigante Blazer",
+        "description": "Gigante Blazer / SSR / light"
+      },
+      {
+        "value": "Freyr (Summon)",
+        "description": "Freyr / SSR / wind"
+      },
+      {
+        "value": "Uriel (Summon)",
+        "description": "Uriel / SSR / earth (series=archangel)"
+      },
+      {
+        "value": "Unrivaled Fighter",
+        "description": "Unrivaled Fighter / SSR / fire"
+      },
+      {
+        "value": "Xeno Vohu Manah",
+        "description": "Xeno Vohu Manah / SSR / earth"
+      },
+      {
+        "value": "Gorilla",
+        "description": "Gorilla / SSR / earth"
+      },
+      {
+        "value": "Lunalu (Summon)",
+        "description": "Lunalu / SSR / dark"
+      },
+      {
+        "value": "Morgana Car",
+        "description": "Morgana Car / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Nobiyo",
+        "description": "Nobiyo / SSR / light"
+      },
+      {
+        "value": "Raphael (Summon)",
+        "description": "Raphael / SSR / wind (series=archangel)"
+      },
+      {
+        "value": "Narita",
+        "description": "Narita / SSR / dark"
+      },
+      {
+        "value": "Macula Marius (Summer)",
+        "description": "Macula Marius / SSR / water (series=summer)"
+      },
+      {
+        "value": "Electric Eal",
+        "description": "Electric Eal / SSR / light"
+      },
+      {
+        "value": "JEHUTY",
+        "description": "JEHUTY / SSR / light (series=collab)"
+      },
+      {
+        "value": "Gearcycle",
+        "description": "Gearcycle / SSR / wind"
+      },
+      {
+        "value": "Hamsa",
+        "description": "Hamsa / SSR / wind"
+      },
+      {
+        "value": "Anat, for Love and War",
+        "description": "Anat, for Love and War / SSR / wind"
+      },
+      {
+        "value": "H.D. Mining Excavator",
+        "description": "H.D. Mining Excavator / SSR / earth"
+      },
+      {
+        "value": "Mepple and Mipple",
+        "description": "Mepple and Mipple / SSR / light (series=collab)"
+      },
+      {
+        "value": "Michael (Summon)",
+        "description": "Michael / SSR / fire (series=archangel)"
+      },
+      {
+        "value": "Vane's Cooking",
+        "description": "Vane&#39;s Cooking / SSR / fire"
+      },
+      {
+        "value": "Poseidon, the Tide Father",
+        "description": "Poseidon, the Tide Father / SSR / water"
+      },
+      {
+        "value": "Krelkulkil",
+        "description": "Krelkulkil / SSR / dark"
+      },
+      {
+        "value": "Princess Knight",
+        "description": "Princess Knight / SSR / light (series=collab)"
+      },
+      {
+        "value": "Sylph, Flutterspirit of Purity",
+        "description": "Sylph, Flutterspirit of Purity / SSR / fire"
+      },
+      {
+        "value": "Gabriel (Summon)",
+        "description": "Gabriel / SSR / water (series=archangel)"
+      },
+      {
+        "value": "Flamek Pact",
+        "description": "Flamek Pact / SSR / dark"
+      },
+      {
+        "value": "Cerberus, Hellhound Trifecta",
+        "description": "Cerberus, Hellhound Trifecta / SSR / dark"
+      },
+      {
+        "value": "Magus, Triad of Wisdom",
+        "description": "Magus, Triad of Wisdom / SSR / light"
+      },
+      {
+        "value": "Cat Parade",
+        "description": "Cat Parade / SSR / earth"
+      },
+      {
+        "value": "Dragon's Rage",
+        "description": "Dragon&#39;s Rage / SSR / dark"
+      },
+      {
+        "value": "Marduk, Battlefield Reaper",
+        "description": "Marduk, Battlefield Reaper / SSR / earth"
+      },
+      {
+        "value": "Triple Zero",
+        "description": "Triple Zero / SSR / light (series=providence)"
+      },
+      {
+        "value": "Demonbream",
+        "description": "Demonbream / SSR / wind"
+      },
+      {
+        "value": "Delinquent Spirit",
+        "description": "Delinquent Spirit / SSR / wind"
+      },
+      {
+        "value": "Sariel (Summon)",
+        "description": "Sariel / SSR / dark (series=archangel)"
+      },
+      {
+        "value": "Gorgon Sisters",
+        "description": "Gorgon Sisters / SSR / earth"
+      },
+      {
+        "value": "From Ladiva with Love",
+        "description": "From Ladiva with Love / SSR / light"
+      },
+      {
+        "value": "Metatron (Summon)",
+        "description": "Metatron / SSR / light (series=archangel)"
+      },
+      {
+        "value": "C.C.",
+        "description": "C.C. / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Rainy Day",
+        "description": "Rainy Day / SSR / dark"
+      },
+      {
+        "value": "Yggdrasil (Summer)",
+        "description": "Yggdrasil (Summer) / SSR / earth (series=summer)"
+      },
+      {
+        "value": "God Albacore",
+        "description": "God Albacore / SSR / water"
+      },
+      {
+        "value": "Satyr (Summer)",
+        "description": "Satyr / SSR / fire (series=summer)"
+      },
+      {
+        "value": "Rose Queen (Summer)",
+        "description": "Rose Queen / SSR / wind (series=summer)"
+      },
+      {
+        "value": "Dancing Man",
+        "description": "Dancing Man / SSR / fire"
+      },
+      {
+        "value": "Surtr",
+        "description": "Surtr / SSR / fire (series=crest)"
+      },
+      {
+        "value": "Team Chickadee",
+        "description": "Team Chickadee / SSR / wind"
+      },
+      {
+        "value": "Princess Long Ji",
+        "description": "Princess Long Ji / SSR / water (series=crest)"
+      },
+      {
+        "value": "Sapphire Dance: Habotan",
+        "description": "Sapphire Dance: Habotan / SSR / light"
+      },
+      {
+        "value": "Dogu",
+        "description": "Dogu / SSR / earth (series=crest)"
+      },
+      {
+        "value": "Sky Carriage SS Pew Pew",
+        "description": "Sky Carriage SS Pew Pew / SSR / fire"
+      },
+      {
+        "value": "Elil",
+        "description": "Elil / SSR / wind (series=crest)"
+      },
+      {
+        "value": "Mukku",
+        "description": "Mukku / SSR / fire (series=collab)"
+      },
+      {
+        "value": "Proto-Joya",
+        "description": "Proto-Joya / SSR / wind"
+      },
+      {
+        "value": "Belial",
+        "description": "Belial / SSR / dark (series=providence)"
+      },
+      {
+        "value": "Swinger of the Ebony Scythe",
+        "description": "Swinger of the Ebony Scythe / SSR / dark"
+      },
+      {
+        "value": "Heimdallr",
+        "description": "Heimdallr / SSR / light (series=crest)"
+      },
+      {
+        "value": "Beelzebub",
+        "description": "Beelzebub / SSR / dark (series=providence)"
+      },
+      {
+        "value": "The Eternal Defenders",
+        "description": "The Eternal Defenders / SSR / wind"
+      },
+      {
+        "value": "Nyarlathotep",
+        "description": "Nyarlathotep / SSR / dark (series=crest)"
+      },
+      {
+        "value": "Wilnas (Summon)",
+        "description": "Wilnas / SSR / fire (series=six dragons)"
+      },
+      {
+        "value": "Ewiyar (Summon)",
+        "description": "Ewiyar / SSR / wind (series=six dragons)"
+      },
+      {
+        "value": "Dynamic Merc Duo",
+        "description": "Dynamic Merc Duo / SSR / earth"
+      },
+      {
+        "value": "Red Hare",
+        "description": "Red Hare / SSR / fire (series=bellum)"
+      },
+      {
+        "value": "Galleon (Summon)",
+        "description": "Galleon / SSR / earth (series=six dragons)"
+      },
+      {
+        "value": "Silver Salvation",
+        "description": "Silver Salvation / SSR / water"
+      },
+      {
+        "value": "Charybdis",
+        "description": "Charybdis / SSR / water (series=bellum)"
+      },
+      {
+        "value": "Golden Piña",
+        "description": "Golden Piña / SSR / light (series=collab)"
+      },
+      {
+        "value": "Goregrinders",
+        "description": "Goregrinders / SSR / wind"
+      },
+      {
+        "value": "Owlcat",
+        "description": "Owlcat / SSR / wind (series=bellum)"
+      },
+      {
+        "value": "Xeno Ifrit",
+        "description": "Xeno Ifrit / SSR / fire"
+      },
+      {
+        "value": "Deepflight Oyster",
+        "description": "Deepflight Oyster / SSR / water"
+      },
+      {
+        "value": "Athena (Summer)",
+        "description": "Athena / SSR / fire (series=summer)"
+      },
+      {
+        "value": "Mammoth",
+        "description": "Mammoth / SSR / earth (series=bellum)"
+      },
+      {
+        "value": "Colossal Hermit",
+        "description": "Colossal Hermit / SSR / light"
+      },
+      {
+        "value": "Freyr (Yukata)",
+        "description": "Freyr / SSR / earth (series=yukata)"
+      },
+      {
+        "value": "Kaguya (Summer)",
+        "description": "Kaguya / SSR / light (series=summer)"
+      },
+      {
+        "value": "Zhuque",
+        "description": "Zhuque / SSR / fire"
+      },
+      {
+        "value": "Xuanwu",
+        "description": "Xuanwu / SSR / water"
+      },
+      {
+        "value": "Baihu",
+        "description": "Baihu / SSR / earth"
+      },
+      {
+        "value": "Qinglong",
+        "description": "Qinglong / SSR / wind"
+      },
+      {
+        "value": "Artemis",
+        "description": "Artemis / SSR / light (series=bellum)"
+      },
+      {
+        "value": "Blessed Wedding",
+        "description": "Blessed Wedding / SSR / water"
+      },
+      {
+        "value": "Xeno Sagittarius",
+        "description": "Xeno Sagittarius / SSR / wind"
+      },
+      {
+        "value": "Ignis Dragon",
+        "description": "Ignis Dragon / SSR / fire (series=collab)"
+      },
+      {
+        "value": "Frost Lord's Army",
+        "description": "Frost Lord's Army / SSR / water"
+      },
+      {
+        "value": "Zirnitra",
+        "description": "Zirnitra / SSR / dark (series=bellum)"
+      },
+      {
+        "value": "Cutest Golden Statue in the Skies",
+        "description": "Cutest Golden Statue in the Skies / SSR / earth"
+      },
+      {
+        "value": "Guardian Ku-Keoloewa",
+        "description": "Guardian Ku-Keoloewa / SSR / wind"
+      },
+      {
+        "value": "Sariel (Holiday)",
+        "description": "Sariel / SSR / dark (series=holiday)"
+      },
+      {
+        "value": "Giyu Tomioka",
+        "description": "Giyu Tomioka / SSR / water (series=collab)"
+      },
+      {
+        "value": "Xeno Corow",
+        "description": "Xeno Corow / SSR / light"
+      },
+      {
+        "value": "Ultra Robo Grand God Kaiser",
+        "description": "Ultra Robo Grand God Kaiser / SSR / light"
+      },
+      {
+        "value": "Tsuchinoko",
+        "description": "Tsuchinoko / SSR / earth (series=cryptid)"
+      },
+      {
+        "value": "Idle Sparkle",
+        "description": "Idle Sparkle / SSR / earth"
+      },
+      {
+        "value": "Automagod Triumvirate",
+        "description": "Automagod Triumvirate / SSR / dark"
+      },
+      {
+        "value": "Xeno Cocytus",
+        "description": "Xeno Cocytus / SSR / water"
+      },
+      {
+        "value": "Snapshot of Divinity",
+        "description": "Snapshot of Divinity / SSR / water"
+      },
+      {
+        "value": "Arbiter of Lies",
+        "description": "Arbiter of Lies / SSR / light"
+      },
+      {
+        "value": "Xeno Diablo",
+        "description": "Xeno Diablo / SSR / dark"
+      },
+      {
+        "value": "Destiny Nocturnes",
+        "description": "Destiny Nocturnes / SSR / earth"
+      },
+      {
+        "value": "Tiamat (Summer)",
+        "description": "Tiamat / SSR / wind (series=summer)"
+      },
+      {
+        "value": "Mandrake (Summer)",
+        "description": "Mandrake / SSR / earth (series=summer)"
+      },
+      {
+        "value": "Kotaro Katsura and Elizabeth",
+        "description": "Kotaro Katsura and Elizabeth / SSR / wind (series=collab)"
+      },
+      {
+        "value": "Shizuka, Gian, and Suneo",
+        "description": "Shizuka, Gian, and Suneo / SSR / light (series=collab)"
+      },
+      {
+        "value": "Gold Ship and Mejiro McQueen",
+        "description": "Gold Ship and Mejiro McQueen / SSR / earth (series=collab)"
+      },
+      {
+        "value": "Lu Woh (Summon)",
+        "description": "Lu Woh / SSR / light (series=six dragons)"
+      },
+      {
+        "value": "Shantotto II",
+        "description": "Shantotto II / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Belial (Summer)",
+        "description": "Belial / SSR / fire (series=summer)"
+      },
+      {
+        "value": "Sleepyhead (Summer)",
+        "description": "Sleepyhead / SSR / dark (series=summer)"
+      },
+      {
+        "value": "Wamdus (Summon)",
+        "description": "Wamdus / SSR / water (series=Six Dragons)"
+      },
+      {
+        "value": "Uta",
+        "description": "Uta / SSR / light (series=collab)"
+      },
+      {
+        "value": "Usopp, Chopper, Franky, Brook, and Jimbei",
+        "description": "Usopp, Chopper, Franky, Brook, and Jimbei / SSR / water (series=collab)"
+      },
+      {
+        "value": "Hekate (Summon)",
+        "description": "Hekate / SSR / fire"
+      },
+      {
+        "value": "Yatima (Summon)",
+        "description": "Yatima / SSR / water (series=providence)"
+      },
+      {
+        "value": "Fediel (Summon)",
+        "description": "Fediel / SSR / dark (series=six dragons)"
+      },
+      {
+        "value": "Sanrio Characters",
+        "description": "Sanrio Characters / SSR / fire (series=collab)"
+      },
+      {
+        "value": "Cerberus (Summer)",
+        "description": "Cerberus / SSR / fire (series=summer)"
+      },
+      {
+        "value": "Aoi Todo",
+        "description": "Aoi Todo / SSR / light (series=collab)"
+      },
+      {
+        "value": "Satoru Gojo",
+        "description": "Satoru Gojo / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Tyrannosaurus (Summer)",
+        "description": "Tyrannosaurus / SSR / water (series=summer)"
+      },
+      {
+        "value": "Noire (Summon)",
+        "description": "Noire / SSR / wind"
+      },
+      {
+        "value": "Tuna and Salmun",
+        "description": "Tuna and Salmun / SSR / fire"
+      },
+      {
+        "value": "All Might",
+        "description": "All Might / SSR / light (series=collab)"
+      },
+      {
+        "value": "Mars (Summer)",
+        "description": "Mars / SSR / light (series=summer)"
+      },
+      {
+        "value": "Beelzebub (Summer)",
+        "description": "Beelzebub / SSR / water (series=summer)"
+      },
+      {
+        "value": "Wedges of the Sky",
+        "description": "Wedges of the Sky / SSR / wind"
+      },
+      {
+        "value": "Versusia",
+        "description": "Versusia / SSR / fire (series=providence)"
+      },
+      {
+        "value": "Milim Nava",
+        "description": "Milim Nava / SSR / dark (series=collab)"
+      },
+      {
+        "value": "God Rabbit Gigamax",
+        "description": "God Rabbit Gigamax / SSR / light"
+      },
+      {
+        "value": "Orologia (Summon)",
+        "description": "Orologia / SSR / dark (series=providence)"
+      },
+      {
+        "value": "Asuna Kagurazaka",
+        "description": "Asuna Kagurazaka / SSR / light (series=collab)"
+      },
+      {
+        "value": "Tetragod",
+        "description": "Tetragod / SSR / water (series=robur)"
+      },
+      {
+        "value": "Soul Invoker",
+        "description": "Soul Invoker / SSR / fire (series=robur)"
+      },
+      {
+        "value": "Bastet (Summer)",
+        "description": "Bastet / SSR / wind (series=summer)"
+      },
+      {
+        "value": "Commander of Destruction",
+        "description": "Commander of Destruction / SSR / earth (series=robur)"
+      },
+      {
+        "value": "Nobunaga, Feitan, Machi, and Uvogin",
+        "description": "Nobunaga, Feitan, Machi, and Uvogin / SSR / dark (series=collab)"
+      },
+      {
+        "value": "Hisoka",
+        "description": "Hisoka / SSR / water (series=collab)"
+      },
+      {
+        "value": "Vepar",
+        "description": "Vepar / SSR / dark (series=robur)"
+      },
+      {
+        "value": "Bastet",
+        "description": "Bastet / SSR / light (series=acies)"
+      },
+      {
+        "value": "Fairy Princess",
+        "description": "Fairy Princess / SSR / light (series=robur)"
+      },
+      {
+        "value": "Cassiopeia",
+        "description": "Cassiopeia / SSR / wind (series=robur)"
+      },
+      {
+        "value": "Mari and Unit 08",
+        "description": "Mari and Unit 08 / SSR / wind (series=collab)"
+      },
+      {
+        "value": "Trigger of Awakening: Shinji and Rei",
+        "description": "Trigger of Awakening: Shinji and Rei / SSR / water (series=collab)"
+      },
+      {
+        "value": "Belmervolk",
+        "description": "Belmervolk / SSR / fire (series=odious)"
+      },
+      {
+        "value": "Nihuyvintae",
+        "description": "Nihuyvintae / SSR / water (series=odious)"
+      },
+      {
+        "value": "Virtuous Huanglong",
+        "description": "Virtuous Huanglong / SSR / light"
+      },
+      {
+        "value": "Stygian Qilin",
+        "description": "Stygian Qilin / SSR / dark"
+      },
+      {
+        "value": "Narophirmidas",
+        "description": "Narophirmidas / SSR / earth (series=odious)"
+      },
+      {
+        "value": "Macutanmacar",
+        "description": "Macutanmacar / SSR / wind (series=odious)"
+      },
+      {
+        "value": "Zamalvoch",
+        "description": "Zamalvoch / SSR / dark (series=odious)"
+      },
+      {
+        "value": "Papahlukruva",
+        "description": "Papahlukruva / SSR / light (series=odious)"
+      },
+      {
+        "value": "Alex Louis Armstrong",
+        "description": "Alex Louis Armstrong / SSR / water (series=collab)"
+      },
+      {
+        "value": "Alphonse Elric",
+        "description": "Alphonse Elric / SSR / earth (series=collab)"
+      },
+      {
+        "value": "Lodern",
+        "description": "Lodern / SSR / fire (series=acies)"
+      },
+      {
+        "value": "The Supreme Conqueror",
+        "description": "The Supreme Conqueror / SSR / dark (series=providence)"
+      },
+      {
+        "value": "Kisuke Urahara",
+        "description": "Kisuke Urahara / SSR / light (series=collab)"
+      },
+      {
+        "value": "Byakuya Kuchiki, Kenpachi Zaraki, and Mayuri Kurotsuchi",
+        "description": "Byakuya Kuchiki, Kenpachi Zaraki, and Mayuri Kurotsuchi / SSR / wind (series=collab)"
+      },
+      {
+        "value": "Ms. Tart Man (Summer)",
+        "description": "Ms. Tart Man / SSR / earth (series=summer)"
+      },
+      {
+        "value": "Poppet Hareloom",
+        "description": "Poppet Hareloom / SSR / dark (series=acies)"
+      }
+    ]
+  },
+  "templates": {}
+}
