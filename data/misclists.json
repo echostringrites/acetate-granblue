@@ -1,0 +1,1975 @@
+{
+  "schema": 1,
+  "generated": "b3bfbf89-4c58-4ac8-ad2d-a700173a55cc",
+  "valueLists": {
+    "classes": [
+      {
+        "value": "Alchemist",
+        "label": "alchemist-11"
+      },
+      {
+        "value": "Arcana Dueler",
+        "label": "enhancer-2"
+      },
+      {
+        "value": "Archer",
+        "label": "ranger-2"
+      },
+      {
+        "value": "Assassin",
+        "label": "assassin-11"
+      },
+      {
+        "value": "Bandit Tycoon",
+        "label": "thief-4"
+      },
+      {
+        "value": "Bard",
+        "label": "harpist-2"
+      },
+      {
+        "value": "Berserker",
+        "label": "fighter-4"
+      },
+      {
+        "value": "Bishop",
+        "label": "priest-3"
+      },
+      {
+        "value": "Chaos Ruler",
+        "label": "enhancer-4"
+      },
+      {
+        "value": "Cleric",
+        "label": "priest-2"
+      },
+      {
+        "value": "Dark Fencer",
+        "label": "enhancer-3"
+      },
+      {
+        "value": "Dragoon",
+        "label": "lancer-2"
+      },
+      {
+        "value": "Enhancer",
+        "label": "enhancer-1"
+      },
+      {
+        "value": "Fighter",
+        "label": "fighter-1"
+      },
+      {
+        "value": "Grappler",
+        "label": "grappler-1"
+      },
+      {
+        "value": "Gunslinger",
+        "label": "gunslinger-11"
+      },
+      {
+        "value": "Harpist",
+        "label": "harpist-1"
+      },
+      {
+        "value": "Hawkeye",
+        "label": "thief-3"
+      },
+      {
+        "value": "Hermit",
+        "label": "wizard-3"
+      },
+      {
+        "value": "Holy Saber",
+        "label": "knight-3"
+      },
+      {
+        "value": "Knight",
+        "label": "knight-1"
+      },
+      {
+        "value": "Kung Fu Artist",
+        "label": "grappler-2"
+      },
+      {
+        "value": "Lancer",
+        "label": "lancer-1"
+      },
+      {
+        "value": "Mystic",
+        "label": "mystic-11"
+      },
+      {
+        "value": "Ninja",
+        "label": "ninja-11"
+      },
+      {
+        "value": "Ogre",
+        "label": "grappler-3"
+      },
+      {
+        "value": "Priest",
+        "label": "priest-1"
+      },
+      {
+        "value": "Raider",
+        "label": "thief-2"
+      },
+      {
+        "value": "Ranger",
+        "label": "ranger-1"
+      },
+      {
+        "value": "Sage",
+        "label": "priest-4"
+      },
+      {
+        "value": "Samurai",
+        "label": "samurai-11"
+      },
+      {
+        "value": "Sentinel",
+        "label": "knight-2"
+      },
+      {
+        "value": "Sidewinder",
+        "label": "ranger-3"
+      },
+      {
+        "value": "Sorcerer",
+        "label": "wizard-2"
+      },
+      {
+        "value": "Spartan",
+        "label": "knight-4"
+      },
+      {
+        "value": "Superstar",
+        "label": "harpist-3"
+      },
+      {
+        "value": "Sword Master",
+        "label": "swordmaster-11"
+      },
+      {
+        "value": "Thief",
+        "label": "thief-1"
+      },
+      {
+        "value": "Valkyrie",
+        "label": "lancer-3"
+      },
+      {
+        "value": "Warlock",
+        "label": "wizard-4"
+      },
+      {
+        "value": "Warrior",
+        "label": "fighter-2"
+      },
+      {
+        "value": "Weapon Master",
+        "label": "fighter-3"
+      },
+      {
+        "value": "Wizard",
+        "label": "wizard-1"
+      },
+      {
+        "value": "Luchador",
+        "label": "grappler-4"
+      },
+      {
+        "value": "Nighthound",
+        "label": "ranger-4"
+      },
+      {
+        "value": "Apsaras",
+        "label": "lancer-4"
+      },
+      {
+        "value": "Elysian",
+        "label": "harpist-4"
+      },
+      {
+        "value": "Drum Master",
+        "label": "drummaster-11"
+      },
+      {
+        "value": "Dancer",
+        "label": "dancer-11"
+      },
+      {
+        "value": "Mechanic",
+        "label": "mechanic-11"
+      },
+      {
+        "value": "Glorybringer",
+        "label": "swordmaster-12"
+      },
+      {
+        "value": "Nekomancer",
+        "label": "mystic-12"
+      },
+      {
+        "value": "Kengo",
+        "label": "samurai-12"
+      },
+      {
+        "value": "Runeslayer",
+        "label": "ninja-12"
+      },
+      {
+        "value": "Doctor",
+        "label": "alchemist-12"
+      },
+      {
+        "value": "Chrysaor",
+        "label": "gladiator-4"
+      },
+      {
+        "value": "Gladiator",
+        "label": "gladiator-3"
+      },
+      {
+        "value": "Soldier",
+        "label": "gunslinger-12"
+      },
+      {
+        "value": "Tormentor",
+        "label": "assassin-12"
+      },
+      {
+        "value": "Rising Force",
+        "label": "drummaster-12"
+      },
+      {
+        "value": "Lumberjack",
+        "label": "lumberjack-4"
+      },
+      {
+        "value": "Cavalier",
+        "label": "cavalier-4"
+      },
+      {
+        "value": "Monk",
+        "label": "monk-4"
+      },
+      {
+        "value": "Robin Hood",
+        "label": "robinhood-4"
+      },
+      {
+        "value": "Masquerade",
+        "label": "dancer-12"
+      },
+      {
+        "value": "Relic Buster",
+        "label": "relicbuster-4"
+      },
+      {
+        "value": "Viking",
+        "label": "fighter-5"
+      },
+      {
+        "value": "Paladin",
+        "label": "knight-5"
+      },
+      {
+        "value": "Iatromantis",
+        "label": "priest-5"
+      },
+      {
+        "value": "Manadiver",
+        "label": "wizard-5"
+      },
+      {
+        "value": "Yamato",
+        "label": "yamato-4"
+      },
+      {
+        "value": "Street King",
+        "label": "thief-5"
+      },
+      {
+        "value": "Onmyoji",
+        "label": "enhancer-5"
+      },
+      {
+        "value": "Shieldsworn",
+        "label": "shieldsworn-4"
+      },
+      {
+        "value": "Sumaibito",
+        "label": "grappler-5"
+      },
+      {
+        "value": "Boogeyman",
+        "label": "ranger-5"
+      },
+      {
+        "value": "Mariachi",
+        "label": "harpist-5"
+      },
+      {
+        "value": "Fighter Origin",
+        "label": "fighter-0"
+      },
+      {
+        "value": "Lancer Origin",
+        "label": "lancer-0"
+      },
+      {
+        "value": "Wizard Origin",
+        "label": "wizard-0"
+      },
+      {
+        "value": "Ranger Origin",
+        "label": "ranger-0"
+      }
+    ],
+    "class_skills": [
+      {
+        "value": "Alchemize Green Potion",
+        "label": "Alchemist-s1"
+      },
+      {
+        "value": "Just the Cure",
+        "label": "Alchemist-s2"
+      },
+      {
+        "value": "A Little Pick-Me-Up",
+        "label": "Alchemist-s3"
+      },
+      {
+        "value": "Fury Capsule",
+        "label": "Alchemist-ex1"
+      },
+      {
+        "value": "Stall",
+        "label": "Arcana Dueler-s1"
+      },
+      {
+        "value": "Elemental Focus II",
+        "label": "Arcana Dueler-s2"
+      },
+      {
+        "value": "Quick Strike",
+        "label": "Arcana Dueler-s3"
+      },
+      {
+        "value": "Quick Step",
+        "label": "Archer-s1"
+      },
+      {
+        "value": "Rain of Arrows II",
+        "label": "Archer-s2"
+      },
+      {
+        "value": "Hard Line",
+        "label": "Archer-s3"
+      },
+      {
+        "value": "Selectively Skilled",
+        "label": "Assassin-s1"
+      },
+      {
+        "value": "Out of Sight",
+        "label": "Assassin-s2"
+      },
+      {
+        "value": "Retaliation Reprise",
+        "label": "Assassin-s3"
+      },
+      {
+        "value": "Conceal",
+        "label": "Assassin-ex1"
+      },
+      {
+        "value": "Crack Shot III",
+        "label": "Bandit Tycoon-s1"
+      },
+      {
+        "value": "Bounty Hunter IV",
+        "label": "Bandit Tycoon-ex1"
+      },
+      {
+        "value": "White Smoke",
+        "label": "Bandit Tycoon-ex2"
+      },
+      {
+        "value": "Rupie Flip",
+        "label": "Bandit Tycoon-ex3"
+      },
+      {
+        "value": "Spring's Gate",
+        "label": "Bandit Tycoon-ex4"
+      },
+      {
+        "value": "Roll of the Dice",
+        "label": "Bandit Tycoon-umex1"
+      },
+      {
+        "value": "Sublime Springscape",
+        "label": "Bandit Tycoon-umex2"
+      },
+      {
+        "value": "Heart of Chivalry",
+        "label": "Bandit Tycoon-umex3"
+      },
+      {
+        "value": "Overture",
+        "label": "Bard-s1"
+      },
+      {
+        "value": "Angelic Voice II",
+        "label": "Bard-s2"
+      },
+      {
+        "value": "Bard Song",
+        "label": "Bard-s3"
+      },
+      {
+        "value": "Full Arsenal III",
+        "label": "Berserker-s1"
+      },
+      {
+        "value": "Armor Break II",
+        "label": "Berserker-ex1"
+      },
+      {
+        "value": "Rage IV",
+        "label": "Berserker-ex2"
+      },
+      {
+        "value": "Rampage II",
+        "label": "Berserker-ex3"
+      },
+      {
+        "value": "Ulfhedinn",
+        "label": "Berserker-ex4"
+      },
+      {
+        "value": "Ferocious Roar",
+        "label": "Berserker-umex1"
+      },
+      {
+        "value": "Beast Fang",
+        "label": "Berserker-umex2"
+      },
+      {
+        "value": "Bloodzerker",
+        "label": "Berserker-umex3"
+      },
+      {
+        "value": "Panacea II",
+        "label": "Bishop-s1"
+      },
+      {
+        "value": "Dispel",
+        "label": "Bishop-s2"
+      },
+      {
+        "value": "Revive",
+        "label": "Bishop-s3"
+      },
+      {
+        "value": "Veil",
+        "label": "Bishop-ex1"
+      },
+      {
+        "value": "White Wall",
+        "label": "Bishop-ex2"
+      },
+      {
+        "value": "Stall III",
+        "label": "Chaos Ruler-s1"
+      },
+      {
+        "value": "Uprising",
+        "label": "Chaos Ruler-ex1"
+      },
+      {
+        "value": "Unpredictable",
+        "label": "Chaos Ruler-ex2"
+      },
+      {
+        "value": "Chaos",
+        "label": "Chaos Ruler-ex3"
+      },
+      {
+        "value": "Absorption",
+        "label": "Chaos Ruler-ex4"
+      },
+      {
+        "value": "Bleak Disorder",
+        "label": "Chaos Ruler-umex1"
+      },
+      {
+        "value": "Flames of Chaos",
+        "label": "Chaos Ruler-umex2"
+      },
+      {
+        "value": "Malignity",
+        "label": "Chaos Ruler-umex3"
+      },
+      {
+        "value": "Panacea",
+        "label": "Cleric-s1"
+      },
+      {
+        "value": "Clarity",
+        "label": "Cleric-s2"
+      },
+      {
+        "value": "Blessing",
+        "label": "Cleric-s3"
+      },
+      {
+        "value": "Stall II",
+        "label": "Dark Fencer-s1"
+      },
+      {
+        "value": "Miserable Mist",
+        "label": "Dark Fencer-s2"
+      },
+      {
+        "value": "Gravity Wave",
+        "label": "Dark Fencer-s3"
+      },
+      {
+        "value": "Quick Down",
+        "label": "Dark Fencer-ex1"
+      },
+      {
+        "value": "Blood Sword",
+        "label": "Dark Fencer-ex2"
+      },
+      {
+        "value": "Drive It In",
+        "label": "Dragoon-s1"
+      },
+      {
+        "value": "Double Trouble II",
+        "label": "Dragoon-s2"
+      },
+      {
+        "value": "Battle Scar",
+        "label": "Dragoon-s3"
+      },
+      {
+        "value": "Stall",
+        "label": "Enhancer-s1"
+      },
+      {
+        "value": "Elemental Focus",
+        "label": "Enhancer-s2"
+      },
+      {
+        "value": "Full Arsenal",
+        "label": "Fighter-s1"
+      },
+      {
+        "value": "Rage",
+        "label": "Fighter-s2"
+      },
+      {
+        "value": "Counter",
+        "label": "Grappler-s1"
+      },
+      {
+        "value": "Taking Chances",
+        "label": "Grappler-s2"
+      },
+      {
+        "value": "Early Shot",
+        "label": "Gunslinger-s1"
+      },
+      {
+        "value": "Triple Threat",
+        "label": "Gunslinger-s2"
+      },
+      {
+        "value": "Lock 'n' Load",
+        "label": "Gunslinger-s3"
+      },
+      {
+        "value": "Blitzburst",
+        "label": "Gunslinger-ex1"
+      },
+      {
+        "value": "Overture",
+        "label": "Harpist-s1"
+      },
+      {
+        "value": "Angelic Voice",
+        "label": "Harpist-s2"
+      },
+      {
+        "value": "Crack Shot II",
+        "label": "Hawkeye-s1"
+      },
+      {
+        "value": "Bounty Hunter III",
+        "label": "Hawkeye-s2"
+      },
+      {
+        "value": "Lethal Aim",
+        "label": "Hawkeye-s3"
+      },
+      {
+        "value": "Extend Break",
+        "label": "Hawkeye-ex1"
+      },
+      {
+        "value": "Force Snatch",
+        "label": "Hawkeye-ex2"
+      },
+      {
+        "value": "Aether Blast II",
+        "label": "Hermit-s1"
+      },
+      {
+        "value": "Venom",
+        "label": "Hermit-s2"
+      },
+      {
+        "value": "Laser Focus",
+        "label": "Hermit-s3"
+      },
+      {
+        "value": "Bounce",
+        "label": "Hermit-ex1"
+      },
+      {
+        "value": "Choke",
+        "label": "Hermit-ex2"
+      },
+      {
+        "value": "Phalanx II",
+        "label": "Holy Saber-s1"
+      },
+      {
+        "value": "Overdrive Surge III",
+        "label": "Holy Saber-s2"
+      },
+      {
+        "value": "Substitute",
+        "label": "Holy Saber-s3"
+      },
+      {
+        "value": "Reflection",
+        "label": "Holy Saber-ex1"
+      },
+      {
+        "value": "Testudo",
+        "label": "Holy Saber-ex2"
+      },
+      {
+        "value": "Phalanx",
+        "label": "Knight-s1"
+      },
+      {
+        "value": "Overdrive Surge",
+        "label": "Knight-s2"
+      },
+      {
+        "value": "Counter",
+        "label": "Kung Fu Artist-s1"
+      },
+      {
+        "value": "Taking Chances II",
+        "label": "Kung Fu Artist-s2"
+      },
+      {
+        "value": "Chi Channeler",
+        "label": "Kung Fu Artist-s3"
+      },
+      {
+        "value": "Drive It In",
+        "label": "Lancer-s1"
+      },
+      {
+        "value": "Double Trouble",
+        "label": "Lancer-s2"
+      },
+      {
+        "value": "Omnipotent Eye",
+        "label": "Mystic-s1"
+      },
+      {
+        "value": "Fate Foreseen",
+        "label": "Mystic-s2"
+      },
+      {
+        "value": "Splitting Spirit",
+        "label": "Mystic-s3"
+      },
+      {
+        "value": "Third Eye",
+        "label": "Mystic-ex1"
+      },
+      {
+        "value": "Ninjutsu",
+        "label": "Ninja-s1"
+      },
+      {
+        "value": "Fuma Shuriken",
+        "label": "Ninja-s2"
+      },
+      {
+        "value": "Haze",
+        "label": "Ninja-s3"
+      },
+      {
+        "value": "Home-Made Bomb",
+        "label": "Ninja-ex1"
+      },
+      {
+        "value": "Counter II",
+        "label": "Ogre-s1"
+      },
+      {
+        "value": "Fighting Spirit",
+        "label": "Ogre-s2"
+      },
+      {
+        "value": "Pandemonium",
+        "label": "Ogre-s3"
+      },
+      {
+        "value": "Spirit of Training",
+        "label": "Ogre-ex1"
+      },
+      {
+        "value": "Horizontal Solace",
+        "label": "Ogre-ex2"
+      },
+      {
+        "value": "Panacea",
+        "label": "Priest-s1"
+      },
+      {
+        "value": "Grace",
+        "label": "Priest-s2"
+      },
+      {
+        "value": "Crack Shot",
+        "label": "Raider-s1"
+      },
+      {
+        "value": "Bounty Hunter II",
+        "label": "Raider-s2"
+      },
+      {
+        "value": "Tricky Moves",
+        "label": "Raider-s3"
+      },
+      {
+        "value": "Quick Step",
+        "label": "Ranger-s1"
+      },
+      {
+        "value": "Rain of Arrows",
+        "label": "Ranger-s2"
+      },
+      {
+        "value": "Panacea III",
+        "label": "Sage-s1"
+      },
+      {
+        "value": "Blessing II",
+        "label": "Sage-ex1"
+      },
+      {
+        "value": "Dispel Deluge",
+        "label": "Sage-ex2"
+      },
+      {
+        "value": "Peace of Mind",
+        "label": "Sage-ex3"
+      },
+      {
+        "value": "Path Illuminated",
+        "label": "Sage-umex1"
+      },
+      {
+        "value": "Lapin Blanc",
+        "label": "Sage-umex2"
+      },
+      {
+        "value": "Cathedral's Benison",
+        "label": "Sage-umex3"
+      },
+      {
+        "value": "Finishing Touch",
+        "label": "Samurai-s1"
+      },
+      {
+        "value": "Self Reflection",
+        "label": "Samurai-s2"
+      },
+      {
+        "value": "Quiet Strategy",
+        "label": "Samurai-s3"
+      },
+      {
+        "value": "Into Thin Air",
+        "label": "Samurai-ex1"
+      },
+      {
+        "value": "Phalanx",
+        "label": "Sentinel-s1"
+      },
+      {
+        "value": "Overdrive Surge II",
+        "label": "Sentinel-s2"
+      },
+      {
+        "value": "Centurion",
+        "label": "Sentinel-s3"
+      },
+      {
+        "value": "Quick Step II",
+        "label": "Sidewinder-s1"
+      },
+      {
+        "value": "Rain of Arrows III",
+        "label": "Sidewinder-s2"
+      },
+      {
+        "value": "Bullseye Run",
+        "label": "Sidewinder-s3"
+      },
+      {
+        "value": "Steady Aim",
+        "label": "Sidewinder-ex1"
+      },
+      {
+        "value": "Change",
+        "label": "Sidewinder-ex2"
+      },
+      {
+        "value": "Aether Blast",
+        "label": "Sorcerer-s1"
+      },
+      {
+        "value": "Freeze",
+        "label": "Sorcerer-s2"
+      },
+      {
+        "value": "Blind",
+        "label": "Sorcerer-s3"
+      },
+      {
+        "value": "Phalanx III",
+        "label": "Spartan-s1"
+      },
+      {
+        "value": "Guardian",
+        "label": "Spartan-ex1"
+      },
+      {
+        "value": "Centurion II",
+        "label": "Spartan-ex2"
+      },
+      {
+        "value": "Hardened Shield",
+        "label": "Spartan-ex3"
+      },
+      {
+        "value": "Thermopylae",
+        "label": "Spartan-umex1"
+      },
+      {
+        "value": "Hoplite",
+        "label": "Spartan-umex2"
+      },
+      {
+        "value": "Molon Labe",
+        "label": "Spartan-umex3"
+      },
+      {
+        "value": "Overture II",
+        "label": "Superstar-s1"
+      },
+      {
+        "value": "Soul Soloist",
+        "label": "Superstar-s2"
+      },
+      {
+        "value": "Sky Realm Song",
+        "label": "Superstar-s3"
+      },
+      {
+        "value": "Sheep Song",
+        "label": "Superstar-ex1"
+      },
+      {
+        "value": "Tremor Round",
+        "label": "Superstar-ex2"
+      },
+      {
+        "value": "Awakening Blade",
+        "label": "Sword Master-s1"
+      },
+      {
+        "value": "Resonating Blade",
+        "label": "Sword Master-s2"
+      },
+      {
+        "value": "Energize",
+        "label": "Sword Master-s3"
+      },
+      {
+        "value": "Contrablade",
+        "label": "Sword Master-ex1"
+      },
+      {
+        "value": "Crack Shot",
+        "label": "Thief-s1"
+      },
+      {
+        "value": "Bounty Hunter",
+        "label": "Thief-s2"
+      },
+      {
+        "value": "Drive It In II",
+        "label": "Valkyrie-s1"
+      },
+      {
+        "value": "Double Trouble III",
+        "label": "Valkyrie-s2"
+      },
+      {
+        "value": "Resonating Surge",
+        "label": "Valkyrie-s3"
+      },
+      {
+        "value": "Randgrith",
+        "label": "Valkyrie-ex1"
+      },
+      {
+        "value": "Einherjar",
+        "label": "Valkyrie-ex2"
+      },
+      {
+        "value": "Aether Blast III",
+        "label": "Warlock-s1"
+      },
+      {
+        "value": "Dark Haze",
+        "label": "Warlock-ex1"
+      },
+      {
+        "value": "Aether Bane",
+        "label": "Warlock-ex2"
+      },
+      {
+        "value": "Chaser",
+        "label": "Warlock-ex3"
+      },
+      {
+        "value": "Resounding Chant",
+        "label": "Warlock-ex4"
+      },
+      {
+        "value": "Demonic Flare",
+        "label": "Warlock-umex1"
+      },
+      {
+        "value": "Arcane Field",
+        "label": "Warlock-umex2"
+      },
+      {
+        "value": "Crest Discharge",
+        "label": "Warlock-umex3"
+      },
+      {
+        "value": "Full Arsenal",
+        "label": "Warrior-s1"
+      },
+      {
+        "value": "Rage II",
+        "label": "Warrior-s2"
+      },
+      {
+        "value": "Armor Break",
+        "label": "Warrior-s3"
+      },
+      {
+        "value": "Full Arsenal II",
+        "label": "Weapon Master-s1"
+      },
+      {
+        "value": "Rampage",
+        "label": "Weapon Master-s2"
+      },
+      {
+        "value": "Rage III",
+        "label": "Weapon Master-s3"
+      },
+      {
+        "value": "Brave Soul",
+        "label": "Weapon Master-ex1"
+      },
+      {
+        "value": "Power Raise",
+        "label": "Weapon Master-ex2"
+      },
+      {
+        "value": "Aether Blast",
+        "label": "Wizard-s1"
+      },
+      {
+        "value": "Fire",
+        "label": "Wizard-s2"
+      },
+      {
+        "value": "Knifehand Strike",
+        "label": "Luchador-s1"
+      },
+      {
+        "value": "Ring Ruler",
+        "label": "Luchador-ex1"
+      },
+      {
+        "value": "Mic Hype",
+        "label": "Luchador-ex2"
+      },
+      {
+        "value": "Tag Team",
+        "label": "Luchador-ex3"
+      },
+      {
+        "value": "Lucha de Parejas",
+        "label": "Luchador-umex1"
+      },
+      {
+        "value": "Fight Song",
+        "label": "Luchador-umex2"
+      },
+      {
+        "value": "Vez de Rudo",
+        "label": "Luchador-umex3"
+      },
+      {
+        "value": "Evasive Maneuvers",
+        "label": "Nighthound-s1"
+      },
+      {
+        "value": "Tactical Relocation",
+        "label": "Nighthound-ex1"
+      },
+      {
+        "value": "Frequency Jam",
+        "label": "Nighthound-ex2"
+      },
+      {
+        "value": "Twilight Zone",
+        "label": "Nighthound-ex3"
+      },
+      {
+        "value": "Judicious Shot",
+        "label": "Nighthound-ex4"
+      },
+      {
+        "value": "Time On Target",
+        "label": "Nighthound-ex5"
+      },
+      {
+        "value": "Homing Beacon",
+        "label": "Nighthound-umex1"
+      },
+      {
+        "value": "Stealth Protocol",
+        "label": "Nighthound-umex2"
+      },
+      {
+        "value": "Rearguard Relocation",
+        "label": "Nighthound-umex3"
+      },
+      {
+        "value": "Thunder on the Water",
+        "label": "Apsaras-s1"
+      },
+      {
+        "value": "Swan Song",
+        "label": "Apsaras-ex1"
+      },
+      {
+        "value": "Dance of Zeal",
+        "label": "Apsaras-ex2"
+      },
+      {
+        "value": "Springwater Robe",
+        "label": "Apsaras-ex3"
+      },
+      {
+        "value": "Crestfallen Flower",
+        "label": "Apsaras-ex4"
+      },
+      {
+        "value": "Lightning Strike",
+        "label": "Apsaras-ex5"
+      },
+      {
+        "value": "Nyagrodha",
+        "label": "Apsaras-umex1"
+      },
+      {
+        "value": "Crowning Fluidity",
+        "label": "Apsaras-umex2"
+      },
+      {
+        "value": "Showstopper",
+        "label": "Apsaras-umex3"
+      },
+      {
+        "value": "Concludere",
+        "label": "Elysian-s1"
+      },
+      {
+        "value": "Dirge for the Dead",
+        "label": "Elysian-ex1"
+      },
+      {
+        "value": "Voice Unveiled",
+        "label": "Elysian-ex2"
+      },
+      {
+        "value": "Call of the Abyss",
+        "label": "Elysian-ex3"
+      },
+      {
+        "value": "Oratorio",
+        "label": "Elysian-ex4"
+      },
+      {
+        "value": "Flageolet",
+        "label": "Elysian-umex1"
+      },
+      {
+        "value": "Diatonic Harmony",
+        "label": "Elysian-umex2"
+      },
+      {
+        "value": "Accelerando",
+        "label": "Elysian-umex3"
+      },
+      {
+        "value": "Drum Roll",
+        "label": "Drum Master-s1"
+      },
+      {
+        "value": "Never Miss a Beat",
+        "label": "Drum Master-s2"
+      },
+      {
+        "value": "Resounding Rhythm",
+        "label": "Drum Master-s3"
+      },
+      {
+        "value": "Resonate Rhythm",
+        "label": "Drum Master-ex1"
+      },
+      {
+        "value": "Spellbound Salsa",
+        "label": "Dancer-s1"
+      },
+      {
+        "value": "Classical Lead",
+        "label": "Dancer-s2"
+      },
+      {
+        "value": "Two to Tango",
+        "label": "Dancer-s3"
+      },
+      {
+        "value": "Pas Seul",
+        "label": "Dancer-ex1"
+      },
+      {
+        "value": "Activate",
+        "label": "Mechanic-s1"
+      },
+      {
+        "value": "Customized Action",
+        "label": "Mechanic-s2"
+      },
+      {
+        "value": "Refuel",
+        "label": "Mechanic-s3"
+      },
+      {
+        "value": "Actuation",
+        "label": "Mechanic-ex1"
+      },
+      {
+        "value": "Glory Arts",
+        "label": "Glorybringer-s1"
+      },
+      {
+        "value": "Espada",
+        "label": "Glorybringer-ex1"
+      },
+      {
+        "value": "Al Doble",
+        "label": "Glorybringer-ex2"
+      },
+      {
+        "value": "Colmillos",
+        "label": "Glorybringer-ex3"
+      },
+      {
+        "value": "Glorious Vow",
+        "label": "Glorybringer-umex1"
+      },
+      {
+        "value": "Gloryblade",
+        "label": "Glorybringer-umex2"
+      },
+      {
+        "value": "Mastery's Edge",
+        "label": "Glorybringer-umex3"
+      },
+      {
+        "value": "Cat's Meow",
+        "label": "Nekomancer-s1"
+      },
+      {
+        "value": "Black Cat's Path",
+        "label": "Nekomancer-ex1"
+      },
+      {
+        "value": "Moonshadow",
+        "label": "Nekomancer-ex2"
+      },
+      {
+        "value": "Paws of Power",
+        "label": "Nekomancer-ex3"
+      },
+      {
+        "value": "Oculus Felis",
+        "label": "Nekomancer-umex1"
+      },
+      {
+        "value": "Matatabby",
+        "label": "Nekomancer-umex2"
+      },
+      {
+        "value": "Scratching Post",
+        "label": "Nekomancer-umex3"
+      },
+      {
+        "value": "One with the Blade",
+        "label": "Kengo-s1"
+      },
+      {
+        "value": "Eagle Reversal",
+        "label": "Kengo-ex1"
+      },
+      {
+        "value": "No More Doubt",
+        "label": "Kengo-ex2"
+      },
+      {
+        "value": "Rending Flash",
+        "label": "Kengo-ex3"
+      },
+      {
+        "value": "Nocked Exorcism",
+        "label": "Kengo-umex1"
+      },
+      {
+        "value": "Secret Style: Blink Slash",
+        "label": "Kengo-umex2"
+      },
+      {
+        "value": "Intuition",
+        "label": "Kengo-umex3"
+      },
+      {
+        "value": "Runeweaving",
+        "label": "Runeslayer-s1"
+      },
+      {
+        "value": "Mana Burst",
+        "label": "Runeslayer-ex1"
+      },
+      {
+        "value": "Dragon Break",
+        "label": "Runeslayer-ex2"
+      },
+      {
+        "value": "Spell Boost",
+        "label": "Runeslayer-ex3"
+      },
+      {
+        "value": "Multiplying Magic",
+        "label": "Runeslayer-umex1"
+      },
+      {
+        "value": "Circle of Coalescence",
+        "label": "Runeslayer-umex2"
+      },
+      {
+        "value": "Quadruple Hex",
+        "label": "Runeslayer-umex3"
+      },
+      {
+        "value": "Potion Refinement",
+        "label": "Doctor-s1"
+      },
+      {
+        "value": "Nutrients",
+        "label": "Doctor-ex1"
+      },
+      {
+        "value": "Maddening Vitality",
+        "label": "Doctor-ex2"
+      },
+      {
+        "value": "Adrenaline Rush",
+        "label": "Doctor-ex3"
+      },
+      {
+        "value": "Primary Care",
+        "label": "Doctor-umex1"
+      },
+      {
+        "value": "Outperform",
+        "label": "Doctor-umex2"
+      },
+      {
+        "value": "High Immunity",
+        "label": "Doctor-umex3"
+      },
+      {
+        "value": "Blade Swap II",
+        "label": "Chrysaor-s1"
+      },
+      {
+        "value": "Dual Arts",
+        "label": "Chrysaor-ex1"
+      },
+      {
+        "value": "Diptych",
+        "label": "Chrysaor-ex2"
+      },
+      {
+        "value": "Aurum Flow",
+        "label": "Chrysaor-ex3"
+      },
+      {
+        "value": "Deuce Xiphos",
+        "label": "Chrysaor-umex1"
+      },
+      {
+        "value": "Astrapste",
+        "label": "Chrysaor-umex2"
+      },
+      {
+        "value": "Amber Edge",
+        "label": "Chrysaor-umex3"
+      },
+      {
+        "value": "Blade Swap",
+        "label": "Gladiator-s1"
+      },
+      {
+        "value": "Twin Coil",
+        "label": "Gladiator-s2"
+      },
+      {
+        "value": "Decimate",
+        "label": "Gladiator-s3"
+      },
+      {
+        "value": "Cross Guard",
+        "label": "Gladiator-ex1"
+      },
+      {
+        "value": "Chase Blade",
+        "label": "Gladiator-ex2"
+      },
+      {
+        "value": "Three-Round Burst",
+        "label": "Soldier-s1"
+      },
+      {
+        "value": "Open Fire",
+        "label": "Soldier-ex1"
+      },
+      {
+        "value": "Fortitude",
+        "label": "Soldier-ex2"
+      },
+      {
+        "value": "Guerrilla Tactics",
+        "label": "Soldier-ex3"
+      },
+      {
+        "value": "Combat Rations",
+        "label": "Soldier-umex1"
+      },
+      {
+        "value": "Immortal Operative",
+        "label": "Soldier-umex2"
+      },
+      {
+        "value": "Ammunition Belt",
+        "label": "Soldier-umex3"
+      },
+      {
+        "value": "Execute",
+        "label": "Tormentor-s1"
+      },
+      {
+        "value": "Devotion",
+        "label": "Tormentor-ex1"
+      },
+      {
+        "value": "Recursive Nightmare",
+        "label": "Tormentor-ex2"
+      },
+      {
+        "value": "Barbed Wire",
+        "label": "Tormentor-ex3"
+      },
+      {
+        "value": "Fatal Venom",
+        "label": "Tormentor-umex1"
+      },
+      {
+        "value": "Thousand Slices",
+        "label": "Tormentor-umex2"
+      },
+      {
+        "value": "Executing Blow",
+        "label": "Tormentor-umex3"
+      },
+      {
+        "value": "Rising Force",
+        "label": "Rising Force-s1"
+      },
+      {
+        "value": "Mosh Pit",
+        "label": "Rising Force-ex1"
+      },
+      {
+        "value": "Jet to Jet",
+        "label": "Rising Force-ex2"
+      },
+      {
+        "value": "Unleash the Fury",
+        "label": "Rising Force-ex3"
+      },
+      {
+        "value": "Fever Pitch",
+        "label": "Rising Force-umex1"
+      },
+      {
+        "value": "Pinch Harmonics",
+        "label": "Rising Force-umex2"
+      },
+      {
+        "value": "Everlasting Bonds",
+        "label": "Rising Force-umex3"
+      },
+      {
+        "value": "Woodcutter's Song",
+        "label": "Lumberjack-s1"
+      },
+      {
+        "value": "Laughing Logger",
+        "label": "Lumberjack-ex1"
+      },
+      {
+        "value": "Leaf Burning",
+        "label": "Lumberjack-ex2"
+      },
+      {
+        "value": "Dappled Sunlight",
+        "label": "Lumberjack-ex3"
+      },
+      {
+        "value": "Verdant Melody",
+        "label": "Lumberjack-umex1"
+      },
+      {
+        "value": "Birdsong of Balmy Breeze",
+        "label": "Lumberjack-umex2"
+      },
+      {
+        "value": "Log Lop",
+        "label": "Lumberjack-umex3"
+      },
+      {
+        "value": "Horseman's Duty",
+        "label": "Cavalier-s1"
+      },
+      {
+        "value": "Dragphract",
+        "label": "Cavalier-ex1"
+      },
+      {
+        "value": "Battering Ram",
+        "label": "Cavalier-ex2"
+      },
+      {
+        "value": "High Command",
+        "label": "Cavalier-ex3"
+      },
+      {
+        "value": "Valorous Assault",
+        "label": "Cavalier-umex1"
+      },
+      {
+        "value": "Mounted Bulwark",
+        "label": "Cavalier-umex2"
+      },
+      {
+        "value": "Field Commander",
+        "label": "Cavalier-umex3"
+      },
+      {
+        "value": "Ascetic Stance",
+        "label": "Monk-s1"
+      },
+      {
+        "value": "True Strike",
+        "label": "Monk-ex1"
+      },
+      {
+        "value": "Unyielding Form",
+        "label": "Monk-ex2"
+      },
+      {
+        "value": "Rock Crusher",
+        "label": "Monk-ex3"
+      },
+      {
+        "value": "Mystic Restoration",
+        "label": "Monk-umex1"
+      },
+      {
+        "value": "Fervent Focus",
+        "label": "Monk-umex2"
+      },
+      {
+        "value": "Enlightened Fury",
+        "label": "Monk-umex3"
+      },
+      {
+        "value": "Opening Shot",
+        "label": "Robin Hood-s1"
+      },
+      {
+        "value": "Acrobatic Volley",
+        "label": "Robin Hood-ex1"
+      },
+      {
+        "value": "Emerald Fog",
+        "label": "Robin Hood-ex2"
+      },
+      {
+        "value": "Return of the Fox",
+        "label": "Robin Hood-ex3"
+      },
+      {
+        "value": "Thousand Arrows",
+        "label": "Robin Hood-umex1"
+      },
+      {
+        "value": "Rebellion Shot",
+        "label": "Robin Hood-umex2"
+      },
+      {
+        "value": "Rapid Nocking",
+        "label": "Robin Hood-umex3"
+      },
+      {
+        "value": "Sweeping Arrow",
+        "label": "Robin Hood-umex1a"
+      },
+      {
+        "value": "Deepshot Arrow",
+        "label": "Robin Hood-umex2a"
+      },
+      {
+        "value": "Affliction Arrow",
+        "label": "Robin Hood-umex3a"
+      },
+      {
+        "value": "Bait Step",
+        "label": "Masquerade-s1"
+      },
+      {
+        "value": "Bounce Chasse",
+        "label": "Masquerade-ex1"
+      },
+      {
+        "value": "Non-Sequence",
+        "label": "Masquerade-ex2"
+      },
+      {
+        "value": "Shall We Dance",
+        "label": "Masquerade-ex3"
+      },
+      {
+        "value": "On the Waltz",
+        "label": "Masquerade-umex1"
+      },
+      {
+        "value": "Spiral Turn",
+        "label": "Masquerade-umex2"
+      },
+      {
+        "value": "Martial Choreography",
+        "label": "Masquerade-umex3"
+      },
+      {
+        "value": "Engage Augments",
+        "label": "Relic Buster-s1"
+      },
+      {
+        "value": "Tactical Shield",
+        "label": "Relic Buster-ex1"
+      },
+      {
+        "value": "Limit Burst",
+        "label": "Relic Buster-ex2"
+      },
+      {
+        "value": "Blitz Raid",
+        "label": "Relic Buster-ex3"
+      },
+      {
+        "value": "Lightning Shot",
+        "label": "Relic Buster-umex1"
+      },
+      {
+        "value": "Hypervelocity",
+        "label": "Relic Buster-umex2"
+      },
+      {
+        "value": "Brutal Cell",
+        "label": "Relic Buster-umex3"
+      },
+      {
+        "value": "Norden Harr",
+        "label": "Viking-s1"
+      },
+      {
+        "value": "Banahogg",
+        "label": "Viking-ex1"
+      },
+      {
+        "value": "Vinland",
+        "label": "Viking-ex2"
+      },
+      {
+        "value": "Jomsborg",
+        "label": "Viking-ex3"
+      },
+      {
+        "value": "Elemental Phalanx",
+        "label": "Paladin-s1"
+      },
+      {
+        "value": "Noblesse Proteger",
+        "label": "Paladin-ex1"
+      },
+      {
+        "value": "Boosted Resistance",
+        "label": "Paladin-ex2"
+      },
+      {
+        "value": "Sacred Protection",
+        "label": "Paladin-ex3"
+      },
+      {
+        "value": "Vita Brevis",
+        "label": "Iatromantis-s1"
+      },
+      {
+        "value": "Amyntiko Fos",
+        "label": "Iatromantis-ex1"
+      },
+      {
+        "value": "Pneuma",
+        "label": "Iatromantis-ex2"
+      },
+      {
+        "value": "Megali Fotia",
+        "label": "Iatromantis-ex3"
+      },
+      {
+        "value": "Aether Siphon",
+        "label": "Manadiver-s1"
+      },
+      {
+        "value": "Wild Magica",
+        "label": "Manadiver-ex1"
+      },
+      {
+        "value": "Secret Triad",
+        "label": "Manadiver-ex2"
+      },
+      {
+        "value": "Overtrance",
+        "label": "Manadiver-ex3"
+      },
+      {
+        "value": "Take the Head",
+        "label": "Yamato-s1"
+      },
+      {
+        "value": "Watch and Wound",
+        "label": "Yamato-ex1"
+      },
+      {
+        "value": "Whitehail Gust",
+        "label": "Yamato-ex2"
+      },
+      {
+        "value": "Seasplitter",
+        "label": "Yamato-ex3"
+      },
+      {
+        "value": "Breath of the Serpent",
+        "label": "Yamato-umex1"
+      },
+      {
+        "value": "Ameno Totsuka",
+        "label": "Yamato-umex2"
+      },
+      {
+        "value": "Sanctifying Kagura",
+        "label": "Yamato-umex3"
+      },
+      {
+        "value": "Aperitif",
+        "label": "Street King-s1"
+      },
+      {
+        "value": "Couteau Royal",
+        "label": "Street King-ex1"
+      },
+      {
+        "value": "Parfait d'Amour",
+        "label": "Street King-ex2"
+      },
+      {
+        "value": "Le Manteau du Roi",
+        "label": "Street King-ex3"
+      },
+      {
+        "value": "Sealing Talisman",
+        "label": "Onmyoji-s1"
+      },
+      {
+        "value": "Shikigami: Mizuchi",
+        "label": "Onmyoji-ex1"
+      },
+      {
+        "value": "Celestial Genesis",
+        "label": "Onmyoji-ex2"
+      },
+      {
+        "value": "Execration / Five-Phase Seal",
+        "label": "Onmyoji-ex3"
+      },
+      {
+        "value": "Shield of Valor",
+        "label": "Shieldsworn-s1"
+      },
+      {
+        "value": "Assault Drive / Weapon Discharge",
+        "label": "Shieldsworn-ex1"
+      },
+      {
+        "value": "Marshaling Shout",
+        "label": "Shieldsworn-ex2"
+      },
+      {
+        "value": "Regimented Formation",
+        "label": "Shieldsworn-ex3"
+      },
+      {
+        "value": "Combat Shield",
+        "label": "Shieldsworn-umex1"
+      },
+      {
+        "value": "Defiance",
+        "label": "Shieldsworn-umex2"
+      },
+      {
+        "value": "Shield Hurl",
+        "label": "Shieldsworn-umex3"
+      },
+      {
+        "value": "Shiranui Stance",
+        "label": "Sumaibito-s1"
+      },
+      {
+        "value": "Ultimate Palm Strike",
+        "label": "Sumaibito-ex1"
+      },
+      {
+        "value": "In the Face of Adversity",
+        "label": "Sumaibito-ex2"
+      },
+      {
+        "value": "Sumai Meet",
+        "label": "Sumaibito-ex3"
+      },
+      {
+        "value": "Sky Splitter",
+        "label": "Sumaibito-ex1a"
+      },
+      {
+        "value": "Salt of Cleansing Spirits",
+        "label": "Sumaibito-ex2a"
+      },
+      {
+        "value": "Combat Spirit Infusion",
+        "label": "Sumaibito-ex3a"
+      },
+      {
+        "value": "Spirit Suppression",
+        "label": "Sumaibito-ex4a"
+      },
+      {
+        "value": "Transcendent Blue",
+        "label": "Orologia (Summon)-s1"
+      },
+      {
+        "value": "The Final Abstinence",
+        "label": "Zosimos-s1"
+      },
+      {
+        "value": "Armor Break Blue",
+        "label": "Evoking_Solomonis-s1"
+      },
+      {
+        "value": "Phalanx Blue",
+        "label": "Evoking_Solomonis-s2"
+      },
+      {
+        "value": "Decimate Blue",
+        "label": "Evoking_Solomonis-s3"
+      },
+      {
+        "value": "Full Arsenal Blue",
+        "label": "Evoking_Solomonis-s4"
+      },
+      {
+        "value": "Parabellum Rain",
+        "label": "Boogeyman-s1"
+      },
+      {
+        "value": "Blood Oath",
+        "label": "Boogeyman-ex1"
+      },
+      {
+        "value": "Bespoke Tailoring",
+        "label": "Boogeyman-ex2"
+      },
+      {
+        "value": "Sei Colpi",
+        "label": "Boogeyman-ex3"
+      },
+      {
+        "value": "Empezar a Tocar",
+        "label": "Mariachi-s1"
+      },
+      {
+        "value": "Pizzicato",
+        "label": "Mariachi-ex1"
+      },
+      {
+        "value": "Despierta, Mi Bien",
+        "label": "Mariachi-ex2"
+      },
+      {
+        "value": "Ultimate Ensemble",
+        "label": "Mariachi-ex3"
+      },
+      {
+        "value": "Ensemble of Heroes",
+        "label": "Mariachi-ex1a"
+      },
+      {
+        "value": "Ensemble of Warriors",
+        "label": "Mariachi-ex2a"
+      },
+      {
+        "value": "Full Arsenal IV",
+        "label": "Fighter Origin-s1"
+      },
+      {
+        "value": "Charge Conversion",
+        "label": "Fighter Origin-ex1"
+      },
+      {
+        "value": "Dawnbreak",
+        "label": "Fighter Origin-ex2"
+      },
+      {
+        "value": "Unlimited Boost",
+        "label": "Fighter Origin-ex3"
+      },
+      {
+        "value": "Drive It In III",
+        "label": "Lancer Origin-s1"
+      },
+      {
+        "value": "Spiral Impaler",
+        "label": "Lancer Origin-ex1"
+      },
+      {
+        "value": "Unbound Charge",
+        "label": "Lancer Origin-ex2"
+      },
+      {
+        "value": "Infinite Trouble",
+        "label": "Lancer Origin-ex3"
+      },
+      {
+        "value": "Aether Blast IV",
+        "label": "Wizard Origin-s1"
+      },
+      {
+        "value": "Burst Refrain",
+        "label": "Wizard Origin-ex1"
+      },
+      {
+        "value": "High Chaser",
+        "label": "Wizard Origin-ex2"
+      },
+      {
+        "value": "Aether Xenoglossia",
+        "label": "Wizard Origin-ex3"
+      },
+      {
+        "value": "Primal Arrow",
+        "label": "Ranger Origin-s1"
+      },
+      {
+        "value": "Ruthless Killstreak",
+        "label": "Ranger Origin-ex1"
+      },
+      {
+        "value": "Singular Shot",
+        "label": "Ranger Origin-ex2"
+      },
+      {
+        "value": "Limitless Focus",
+        "label": "Ranger Origin-ex3"
+      }
+    ]
+  },
+  "templates": {}
+}

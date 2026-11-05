@@ -4,7 +4,6 @@
   "templates": {
     "Status": {
       "1": {
-        "label": "status_name",
         "description": "Status name",
         "values": "statuslist"
       },
@@ -80,11 +79,10 @@
         "description": "Hide parts of the status (valid values: amount, wiki_comment, maybe others?)"
       }
     },
-    "Itm" : {
+    "Itm": {
       "1": {
-        "label": "item_name",
         "description": "Name of item (including characters, weapons, summons, and supplies)",
-        "values": [{ "list": "characters" }, { "list": "weapons" }, { "list": "summons" }]
+        "values": [{ "list": "characters" }, { "list": "weapons" }, { "list": "summons" }, { "list": "classes" }]
       },
       "nolink": {
         "flag": true,
@@ -139,7 +137,7 @@
         "boost": -50
       },
       "art": {
-        "description": "Select an art variant (A, B, C, D, etc)"
+        "description": "Select an art variant (A, B, C, D, EX, ST, ST2, etc)"
       },
       "uncap": {
         "description": "Set an uncap level (adds _★ to the label)"
@@ -152,6 +150,228 @@
         "description": "Add a suffix to the label",
         "boost": -30
       }
+    },
+    "Raidicon": {
+      "1": {
+        "description": "Raid icon term",
+        "values": [
+          "Shiva",
+          "Europa",
+          "Alexiel",
+          "Godsworn Alexiel",
+          "Grimnir",
+          "Metatron",
+          "Avatar",
+          "Rosequeen", "RQ",
+          "Michael",
+          "Gabriel",
+          "Raphael",
+          "Uriel",
+          "Mugen",
+          "Diaspora", "Dias", "Dias2", "Diaspora1", "Dias1",
+          "Siegfried", "Sieg",
+          "Siete",
+          "Seofon",
+          "Cosmos",
+          "Agastia",
+          "Paragon",
+          "Martial", "Martial Mastery", "Martial Mastery Trial",
+          "Omnimagia", "Omni Magia", "Esoteric", "Esoteric Mastery", "Esoteric Mastery Trial",
+          "Phantasmal Performer", "Virtuosic", "Virtuosic Mastery", "Virtuosic Mastery Trial",
+          "PBHL1", "PBHLdark", "Protobaha", "PBHL", "PBHLfire", "PBHLwater", "PBHLearth", "PBHLwind",
+          "UBHL1", "UBaha", "UBN", "UBHL", "UBHL2",
+          "Akasha", "Akasha1", "Akasha2", "Akasha3", "Akasha4",
+          "GO1", "Grandorder1", "GO2", "Grandorder2", "GO3", "Grandorder", "Grand Order", "Grandorder3", "GO",
+          "GOHL1", "GOHL2", "GOHL3", "GOHL4", "GOHL",
+          "Theworld1", "World1", "Theworld", "World", "Theworld2", "World2",
+          "Wilnas",
+          "Wamdus",
+          "Galleon",
+          "Ewiyar",
+          "Luwoh",
+          "Lu Woh",
+          "Fediel",
+          "Lindwurm",
+          "Belmervolk", "Prosperity Verboten",
+          "Nihuyvintae", "Mortality Verboten",
+          "Narophirmidas", "Liberation Verboten",
+          "Macutanmacar", "Desire Verboten",
+          "Papahlukruva", "Knowledge Verboten",
+          "Zamalvoch", "Sancity Verboten",
+          "Belmervolk Hard1", "Belmervolk Hard2",
+          "Nihuyvintae Hard1", "Nihuyvintae Hard2",
+          "Zamalvoch Hard1", "Zamalvoch Hard2",
+          "SUBHL",
+          "Hexa", "Tengen", "Hexa1", "Hexa2", "Hexa3",
+          "Faa0", "Faa02", "Faazero", "Faa Zero", "DRZ", "Faa01",
+          "Versusia", "Versusia1", "Versusia2",
+          "Tiamal", "Tiamat Malice",
+          "Levimal", "Leviathan Malice",
+          "Phronesis",
+          "Chevmal", "Lumimal", "Luminiera Malice",
+          "Animaanimus", "Anima Animus",
+          "Legion", "Legion Void",
+          "Atum",
+          "Tefnut",
+          "Bennu",
+          "Ra",
+          "Horus",
+          "Osiris",
+          "Tia Aura", "Tiaaura", "Tiamat Aura",
+          "Colo Ira", "Coloira", "Colossus Ira",
+          "Levi Mare", "Levimare", "Leviathan Mare",
+          "Yggy Arbos", "Yggyarbos", "Yggdrasil Arbos",
+          "Chev Credo", "Chevcredo", "Lumi Credo", "Lumicredo", "Luminiera Credo",
+          "Cele Ater", "Celeater", "Celeste Ater",
+          "HL", "Huanglong",
+          "QL", "Qilin",
+          "HLQL", "Huanglongqilin",
+          "FaaHL", "Lucihard", "LuciHL", "FaaHL2", "Wings", "FaaHL3", "FaaHL1",
+          "Belial", "Belial1", "Belial2",
+          "Bubs", "Bubs1", "Beelzebub", "Bubs2",
+          "UNF62", "Hitogata",
+          "UNF63", "Hekate",
+          "UNF64", "Nozuchi",
+          "UNF65", "Noire",
+          "UNF66", "Mars",
+          "UNF67", "Immortal Soul Dragon",
+          "UNF68", "Bermuda Triangle",
+          "UNF69", "Goldenwing Dragon",
+          "UNF70", "Farbigrabe",
+          "UNF71", "Cassiopeia",
+          "UNF72", "God Rabbit Teramax",
+          "UNF73", "Bastet",
+          "UNF74", "Tetragod",
+          "UNF75", "Commander Of Destruction",
+          "UNF76", "Soul Invoker",
+          "UNF77", "Vepar",
+          "UNF78", "Tart Man",
+          "UNF79", "Fairy Princess",
+          "UNF80", "Gagu",
+          "UNF81", "Blanche",
+          "UNF82", "Lodern",
+          "UNF83", "Urhirsch",
+          "UNF84", "Poppet Hareloom",
+          "Empty", "Null", "?"
+        ]
+      },
+      "size": {
+        "description": "Size of the icon (default 25)"
+      },
+      "link": {
+        "description": "Link to a page"
+      }
+    },
+    "Richitm": {
+      "1": {
+        "description": "Name of item (including characters, weapons, summons, and supplies)",
+        "values": [{ "list": "characters" }, { "list": "weapons" }, { "list": "summons" }, { "list": "classes" }]
+      },
+      "link": {
+        "description": "Set a custom link for the item"
+      },
+      "awk": {
+        "description": "Set an awakening icon",
+        "values": [
+          { "value": "atk", "label": "attack" },
+          { "value": "def", "label": "defense" },
+          { "value": "spec", "label": "special" },
+          { "value": "ca", "label": "charge attack" },
+          "skill",
+          "heal",
+          { "value": "ma", "label": "multiattack" }
+        ]
+      },
+      "ax": {
+        "description": "Set an AX skill icon",
+        "values": [
+          { "value": "atk", "label": "attack" },
+          { "value": "def", "label": "defense" },
+          "hp",
+          { "value": "ca", "label": "charge attack" },
+          { "value": "ma", "label": "multiattack" },
+          "exp",
+          "rupie"
+        ]
+      },
+      "bf": {
+        "description": "Set a befoulment skill icon icon",
+        "values": [
+          { "value": "atk", "label": "attack" },
+          { "value": "def", "label": "defense" },
+          { "value": "ma", "label": "multiattack" },
+          { "value": "ca", "label": "charge attack" },
+          "skill",
+          "hp",
+          { "value": "dot", "label": "turn damage" },
+          { "value": "dsr", "label": "debuff success rate" }
+        ]
+      },
+      "info": {
+        "description": "Adds a blue (!) tooltip icon with specified text"
+      },
+      "red": {
+        "description": "Adds a red (!) tooltip icon with specified text"
+      },
+      "swap": {
+        "description": "Adds a swap tooltip icon with specified swap options"
+      },
+      "trans": {
+        "description": "Transcendence stars (1-5)"
+      },
+      "transalt": {
+        "description": "Transcendence stars, left edge positioning (1-5)"
+      },
+      "lock": {
+        "description": "Adds a lock tooltip icon (any non-empty value is true)"
+      },
+      "ring": {
+        "description": "Adds a perpetuity ring icon (any non-empty value is true)"
+      },
+      "item": {
+        "description": "Adds an item image and link (any file with _square.jpg image link, similar to {{itm}})"
+      },
+      "itemtt": {
+        "description": "Add a tooltip to the item added by 'item' (requires 'item')"
+      },
+      "passive": {
+        "description": "Adds a passive tooltip icon for the given passive number (uses {{CharacterSupportSkill}})"
+      },
+      "custominfo": {
+        "description": "Adds the specified content in the top right (for use with custom [[File:]], {{icon}}, or {{label}})"
+      },
+      "custominfott": {
+        "description": "Adds a tooltip to 'custominfo' (requires 'custominfo')"
+      },
+      "art": {
+        "description": "Select an art variant (A, B, C, D, EX, ST, ST2, etc)"
+      },
+      "arttype": {
+        "description": "Select an art shape (default icon)",
+        "values": ["square", "icon", "tall", "full", { "value": "...", "description": "[Any named art type]" }]
+      },
+      "square": {
+        "description": "Use the square art shape (any non-empty value is true)"
+      },
+      "size": {
+        "description": "Set the image width (default 110, 63 for square images)"
+      },
+      "plus": {
+        "description": "Adds specified plus marks (input the number only)"
+      },
+      "text": {
+        "description": "Adds specified text over the image"
+      },
+      "showtitle": {
+        "description": "Show the item's name below it"
+      },
+      "title": {
+        "description": "Set a custom label for the item (requires 'showtitle')"
+      },
+      "grayscale": {
+        "description": "Make the item grayscale (any non-empty value is true)"
+      }
     }
+
   }
 }
