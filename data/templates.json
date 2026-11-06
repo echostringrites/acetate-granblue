@@ -1,6 +1,9 @@
 {
   "schema": 1,
-  "generated": "ac14599b-73e0-4c31-b71e-eb6d309d8136",
+  "generated": "5a78abdc-c929-406a-ad00-46dff7fc2424",
+  "valueLists": {
+    "bool": [ "true", "false" ]
+  },
   "templates": {
     "Status": {
       "1": {
@@ -371,7 +374,40 @@
       "grayscale": {
         "description": "Make the item grayscale (any non-empty value is true)"
       }
+    },
+    "CharacterSkill": {
+      "1": {
+        "description": "Character name",
+        "values": "characters"
+      },
+      "2": {
+        "label": "number",
+        "description": "Which skill to display (1-4)"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool"
+      },
+      "tooltip": {
+        "description": "Whether to show the tooltip with skill text (default true)",
+        "values": "bool"
+      },
+      "icononly": {
+        "description": "Whether to show the only the icon (default false)",
+        "values": "bool"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool"
+      },
+      "alt": {
+        "description": "Show an alternate skill version by its index (default 1)",
+        "boost": 10
+      },
+      "char": {
+        "description": "Whether to show the character instead of the skill icon (default false)",
+        "values": "bool"
+      }
     }
-
   }
 }
