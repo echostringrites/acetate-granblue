@@ -410,11 +410,14 @@
     "CharacterSkill": {
       "1": {
         "description": "Character name",
-        "values": "characters"
+        "values": "characters",
+        "boost": 20
       },
       "2": {
         "label": "number",
-        "description": "Which skill to display (1-4)"
+        "description": "Which skill to display",
+        "values": ["1", "2", "3", "4"],
+        "boost": 20
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
@@ -451,7 +454,8 @@
       },
       "2": {
         "label": "number",
-        "description": "Which skill to display (1-4, emp, domain, transcendence)"
+        "description": "Which skill to display",
+        "values": ["1", "2", "3", "4",  "emp", "domain", "transcendence"]
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
@@ -484,7 +488,8 @@
       },
       "2": {
         "label": "number",
-        "description": "Which charge attack to display (1-8)"
+        "description": "Which charge attack to display (1-8)",
+        "values": ["1", "2", "3", "4", "5", "6", "7", "8"]
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
@@ -509,7 +514,8 @@
     "ClassSkill": {
       "1": {
         "description": "Name of skill",
-        "values": "class_skills"
+        "values": "class_skills",
+        "boost": 20
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
@@ -546,7 +552,8 @@
       },
       "2": {
         "label": "number",
-        "description": "Which skill to display (1-3, master1-2)"
+        "description": "Which skill to display",
+        "values": ["1", "2", "3", "master1", "master2"]
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
@@ -590,11 +597,14 @@
     "WeaponSkill": {
       "1": {
         "description": "Name of weapon",
-        "values": "weapons"
+        "values": "weapons",
+        "boost": 30
       },
       "2": {
         "label": "number",
-        "description": "Which skill to display (1-4)"
+        "description": "Which skill to display (1-4)",
+        "values": ["1", "2", "3", "4"],
+        "boost": 30
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
