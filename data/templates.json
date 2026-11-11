@@ -1,8 +1,16 @@
 {
   "schema": 1,
-  "generated": "5a78abdc-c929-406a-ad00-46dff7fc2424",
+  "generated": "863fc9b5-e558-46df-b2ae-ff9095135aa4",
   "valueLists": {
-    "bool": [ "true", "false" ]
+    "bool": [ "true", "false" ],
+    "bool_true": [
+      { "value": "true", "boost": 99 },
+      { "value": "false" }
+    ],
+    "bool_false": [
+      { "value": "true", "boost": -99 },
+      { "value": "false" }
+    ]
   },
   "templates": {
     "Status": {
@@ -158,104 +166,128 @@
       "1": {
         "description": "Raid icon term",
         "values": [
-          "Shiva",
-          "Europa",
-          "Alexiel",
-          "Godsworn Alexiel",
-          "Grimnir",
-          "Metatron",
-          "Avatar",
-          "Rosequeen", "RQ",
-          "Michael",
-          "Gabriel",
-          "Raphael",
-          "Uriel",
-          "Mugen",
-          "Diaspora", "Dias", "Dias2", "Diaspora1", "Dias1",
-          "Siegfried", "Sieg",
-          "Siete",
-          "Seofon",
-          "Cosmos",
-          "Agastia",
-          "Paragon",
-          "Martial", "Martial Mastery", "Martial Mastery Trial",
-          "Omnimagia", "Omni Magia", "Esoteric", "Esoteric Mastery", "Esoteric Mastery Trial",
-          "Phantasmal Performer", "Virtuosic", "Virtuosic Mastery", "Virtuosic Mastery Trial",
-          "PBHL1", "PBHLdark", "Protobaha", "PBHL", "PBHLfire", "PBHLwater", "PBHLearth", "PBHLwind",
-          "UBHL1", "UBaha", "UBN", "UBHL", "UBHL2",
-          "Akasha", "Akasha1", "Akasha2", "Akasha3", "Akasha4",
-          "GO1", "Grandorder1", "GO2", "Grandorder2", "GO3", "Grandorder", "Grand Order", "Grandorder3", "GO",
-          "GOHL1", "GOHL2", "GOHL3", "GOHL4", "GOHL",
-          "Theworld1", "World1", "Theworld", "World", "Theworld2", "World2",
-          "Wilnas",
-          "Wamdus",
-          "Galleon",
-          "Ewiyar",
-          "Luwoh",
-          "Lu Woh",
-          "Fediel",
-          "Lindwurm",
-          "Belmervolk", "Prosperity Verboten",
-          "Nihuyvintae", "Mortality Verboten",
-          "Narophirmidas", "Liberation Verboten",
-          "Macutanmacar", "Desire Verboten",
-          "Papahlukruva", "Knowledge Verboten",
-          "Zamalvoch", "Sancity Verboten",
-          "Belmervolk Hard1", "Belmervolk Hard2",
-          "Nihuyvintae Hard1", "Nihuyvintae Hard2",
-          "Zamalvoch Hard1", "Zamalvoch Hard2",
-          "SUBHL",
-          "Hexa", "Tengen", "Hexa1", "Hexa2", "Hexa3",
-          "Faa0", "Faa02", "Faazero", "Faa Zero", "DRZ", "Faa01",
-          "Versusia", "Versusia1", "Versusia2",
-          "Tiamal", "Tiamat Malice",
-          "Levimal", "Leviathan Malice",
-          "Phronesis",
-          "Chevmal", "Lumimal", "Luminiera Malice",
-          "Animaanimus", "Anima Animus",
-          "Legion", "Legion Void",
-          "Atum",
-          "Tefnut",
-          "Bennu",
-          "Ra",
-          "Horus",
-          "Osiris",
-          "Tia Aura", "Tiaaura", "Tiamat Aura",
-          "Colo Ira", "Coloira", "Colossus Ira",
-          "Levi Mare", "Levimare", "Leviathan Mare",
-          "Yggy Arbos", "Yggyarbos", "Yggdrasil Arbos",
-          "Chev Credo", "Chevcredo", "Lumi Credo", "Lumicredo", "Luminiera Credo",
-          "Cele Ater", "Celeater", "Celeste Ater",
-          "HL", "Huanglong",
-          "QL", "Qilin",
-          "HLQL", "Huanglongqilin",
-          "FaaHL", "Lucihard", "LuciHL", "FaaHL2", "Wings", "FaaHL3", "FaaHL1",
-          "Belial", "Belial1", "Belial2",
-          "Bubs", "Bubs1", "Beelzebub", "Bubs2",
-          "UNF62", "Hitogata",
-          "UNF63", "Hekate",
-          "UNF64", "Nozuchi",
-          "UNF65", "Noire",
-          "UNF66", "Mars",
-          "UNF67", "Immortal Soul Dragon",
-          "UNF68", "Bermuda Triangle",
-          "UNF69", "Goldenwing Dragon",
-          "UNF70", "Farbigrabe",
-          "UNF71", "Cassiopeia",
-          "UNF72", "God Rabbit Teramax",
-          "UNF73", "Bastet",
-          "UNF74", "Tetragod",
-          "UNF75", "Commander Of Destruction",
-          "UNF76", "Soul Invoker",
-          "UNF77", "Vepar",
-          "UNF78", "Tart Man",
-          "UNF79", "Fairy Princess",
-          "UNF80", "Gagu",
-          "UNF81", "Blanche",
-          "UNF82", "Lodern",
-          "UNF83", "Urhirsch",
-          "UNF84", "Poppet Hareloom",
-          "Empty", "Null", "?"
+          "shiva",
+          "europa",
+          "alexiel", "godsworn alexiel",
+          "grimnir",
+          "metatron",
+          "avatar",
+          "rosequeen", "rq",
+          "michael",
+          "gabriel",
+          "raphael",
+          "uriel",
+          "mugen",
+          "diaspora", "dias", "dias2",
+          "diaspora1", "dias1",
+          "siegfried", "sieg",
+          "siete", "seofon",
+          "cosmos",
+          "agastia",
+          "paragon", "martial", "martial mastery", "martial mastery trial",
+          "omnimagia", "omni magia", "esoteric", "esoteric mastery", "esoteric mastery trial",
+          "phantasmal performer", "virtuosic", "virtuosic mastery", "virtuosic mastery trial",
+          "pbhl1", "pbhldark", "protobaha",
+          "pbhl",
+          "pbhlfire",
+          "pbhlwater",
+          "pbhlearth",
+          "pbhlwind",
+          "ubhl1", "ubaha", "ubn",
+          "ubhl", "ubhl2",
+          "akasha", "akasha1",
+          "akasha2",
+          "akasha3",
+          "akasha4",
+          "go1", "grandorder1",
+          "go2", "grandorder2",
+          "go3", "grandorder", "grand order", "grandorder3", "go",
+          "gohl1",
+          "gohl2",
+          "gohl3",
+          "gohl4", "gohl",
+          "theworld1", "world1",
+          "theworld", "world", "theworld2", "world2",
+          "wilnas",
+          "wamdus",
+          "galleon",
+          "ewiyar",
+          "luwoh", "lu woh",
+          "fediel",
+          "lindwurm",
+          "belmervolk", "prosperity verboten",
+          "nihuyvintae", "mortality verboten",
+          "narophirmidas", "liberation verboten",
+          "macutanmacar", "desire verboten",
+          "papahlukruva", "knowledge verboten",
+          "zamalvoch", "sancity verboten",
+          "belmervolk hard1",
+          "belmervolk hard2",
+          "nihuyvintae hard1",
+          "nihuyvintae hard2",
+          "zamalvoch hard1",
+          "zamalvoch hard2",
+          "subhl",
+          "hexa", "tengen",
+          "hexa1",
+          "hexa2",
+          "hexa3",
+          "faa0", "faa02", "faazero", "faa zero", "drz",
+          "faa01",
+          "versusia", "versusia1",
+          "versusia2",
+          "tiamal", "tiamat malice",
+          "levimal", "leviathan malice",
+          "phronesis",
+          "chevmal", "lumimal", "luminiera malice",
+          "animaanimus", "anima animus",
+          "legion", "legion void",
+          "atum",
+          "tefnut",
+          "bennu",
+          "ra",
+          "horus",
+          "osiris",
+          "tia aura", "tiaaura", "tiamat aura",
+          "colo ira", "coloira", "colossus ira",
+          "levi mare", "levimare", "leviathan mare",
+          "yggy arbos", "yggyarbos", "yggdrasil arbos",
+          "chev credo", "chevcredo", "lumi credo", "lumicredo", "luminiera credo",
+          "cele ater", "celeater", "celeste ater",
+          "hl", "huanglong",
+          "ql", "qilin",
+          "hlql", "huanglongqilin",
+          "faahl", "lucihard", "lucihl", "faahl2",
+          "wings", "faahl3",
+          "faahl1",
+          "belial", "belial1",
+          "belial2",
+          "bubs", "bubs1", "beelzebub",
+          "bubs2",
+          "unf62", "hitogata",
+          "unf63", "hekate",
+          "unf64", "nozuchi",
+          "unf65", "noire",
+          "unf66", "mars",
+          "unf67", "immortal soul dragon",
+          "unf68", "bermuda triangle",
+          "unf69", "goldenwing dragon",
+          "unf70", "farbigrabe",
+          "unf71", "cassiopeia",
+          "unf72", "god rabbit teramax",
+          "unf73", "bastet",
+          "unf74", "tetragod",
+          "unf75", "commander of destruction",
+          "unf76", "soul invoker",
+          "unf77", "vepar",
+          "unf78", "tart man",
+          "unf79", "fairy princess",
+          "unf80", "gagu",
+          "unf81", "blanche",
+          "unf82", "lodern",
+          "unf83", "urhirsch",
+          "unf84", "poppet hareloom",
+          "empty", "null", "?"
         ]
       },
       "size": {
@@ -386,19 +418,19 @@
       },
       "icon": {
         "description": "Whether to show the icon (default true)",
-        "values": "bool"
+        "values": "bool_false"
       },
       "tooltip": {
         "description": "Whether to show the tooltip with skill text (default true)",
-        "values": "bool"
+        "values": "bool_false"
       },
       "icononly": {
         "description": "Whether to show the only the icon (default false)",
-        "values": "bool"
+        "values": "bool_true"
       },
       "large": {
         "description": "Whether to use the larger icon format (default false)",
-        "values": "bool"
+        "values": "bool_true"
       },
       "alt": {
         "description": "Show an alternate skill version by its index (default 1)",
@@ -406,7 +438,237 @@
       },
       "char": {
         "description": "Whether to show the character instead of the skill icon (default false)",
-        "values": "bool"
+        "values": "bool_true"
+      },
+      "size": {
+        "description": "Set the icon size (default 25, ignored if 'large'=true)"
+      }
+    },
+    "CharacterSupportSkill": {
+      "1": {
+        "description": "Name of character",
+        "values": "character"
+      },
+      "2": {
+        "label": "number",
+        "description": "Which skill to display (1-4, emp, domain, transcendence)"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool_false"
+      },
+      "tooltip": {
+        "description": "Whether to show the tooltip with support skill text (default true)",
+        "values": "bool_false"
+      },
+      "icononly": {
+        "description": "Whether to show the only the icon (default false)",
+        "values": "bool_true"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool_true"
+      },
+      "showclass": {
+        "description": "Whether to show the class instead of the skill icon (default false)",
+        "values": "bool_true"
+      },
+      "size": {
+        "description": "Set the icon size (default 25, ignored if 'large'=true)"
+      }
+    },
+    "CharacterOugi": {
+      "1": {
+        "description": "Name of character",
+        "values": "characters"
+      },
+      "2": {
+        "label": "number",
+        "description": "Which charge attack to display (1-8)"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool_false"
+      },
+      "icononly": {
+        "description": "Whether to show the only the icon (default false)",
+        "values": "bool_true"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool_true"
+      },
+      "char": {
+        "description": "Whether to show the character icon instead of the generic CA icon (default false)",
+        "values": "bool_true"
+      },
+      "link": {
+        "description": "Set a custom link (default character page)"
+      }
+    },
+    "ClassSkill": {
+      "1": {
+        "description": "Name of skill",
+        "values": "class_skills"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool_false"
+      },
+      "tooltip": {
+        "description": "Whether to show the tooltip with skill text (default true)",
+        "values": "bool_false"
+      },
+      "icononly": {
+        "description": "Whether to show the only the icon (default false)",
+        "values": "bool_true"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool_true"
+      },
+      "alt": {
+        "description": "Show an alternate skill version by its index (default 1)",
+        "boost": 10
+      },
+      "showclass": {
+        "description": "Whether to show the class instead of the skill icon (default false)",
+        "values": "bool_true"
+      },
+      "size": {
+        "description": "Set the icon size (default 25, ignored if 'large'=true)"
+      }
+    },
+    "ClassSupportSkill": {
+      "1": {
+        "description": "Name of class",
+        "values": "class"
+      },
+      "2": {
+        "label": "number",
+        "description": "Which skill to display (1-3, master1-2)"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool_false"
+      },
+      "tooltip": {
+        "description": "Whether to show the tooltip with support skill text (default true)",
+        "values": "bool_false"
+      },
+      "icononly": {
+        "description": "Whether to show the only the icon (default false)",
+        "values": "bool_true"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool_true"
+      },
+      "showclass": {
+        "description": "Whether to show the class instead of the skill icon (default false)",
+        "values": "bool_true"
+      },
+      "size": {
+        "description": "Set the icon size (default 25, ignored if 'large'=true)"
+      }
+    },
+    "ClassIcon": {
+      "1": {
+        "description": "Class name",
+        "values": "classes"
+      },
+      "size": {
+        "description": "Set the image width (default x25px, passed directly to [[File:]])"
+      },
+      "link": {
+        "description": "Link the icon to the class page (any non-empty value is true)"
+      },
+      "text": {
+        "description": "Add a text link to the class page (any non-empty value is true)"
+      }
+    },
+    "WeaponSkill": {
+      "1": {
+        "description": "Name of weapon",
+        "values": "weapons"
+      },
+      "2": {
+        "label": "number",
+        "description": "Which skill to display (1-4)"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool_false"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool_true"
+      },
+      "upgrade": {
+        "description": "Weapon upgrade level (1-3)",
+        "boost": 20
+      },
+      "alt": {
+        "description": "Show an alternate skill version by its index (a1-4, default 'base')",
+        "boost": 10
+      }
+    },
+    "WeaponOugi": {
+      "1": {
+        "description": "Name of weapon",
+        "values": "weapons"
+      },
+      "icon": {
+        "description": "Whether to show the icon (default true)",
+        "values": "bool_false"
+      },
+      "icononly": {
+        "description": "Whether to show the only the icon (default false)",
+        "values": "bool_true"
+      },
+      "large": {
+        "description": "Whether to use the larger icon format (default false)",
+        "values": "bool_true"
+      },
+      "char": {
+        "description": "Whether to show the weapon icon instead of the generic CA icon (default false)",
+        "values": "bool_true"
+      },
+      "link": {
+        "description": "Set a custom link (default weapon page)"
+      },
+      "upgrade": {
+        "description": "Weapon upgrade level (1-3)"
+      }
+    },
+    "Icon": {
+      "1": {
+        "description": "Icon term",
+        "values": "icon"
+      },
+      "size": {
+        "description": "Set the width or height in pixels, prefix with x for height (default 25)"
+      },
+      "link": {
+        "description": "Link to a page"
+      },
+      "alt": {
+        "description": "Set the alt text (shown on hover)"
+      }
+    },
+    "Label": {
+      "1": {
+        "description": "Label term",
+        "values": "label"
+      },
+      "size": {
+        "description": "Set the width or height in pixels, prefix with x for height (default x26)"
+      },
+      "link": {
+        "description": "Link to a page"
+      },
+      "alt": {
+        "description": "Set the alt text (shown on hover)"
       }
     }
   }
